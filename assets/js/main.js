@@ -404,6 +404,7 @@
 						$main._show(location.hash.substr(1), true);
 					});
 			
+			
 			//Language
 			if (language == "ja")
 				window.location.href = "././en/index.html/";
