@@ -406,8 +406,8 @@
 			
 			//Language
 			if (language == "japanese")
-				window.location.href = "././ja/";
+				window.location.href = "././ja";
 			else
-				window.location.href = "././en/";
+				window.location.href = "././en";
 
 })(jQuery);
