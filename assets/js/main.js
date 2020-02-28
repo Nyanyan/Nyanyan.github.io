@@ -405,7 +405,7 @@
 					});
 			
 			//Language
-			if (language == "japanese")
+			if (language == "jp")
 				window.location.href = "././ja";
 			else
 				window.location.href = "././en";
