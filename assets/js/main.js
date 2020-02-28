@@ -391,12 +391,6 @@
 
 			}
 
-		//Language
-			if (language == "ja")
-				window.location.href = "././en/index.html";
-			else
-				window.location.href = "././ja/index.html";
-
 		// Initialize.
 
 			// Hide main, articles.
@@ -409,5 +403,11 @@
 					$window.on('load', function() {
 						$main._show(location.hash.substr(1), true);
 					});
+			
+			//Language
+			if (language == "ja")
+				window.location.href = "././en/index.html";
+			else
+				window.location.href = "././ja/index.html";
 
 })(jQuery);
