@@ -404,10 +404,10 @@
 						$main._show(location.hash.substr(1), true);
 					});
 			
-					
+
 			//Language
 			if (language == "jp")
-				window.location.href = "https://nyanyan.github.io/ja";
+				window.location.href = "https://nyanyan.github.io/en";
 			else
 				window.location.href = "https://nyanyan.github.io/ja";
 			
