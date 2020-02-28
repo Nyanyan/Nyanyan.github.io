@@ -404,12 +404,11 @@
 						$main._show(location.hash.substr(1), true);
 					});
 			
-			/*
 			//Language
 			if (language == "jp")
-				window.location.href = "././ja";
+				window.location.href = "https://nyanyan.github.io/ja";
 			else
-				window.location.href = "././en";
-			*/
+				window.location.href = "https://nyanyan.github.io/ja";
+			
 
 })(jQuery);
