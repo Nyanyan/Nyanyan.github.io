@@ -392,6 +392,11 @@
 			}
 
 		// Initialize.
+			//Language
+			if (language == 'ja')
+				window.location.href = "https://nyanyan.github.io/ja";
+			else
+				window.location.href = "https://nyanyan.github.io/en";
 
 			// Hide main, articles.
 				$main.hide();
@@ -403,13 +408,6 @@
 					$window.on('load', function() {
 						$main._show(location.hash.substr(1), true);
 					});
-			
-
-			//Language
-			if (language == 'ja')
-				window.location.href = "https://nyanyan.github.io/ja";
-			else
-				window.location.href = "https://nyanyan.github.io/en";
 			
 
 })(jQuery);
