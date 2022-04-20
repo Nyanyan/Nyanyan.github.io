@@ -4,9 +4,7 @@
 
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Nyanyan(Takuto Yamana)'s Website" data-url="https://nyanyan.github.io/" data-related="takuto_yamana,Nyanyan_Cube" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <a href=./../en/>English</a>
 
-<img src="./../img/Nyanyan.jpg" alt="Nyanyan" style="zoom:50%;" />
-
-
+![Nyanyan](./../img/Nyanyan.jpg)
 
 ## メイカーとしての私
 
@@ -48,7 +46,7 @@
 
 ### ギャラリー
 
-<img src="./../img/yamax.jpg" alt="yamax" style="zoom:25%;" /><img src="./../img/created_cubes.jpg" alt="created_cubes" style="zoom:25%;" /><img src="./../img/soltvvo.jpg" alt="soltvvo" style="zoom:25%;" /><img src="./../img/retroreversi.jpg" alt="retroreversiAI" style="zoom:25%;" /><img src="./../img/egaroucid.png" alt="egaroucid" style="zoom:25%;" />
+![yamax](../img/yamax.jpg)![soltvvo](../img/soltvvo.jpg)![created_cubes](../img/created_cubes.jpg)![retroreversi](../img/retroreversi.jpg)![egaroucid](../img/egaroucid.jpg)
 
 
 
@@ -64,13 +62,15 @@
 
 ### ギャラリー
 
-<img src="./../img/cubing.jpg" alt="cubing" style="zoom:50%;" />
+<img src="./../img/cubing.jpg" alt="cubing" style="zoom:25%;" />
 
 
 
 
 
 ## 私のその他の側面
+
+### 趣味
 
 他にもこんなことが好きです。
 
@@ -79,10 +79,11 @@
 * 合唱
 * 折り紙
 * 切り絵
+* 写真
 
+### ギャラリー
 
-
-
+<img src="./../img/jpho.jpg" alt="jpho" style="zoom:25%;" /><img src="./../img/photo1.jpg" alt="photo1"" /><img src="./../img/photo2.jpg" alt="photo2" style="zoom:10%;" /><img src="./../img/photo3.jpg" alt="photo3" style="zoom:10%;" /><img src="./../img/photo4.jpg" alt="photo4" style="zoom:10%;" />
 
 ## 成果
 
