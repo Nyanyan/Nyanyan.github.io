@@ -1,10 +1,12 @@
+
+
 # にゃにゃん (山名琢翔)
 
 メイカー、スピードキューバー
 
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Nyanyan(Takuto Yamana)'s Website" data-url="https://nyanyan.github.io/" data-related="takuto_yamana,Nyanyan_Cube" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <a href=./../en/>English</a>
 
-![Nyanyan](./../img/Nyanyan.jpg)![icon](./../img/icon.jpg)
+<img src="./../img/Nyanyan.jpg" alt="Nyanyan" style="width:50%;" /><img src="./../img/icon.jpg" alt="icon" style="width:50%;" />
 
 ## メイカーとしての私
 
@@ -46,7 +48,11 @@
 
 ### ギャラリー
 
-![yamax](../img/yamax.jpg)![soltvvo](../img/soltvvo.jpg)![created_cubes](../img/created_cubes.jpg)![retroreversi](../img/retroreversi.jpg)![egaroucid](../img/egaroucid.jpg)
+<img src="./../img/yamax.jpg" alt="yamax" style="width:50%;" /><img src="./../img/created_cubes.jpg" alt="created_cubes" style="width:50%;" />
+
+<img src="./../img/soltvvo.jpg" alt="soltvvo" style="width:50%;" /><img src="./../img/retroreversi.jpg" alt="retroreversi" style="width:50%;" />
+
+<img src="./../img/egaroucid.jpg" alt="egaroucid" style="width:50%;" />
 
 
 
@@ -62,7 +68,7 @@
 
 ### ギャラリー
 
-![cubing](../img/cubing.jpg)
+<img src="./../img/cubing.jpg" alt="cubing" style="width:50%;" />
 
 
 
@@ -83,9 +89,11 @@
 
 ### ギャラリー
 
-![jpho](../img/jpho.jpg)![photo1](../img/photo1.jpg)![photo2](../img/photo2.jpg)![photo3](../img/photo3.jpg)![photo4](../img/photo4.jpg)
+<img src="./../img/jpho.jpg" alt="jpho" style="width:50%;" /><img src="./../img/photo1.jpg" alt="photo1" style="width:50%;" />
 
+<img src="./../img/photo2.jpg" alt="photo2" style="width:50%;" /><img src="./../img/photo3.jpg" alt="photo3" style="width:50%;" />
 
+<img src="./../img/photo4.jpg" alt="photo4" style="width:50%;" />
 
 
 
