@@ -27,7 +27,7 @@ Skills and assessment (max value is 100)
 
 My Projects: 
 
-| 年        | 名称             | 概要                                                       | 詳細・関連URL                                                |
+| Year      | Name             | Abstract                                                   | Detail & Related URL                                         |
 | --------- | ---------------- | ---------------------------------------------------------- | ------------------------------------------------------------ |
 | 2014      | Yamamijuta1      | A robot for RoboCup Junior Rescue A (Produced as a team)   | Loss at East Tokyo competition                               |
 | 2014-2019 | YamaX            | DIY Humanoid Robot (Produced as a group)                   | [Maker Faire Exhibit Page](https://makerfaire.com/maker/entry/67738/) |
@@ -109,7 +109,7 @@ Please see [World Cube Association Official records](https://www.worldcubeassoci
 
 Feel free to contact me!
 
-| SNS                               | アカウント                                               |
+| SNS                               | Account                                                  |
 | --------------------------------- | -------------------------------------------------------- |
 | Twitter (for submission of works) | https://twitter.com/takuto_yamana                        |
 | Twitter (for other purposes)      | https://twitter.com/Nyanyan_Cube                         |
