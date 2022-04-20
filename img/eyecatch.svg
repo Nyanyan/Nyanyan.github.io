@@ -26,7 +26,7 @@
      showgrid="false"
      inkscape:zoom="0.5499273"
      inkscape:cx="802.83339"
-     inkscape:cy="850.11236"
+     inkscape:cy="850.11237"
      inkscape:window-width="3840"
      inkscape:window-height="2081"
      inkscape:window-x="2391"
@@ -37,14 +37,14 @@
      id="defs2">
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath933">
+       id="clipPath1034">
       <rect
-         style="fill:#ffffff;stroke-width:0.0881944"
-         id="rect935"
+         style="fill:#ffffff;stroke-width:0.211666"
+         id="rect1036"
          width="338.66666"
-         height="190.5"
+         height="176.95332"
          x="-288.40549"
-         y="-10.442733" />
+         y="1.1989324" />
     </clipPath>
   </defs>
   <g
@@ -59,52 +59,52 @@
        id="image832"
        x="-288.40549"
        y="-10.442733"
-       inkscape:export-filename="C:\github\other\Nyanyan.github.io\eyecatch.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"
-       clip-path="url(#clipPath933)" />
+       inkscape:export-filename="C:\github\other\Nyanyan.github.io\img\eyecatch.png"
+       inkscape:export-xdpi="60"
+       inkscape:export-ydpi="60"
+       clip-path="url(#clipPath1034)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:17.6389px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-272.73862"
-       y="103.31597"
+       x="-273.70087"
+       y="105.7216"
        id="text1982"
        inkscape:export-filename="C:\github\other\Nyanyan.github.io\eyecatch.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="-272.73862"
-         y="103.31597"
+         x="-273.70087"
+         y="105.7216"
          id="tspan15236">Nyanyan - A Maker</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="39.222569"
-       y="8.4749708"
+       x="41.147064"
+       y="16.172958"
        id="text1982-0"
        inkscape:export-filename="C:\github\other\Nyanyan.github.io\eyecatch.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="39.222569"
-         y="8.4749708"
+         x="41.147064"
+         y="16.172958"
          id="tspan15236-3">Robot</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="39.222572"
-         y="21.820395"
+         x="41.147068"
+         y="29.518381"
          id="tspan19623">Algorithm</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="39.222572"
-         y="35.165821"
+         x="41.147068"
+         y="42.863808"
          id="tspan23042">Speedcubing</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="39.222569"
-         y="48.511246"
+         x="41.147064"
+         y="56.209232"
          id="tspan23044">Othello</tspan></text>
   </g>
 </svg>
