@@ -4,7 +4,7 @@ Maker, Speed Cuber
 
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Nyanyan(Takuto Yamana)'s Website" data-url="https://nyanyan.github.io/" data-related="takuto_yamana,Nyanyan_Cube" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <a href=./../ja/>日本語</a>
 
-![Nyanyan](./../img/Nyanyan.jpg)![icon](../../img/icon.jpg)
+![Nyanyan](./../img/Nyanyan.jpg)![icon](./../img/icon.jpg)
 
 ## Me as a Maker
 
