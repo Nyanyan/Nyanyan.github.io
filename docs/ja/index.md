@@ -4,7 +4,7 @@
 
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Nyanyan(Takuto Yamana)'s Website" data-url="https://nyanyan.github.io/" data-related="takuto_yamana,Nyanyan_Cube" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <a href=./../en/>English</a>
 
-![Nyanyan](./../img/Nyanyan.jpg)
+![Nyanyan](./../img/Nyanyan.jpg)![icon](../../img/icon.jpg)
 
 ## メイカーとしての私
 
@@ -62,7 +62,7 @@
 
 ### ギャラリー
 
-<img src="./../img/cubing.jpg" alt="cubing" style="zoom:25%;" />
+![cubing](../img/cubing.jpg)
 
 
 
@@ -83,7 +83,11 @@
 
 ### ギャラリー
 
-<img src="./../img/jpho.jpg" alt="jpho" style="zoom:25%;" /><img src="./../img/photo1.jpg" alt="photo1"" /><img src="./../img/photo2.jpg" alt="photo2" style="zoom:10%;" /><img src="./../img/photo3.jpg" alt="photo3" style="zoom:10%;" /><img src="./../img/photo4.jpg" alt="photo4" style="zoom:10%;" />
+![jpho](../img/jpho.jpg)![photo1](../img/photo1.jpg)![photo2](../img/photo2.jpg)![photo3](../img/photo3.jpg)![photo4](../img/photo4.jpg)
+
+
+
+
 
 ## 成果
 
@@ -102,7 +106,7 @@
 | 2021 | クマ財団クリエイター奨学金採択           |
 | 2021 | 技育展2021無駄開発部門最優秀賞           |
 
-### 
+
 
 
 
