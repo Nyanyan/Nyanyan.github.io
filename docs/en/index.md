@@ -105,9 +105,10 @@ Please see [World Cube Association Official records](https://www.worldcubeassoci
 | 2019 | Silver Award in Japan Physics Olympiad 2019                  |
 | 2019 | Most Excellent Experiment Award in Japan Physics Olympiad 2019 |
 | 2020 | Most Excellent Award in Useless Development Category, Geekten |
-| 2021 | Chosen as a creator of Kuma Foundation                       |
+| 2021 | Chosen as a creator of Kuma Foundation 5th term              |
 | 2021 | Most Excellent Award in Useless Development Category, Geekten 2021 |
 | 2021 | 1st Place in the world (Othello, CodinGame)                  |
+| 2022 | Chosen as a creator of Kuma Foundation 6th term              |
 
 
 
