@@ -1,0 +1,3 @@
+Soltvvo
+A robot to solve a 2x2x2 rubik's cube fastest in the world
+2020

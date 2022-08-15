@@ -1,0 +1,3 @@
+Egaroucen
+World's weakest Othello AI
+2021-2022

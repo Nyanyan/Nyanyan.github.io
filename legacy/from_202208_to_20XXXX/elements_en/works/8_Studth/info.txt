@@ -1,0 +1,3 @@
+Studth
+Rubik's cube solving robot made of Artec Blocks
+2021

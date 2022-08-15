@@ -1,0 +1,3 @@
+Retro Othello AI
+Othello AI with 8 bit microcontrollers
+2021-2022

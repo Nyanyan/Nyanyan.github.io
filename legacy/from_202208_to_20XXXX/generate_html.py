@@ -1,24 +1,27 @@
 import glob
 import os
 import shutil
+import sys
 
 shutil.rmtree('generated')
 os.mkdir('generated')
 
-css_file = 'elements/style.css'
+elements_dir = sys.argv[1]
+
+css_file = elements_dir + '/style.css'
 
 generated = ''
 
-with open('elements/head.html', 'r', encoding='utf-8') as f:
+with open(elements_dir + '/head.html', 'r', encoding='utf-8') as f:
     head = f.read()
 
-with open('elements/foot.html', 'r', encoding='utf-8') as f:
+with open(elements_dir + '/foot.html', 'r', encoding='utf-8') as f:
     foot = f.read()
 
-with open('elements/sections.txt', 'r', encoding='utf-8') as f:
+with open(elements_dir + '/sections.txt', 'r', encoding='utf-8') as f:
     sections = f.read().splitlines()
 
-with open('elements/intro.html', 'r', encoding='utf-8') as f:
+with open(elements_dir + '/intro.html', 'r', encoding='utf-8') as f:
     generated += f.read()
 
 section_head1 = '<div>\n<h2>'
@@ -32,18 +35,18 @@ for section in sections:
     if not os.path.exists('generated/' + section_file):
         os.mkdir('generated/' + section_file)
     
-    with open('elements/' + section_file + '.html', 'r', encoding='utf-8') as f:
+    with open(elements_dir + '/' + section_file + '.html', 'r', encoding='utf-8') as f:
         generated += section_head1 + section_name + section_head2 + f.read() + section_foot
     
-    with open('elements/' + section_file + '/info.txt', 'r', encoding='utf-8') as f:
+    with open(elements_dir + '/' + section_file + '/info.txt', 'r', encoding='utf-8') as f:
         info_names = f.read().splitlines()
     
-    generated += '<table cellspacing="10%">\n<tr>\n'
+    generated += '<table>\n<tr>\n'
     for name in info_names:
         generated += '<th>' + name + '</th>'
     generated += '</tr>\n'
 
-    section_dirs = set(glob.glob('elements/' + section_file + '/*')) - set(glob.glob('elements/' + section_file + '/*.txt'))
+    section_dirs = set(glob.glob(elements_dir + '/' + section_file + '/*')) - set(glob.glob(elements_dir + '/' + section_file + '/*.txt'))
 
     section_dirs = list(section_dirs)
     section_dirs = [[int(elem.split('\\')[-1].split('_')[0]), elem] for elem in section_dirs]
@@ -96,4 +99,4 @@ for section in sections:
 with open('generated/index.html', 'w', encoding='utf-8') as f:
     f.write(head + generated + foot)
 shutil.copy(css_file, 'generated/style.css')
-shutil.copytree('elements/img', 'generated/img')
+shutil.copytree(elements_dir + '/img', 'generated/img')
