@@ -26,6 +26,7 @@ section_head2 = '</h2>\n'
 section_foot = '</div>\n'
 
 for section in sections:
+    print(section)
     section_name, section_file = section.split()
     
     if not os.path.exists('generated/' + section_file):
@@ -45,44 +46,52 @@ for section in sections:
     section_dirs = set(glob.glob('elements/' + section_file + '/*')) - set(glob.glob('elements/' + section_file + '/*.txt'))
 
     section_dirs = list(section_dirs)
-    section_dirs.sort()
+    section_dirs = [[int(elem.split('\\')[-1].split('_')[0]), elem] for elem in section_dirs]
+    section_dirs.sort(reverse=True)
 
-    for dr in section_dirs:
+    for _, dr in section_dirs:
         with open(dr + '/info.txt', 'r', encoding='utf-8') as f:
             info = f.read().splitlines()
         title = info[0]
-        with open(dr + '/index.md', 'r', encoding='utf-8') as f:
-            md = f.read()
-        md_split = md.splitlines()
-        for i, elem in enumerate(md_split):
-            if elem[:2] == '# ':
-                md_split[i] = '<h1>' + elem[2:] + '</h1>'
-            if elem[:3] == '## ':
-                md_split[i] = '<h2>' + elem[3:] + '</h2>'
-        html = ''
-        last_empty = False
-        for line in md_split:
-            if last_empty == False and line == '':
-                last_empty = True
-            else:
-                if line and line[0] == '<':
-                    html += line
+        print(info)
+        try:
+            with open(dr + '/index.md', 'r', encoding='utf-8') as f:
+                md = f.read()
+            md_split = md.splitlines()
+            for i, elem in enumerate(md_split):
+                if elem[:2] == '# ':
+                    md_split[i] = '<h1>' + elem[2:] + '</h1>'
+                if elem[:3] == '## ':
+                    md_split[i] = '<h2>' + elem[3:] + '</h2>'
+            html = ''
+            last_empty = False
+            for line in md_split:
+                if last_empty == False and line == '':
+                    last_empty = True
                 else:
-                    html += line + '<br>\n'
-                last_empty = False
-        print(title)
-        drc = 'generated/' + section_file + '/' + title
-        if not os.path.exists(drc):
-            os.mkdir(drc)
-        with open(drc + '/index.html', 'w', encoding='utf-8') as f:
-            f.write(head + html + foot)
-        shutil.copy(css_file, drc + '/style.css')
-        shutil.copytree(dr + '/img', 'generated/' + section_file + '/' + title + '/img')
-        generated += '<tr>\n'
-        generated += '<td><a href=' + section_file + '/' + title + '>' + title + '</a><br></td>\n'
-        for datum in info[1:]:
-            generated += '<td>' + datum + '</td>\n'
-        generated += '</tr>\n'
+                    if line and line[0] == '<':
+                        html += line
+                    else:
+                        html += line + '<br>\n'
+                    last_empty = False
+            drc = 'generated/' + section_file + '/' + title
+            if not os.path.exists(drc):
+                os.mkdir(drc)
+            with open(drc + '/index.html', 'w', encoding='utf-8') as f:
+                f.write(head + html + foot)
+            shutil.copy(css_file, drc + '/style.css')
+            shutil.copytree(dr + '/img', 'generated/' + section_file + '/' + title + '/img')
+            generated += '<tr>\n'
+            generated += '<td><a href=' + section_file + '/' + title + '>' + title + '</a><br></td>\n'
+            for datum in info[1:]:
+                generated += '<td>' + datum + '</td>\n'
+            generated += '</tr>\n'
+        except:
+            generated += '<tr>\n'
+            for datum in info:
+                generated += '<td>' + datum + '</td>\n'
+            generated += '</tr>\n'
+    generated += '</table>'
 
 with open('generated/index.html', 'w', encoding='utf-8') as f:
     f.write(head + generated + foot)

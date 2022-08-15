@@ -1,1 +1,3 @@
-作品 works 
+作品 works
+実績 achievements
+コンタクト contact
