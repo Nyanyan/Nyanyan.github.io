@@ -28,12 +28,17 @@ section_head1 = '<div>\n<h2>'
 section_head2 = '</h2>\n'
 section_foot = '</div>\n'
 
+centering_head = '<div style="text-align: center">\n'
+centering_foot = '</div>'
+
 for section in sections:
     print(section)
     section_name, section_file = section.split()
     
     if not os.path.exists('generated/' + section_file):
         os.mkdir('generated/' + section_file)
+    
+    generated += centering_head
     
     with open(elements_dir + '/' + section_file + '.html', 'r', encoding='utf-8') as f:
         generated += section_head1 + section_name + section_head2 + f.read() + section_foot
@@ -77,15 +82,15 @@ for section in sections:
                     else:
                         html += line + '<br>\n'
                     last_empty = False
-            drc = 'generated/' + section_file + '/' + title
+            drc = 'generated/' + section_file + '/' + title.replace(' ', '')
             if not os.path.exists(drc):
                 os.mkdir(drc)
             with open(drc + '/index.html', 'w', encoding='utf-8') as f:
                 f.write(head + html + foot)
             shutil.copy(css_file, drc + '/style.css')
-            shutil.copytree(dr + '/img', 'generated/' + section_file + '/' + title + '/img')
+            shutil.copytree(dr + '/img', 'generated/' + section_file + '/' + title.replace(' ', '') + '/img')
             generated += '<tr>\n'
-            generated += '<td><a href=' + section_file + '/' + title + '>' + title + '</a><br></td>\n'
+            generated += '<td><a href=' + section_file + '/' + title.replace(' ', '') + '>' + title + '</a><br></td>\n'
             for datum in info[1:]:
                 generated += '<td>' + datum + '</td>\n'
             generated += '</tr>\n'
@@ -95,6 +100,7 @@ for section in sections:
                 generated += '<td>' + datum + '</td>\n'
             generated += '</tr>\n'
     generated += '</table>'
+    generated += centering_foot
 
 with open('generated/index.html', 'w', encoding='utf-8') as f:
     f.write(head + generated + foot)
