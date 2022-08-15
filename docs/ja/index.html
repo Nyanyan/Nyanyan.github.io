@@ -1,608 +1,213 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
-<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<meta charset="utf-8" content="">
+<meta charset="utf-8">
 <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/Nyanyan/Nyanyan.github.io/master/img/favicon.ico">
-<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script>
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@takuto_yamana">
-<meta property="og:url" content="https://nyanyan.github.io/">
-<meta property="og:title" content="Nyanyan(Takuto Yamana)'s Website">
-<meta property="og:description" content="Nyanyan (Takuto Yamana) - A Maker">
-<meta property="og:image" content="https://raw.githubusercontent.com/Nyanyan/Nyanyan.github.io/master/img/eyecatch.png">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="style.css">
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@takuto_yamana" />
+<meta property="og:url" content="https://nyanyan.github.io/" />
+<meta property="og:title" content="Nyanyan(Takuto Yamana)'s Website" />
+<meta property="og:description" content="Nyanyan (Takuto Yamana) - A Maker" />
+<meta property="og:image" content="https://raw.githubusercontent.com/Nyanyan/Nyanyan.github.io/master/img/eyecatch.png" />
 <title>Nyanyan(Takuto Yamana)</title>
-<link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
-.mac-os-11 { --title-bar-height:28px; }
-html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
-body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
-iframe { margin: auto; }
-a.url { word-break: break-all; }
-a:active, a:hover { outline: 0px; }
-.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
-#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
-#write.first-line-indent p { text-indent: 2em; }
-#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
-#write.first-line-indent li { margin-left: 2em; }
-.for-image #write { padding-left: 8px; padding-right: 8px; }
-body.typora-export { padding-left: 30px; padding-right: 30px; }
-.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
-.typora-export .task-list-item input { pointer-events: none; }
-@media screen and (max-width: 500px) {
-  body.typora-export { padding-left: 0px; padding-right: 0px; }
-  #write { padding-left: 20px; padding-right: 20px; }
-  .CodeMirror-sizer { margin-left: 0px !important; }
-  .CodeMirror-gutters { display: none !important; }
-}
-#write li > figure:last-child { margin-bottom: 0.5rem; }
-#write ol, #write ul { position: relative; }
-img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
-button, input, select, textarea { color: inherit; font: inherit; }
-input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
-*, ::after, ::before { box-sizing: border-box; }
-#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
-#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
-p { line-height: inherit; }
-h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
-p { orphans: 4; }
-h1 { font-size: 2rem; }
-h2 { font-size: 1.8rem; }
-h3 { font-size: 1.6rem; }
-h4 { font-size: 1.4rem; }
-h5 { font-size: 1.2rem; }
-h6 { font-size: 1rem; }
-.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
-.hidden { display: none; }
-.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
-a { cursor: pointer; }
-sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
-sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
-#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
-figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
-figure > table { margin: 0px; }
-tr { break-inside: avoid; break-after: auto; }
-thead { display: table-header-group; }
-table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
-table.md-table td { min-width: 32px; }
-.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
-.CodeMirror-linenumber { user-select: none; }
-.CodeMirror { text-align: left; }
-.CodeMirror-placeholder { opacity: 0.3; }
-.CodeMirror pre { padding: 0px 4px; }
-.CodeMirror-lines { padding: 0px; }
-div.hr:focus { cursor: none; }
-#write pre { white-space: pre-wrap; }
-#write.fences-no-line-wrapping pre { white-space: pre; }
-#write pre.ty-contain-cm { white-space: normal; }
-.CodeMirror-gutters { margin-right: 4px; }
-.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
-.md-fences-adv-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
-#write .md-fences.mock-cm { white-space: pre-wrap; }
-.md-fences.md-fences-with-lineno { padding-left: 0px; }
-#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
-.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
-.CodeMirror-line, twitterwidget { break-inside: avoid; }
-.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
-.footnotes + .footnotes { margin-top: 0px; }
-.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
-li div { padding-top: 0px; }
-blockquote { margin: 1rem 0px; }
-li .mathjax-block, li p { margin: 0.5rem 0px; }
-li blockquote { margin: 1rem 0px; }
-li { margin: 0px; position: relative; }
-blockquote > :last-child { margin-bottom: 0px; }
-blockquote > :first-child, li > :first-child { margin-top: 0px; }
-.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
-#write .footnote-line { white-space: pre-wrap; }
-@media print {
-  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
-  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
-  .typora-export * { -webkit-print-color-adjust: exact; }
-  .typora-export #write { break-after: avoid; }
-  .typora-export #write::after { height: 0px; }
-  .is-mac table { break-inside: avoid; }
-  .typora-export-show-outline .typora-export-sidebar { display: none; }
-}
-.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
-a img, img a { cursor: pointer; }
-pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
-p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
-#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
-p > .md-image:only-child { display: inline-block; width: 100%; }
-#write .MathJax_Display { margin: 0.8em 0px 0px; }
-.md-math-block { width: 100%; }
-.md-math-block:not(:empty)::after { display: none; }
-.MathJax_ref { fill: currentcolor; }
-[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
-.md-task-list-item { position: relative; list-style-type: none; }
-.task-list-item.md-task-list-item { padding-left: 0px; }
-.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
-.math { font-size: 1rem; }
-.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
-.md-toc-content { position: relative; margin-left: 0px; }
-.md-toc-content::after, .md-toc::after { display: none; }
-.md-toc-item { display: block; color: rgb(65, 131, 196); }
-.md-toc-item a { text-decoration: none; }
-.md-toc-inner:hover { text-decoration: underline; }
-.md-toc-inner { display: inline-block; cursor: pointer; }
-.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
-.md-toc-h2 .md-toc-inner { margin-left: 2em; }
-.md-toc-h3 .md-toc-inner { margin-left: 4em; }
-.md-toc-h4 .md-toc-inner { margin-left: 6em; }
-.md-toc-h5 .md-toc-inner { margin-left: 8em; }
-.md-toc-h6 .md-toc-inner { margin-left: 10em; }
-@media screen and (max-width: 48em) {
-  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
-  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
-  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
-  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
-}
-a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
-.footnote-line a:not(.reversefootnote) { color: inherit; }
-.md-attr { display: none; }
-.md-fn-count::after { content: "."; }
-code, pre, samp, tt { font-family: var(--monospace); }
-kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
-.md-comment { color: rgb(162, 127, 3); opacity: 0.6; font-family: var(--monospace); }
-code { text-align: left; vertical-align: initial; }
-a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
-.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
-.md-diagram-panel > svg { max-width: 100%; }
-[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
-[lang="mermaid"] .node text { font-size: 1rem; }
-table tr th { border-bottom: 0px; }
-video { max-width: 100%; display: block; margin: 0px auto; }
-iframe { max-width: 100%; width: 100%; border: none; }
-.highlight td, .highlight tr { border: 0px; }
-mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
-.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
-.md-expand mark .md-meta { opacity: 0.3 !important; }
-mark .md-meta { color: rgb(0, 0, 0); }
-@media print {
-  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
-}
-.md-diagram-panel .messageText { stroke: none !important; }
-.md-diagram-panel .start-state { fill: var(--node-fill); }
-.md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
-.md-fences.md-fences-math { font-size: 1em; }
-.md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
-.md-fences-advanced:not(.md-focus) { background: inherit; }
-.typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
-.typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
-.typora-export-show-outline #write { --webkit-flex:2; flex: 2 1 0%; }
-.typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
-@media screen and (max-width: 1024px) {
-  .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
-}
-@media screen and (max-width: 800px) {
-  .typora-export-sidebar { display: none; }
-}
-.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; }
-.outline-content ul { margin-top: 0px; margin-bottom: 0px; }
-.outline-content strong { font-weight: 400; }
-.outline-expander { width: 1rem; height: 1.42857rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
-.outline-expander::before { content: ""; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
-.outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
-.outline-expander:hover::before { content: ""; }
-.outline-h1 > .outline-item { padding-left: 0px; }
-.outline-h2 > .outline-item { padding-left: 1em; }
-.outline-h3 > .outline-item { padding-left: 2em; }
-.outline-h4 > .outline-item { padding-left: 3em; }
-.outline-h5 > .outline-item { padding-left: 4em; }
-.outline-h6 > .outline-item { padding-left: 5em; }
-.outline-label { cursor: pointer; display: table-cell; vertical-align: middle; text-decoration: none; color: inherit; }
-.outline-label:hover { text-decoration: underline; }
-.outline-item:hover { border-color: rgb(245, 245, 245); background-color: var(--item-hover-bg-color); }
-.outline-item:hover { margin-left: -28px; margin-right: -28px; border-left: 28px solid transparent; border-right: 28px solid transparent; }
-.outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before { display: none; }
-.outline-item-open > .outline-item > .outline-expander::before { content: ""; }
-.outline-children { display: none; }
-.info-panel-tab-wrapper { display: none; }
-.outline-item-open > .outline-children { display: block; }
-.typora-export .outline-item { padding-top: 1px; padding-bottom: 1px; }
-.typora-export .outline-item:hover { margin-right: -8px; border-right: 8px solid transparent; }
-.typora-export .outline-expander::before { content: "+"; font-family: inherit; top: -1px; }
-.typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before { content: "−"; }
-.typora-export-collapse-outline .outline-children { display: none; }
-.typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children { display: block; }
-.typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
-.typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
-.md-inline-math-container mjx-container { zoom: 0.95; }
-
-
-:root {
-    --side-bar-bg-color: #fafafa;
-    --control-text-color: #777;
-}
-
-@include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
-
-/* open-sans-regular - latin-ext_latin */
-  /* open-sans-italic - latin-ext_latin */
-    /* open-sans-700 - latin-ext_latin */
-    /* open-sans-700italic - latin-ext_latin */
-  html {
-    font-size: 16px;
-    -webkit-font-smoothing: antialiased;
-}
-
-body {
-    font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif;
-    color: rgb(51, 51, 51);
-    line-height: 1.6;
-}
-
-#write {
-    max-width: 860px;
-  	margin: 0 auto;
-  	padding: 30px;
-    padding-bottom: 100px;
-}
-
-@media only screen and (min-width: 1400px) {
-	#write {
-		max-width: 1024px;
-	}
-}
-
-@media only screen and (min-width: 1800px) {
-	#write {
-		max-width: 1200px;
-	}
-}
-
-#write > ul:first-child,
-#write > ol:first-child{
-    margin-top: 30px;
-}
-
-a {
-    color: #4183C4;
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    position: relative;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    font-weight: bold;
-    line-height: 1.4;
-    cursor: text;
-}
-h1:hover a.anchor,
-h2:hover a.anchor,
-h3:hover a.anchor,
-h4:hover a.anchor,
-h5:hover a.anchor,
-h6:hover a.anchor {
-    text-decoration: none;
-}
-h1 tt,
-h1 code {
-    font-size: inherit;
-}
-h2 tt,
-h2 code {
-    font-size: inherit;
-}
-h3 tt,
-h3 code {
-    font-size: inherit;
-}
-h4 tt,
-h4 code {
-    font-size: inherit;
-}
-h5 tt,
-h5 code {
-    font-size: inherit;
-}
-h6 tt,
-h6 code {
-    font-size: inherit;
-}
-h1 {
-    font-size: 2.25em;
-    line-height: 1.2;
-    border-bottom: 1px solid #eee;
-}
-h2 {
-    font-size: 1.75em;
-    line-height: 1.225;
-    border-bottom: 1px solid #eee;
-}
-
-/*@media print {
-    .typora-export h1,
-    .typora-export h2 {
-        border-bottom: none;
-        padding-bottom: initial;
-    }
-
-    .typora-export h1::after,
-    .typora-export h2::after {
-        content: "";
-        display: block;
-        height: 100px;
-        margin-top: -96px;
-        border-top: 1px solid #eee;
-    }
-}*/
-
-h3 {
-    font-size: 1.5em;
-    line-height: 1.43;
-}
-h4 {
-    font-size: 1.25em;
-}
-h5 {
-    font-size: 1em;
-}
-h6 {
-   font-size: 1em;
-    color: #777;
-}
-p,
-blockquote,
-ul,
-ol,
-dl,
-table{
-    margin: 0.8em 0;
-}
-li>ol,
-li>ul {
-    margin: 0 0;
-}
-hr {
-    height: 2px;
-    padding: 0;
-    margin: 16px 0;
-    background-color: #e7e7e7;
-    border: 0 none;
-    overflow: hidden;
-    box-sizing: content-box;
-}
-
-li p.first {
-    display: inline-block;
-}
-ul,
-ol {
-    padding-left: 30px;
-}
-ul:first-child,
-ol:first-child {
-    margin-top: 0;
-}
-ul:last-child,
-ol:last-child {
-    margin-bottom: 0;
-}
-blockquote {
-    border-left: 4px solid #dfe2e5;
-    padding: 0 15px;
-    color: #777777;
-}
-blockquote blockquote {
-    padding-right: 0;
-}
-table {
-    padding: 0;
-    word-break: initial;
-}
-table tr {
-    border: 1px solid #dfe2e5;
-    margin: 0;
-    padding: 0;
-}
-table tr:nth-child(2n),
-thead {
-    background-color: #f8f8f8;
-}
-table th {
-    font-weight: bold;
-    border: 1px solid #dfe2e5;
-    border-bottom: 0;
-    margin: 0;
-    padding: 6px 13px;
-}
-table td {
-    border: 1px solid #dfe2e5;
-    margin: 0;
-    padding: 6px 13px;
-}
-table th:first-child,
-table td:first-child {
-    margin-top: 0;
-}
-table th:last-child,
-table td:last-child {
-    margin-bottom: 0;
-}
-
-.CodeMirror-lines {
-    padding-left: 4px;
-}
-
-.code-tooltip {
-    box-shadow: 0 1px 1px 0 rgba(0,28,36,.3);
-    border-top: 1px solid #eef2f2;
-}
-
-.md-fences,
-code,
-tt {
-    border: 1px solid #e7eaed;
-    background-color: #f8f8f8;
-    border-radius: 3px;
-    padding: 0;
-    padding: 2px 4px 0px 4px;
-    font-size: 0.9em;
-}
-
-code {
-    background-color: #f3f4f4;
-    padding: 0 2px 0 2px;
-}
-
-.md-fences {
-    margin-bottom: 15px;
-    margin-top: 15px;
-    padding-top: 8px;
-    padding-bottom: 6px;
-}
-
-
-.md-task-list-item > input {
-  margin-left: -1.3em;
-}
-
-@media print {
-    html {
-        font-size: 13px;
-    }
-    table,
-    pre {
-        page-break-inside: avoid;
-    }
-    pre {
-        word-wrap: break-word;
-    }
-}
-
-.md-fences {
-	background-color: #f8f8f8;
-}
-#write pre.md-meta-block {
-	padding: 1rem;
-    font-size: 85%;
-    line-height: 1.45;
-    background-color: #f7f7f7;
-    border: 0;
-    border-radius: 3px;
-    color: #777777;
-    margin-top: 0 !important;
-}
-
-.mathjax-block>.code-tooltip {
-	bottom: .375rem;
-}
-
-.md-mathjax-midline {
-    background: #fafafa;
-}
-
-#write>h3.md-focus:before{
-	left: -1.5625rem;
-	top: .375rem;
-}
-#write>h4.md-focus:before{
-	left: -1.5625rem;
-	top: .285714286rem;
-}
-#write>h5.md-focus:before{
-	left: -1.5625rem;
-	top: .285714286rem;
-}
-#write>h6.md-focus:before{
-	left: -1.5625rem;
-	top: .285714286rem;
-}
-.md-image>.md-meta {
-    /*border: 1px solid #ddd;*/
-    border-radius: 3px;
-    padding: 2px 0px 0px 4px;
-    font-size: 0.9em;
-    color: inherit;
-}
-
-.md-tag {
-    color: #a7a7a7;
-    opacity: 1;
-}
-
-.md-toc { 
-    margin-top:20px;
-    padding-bottom:20px;
-}
-
-.sidebar-tabs {
-    border-bottom: none;
-}
-
-#typora-quick-open {
-    border: 1px solid #ddd;
-    background-color: #f8f8f8;
-}
-
-#typora-quick-open-item {
-    background-color: #FAFAFA;
-    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
-    border-style: solid;
-    border-width: 1px;
-}
-
-/** focus mode */
-.on-focus-mode blockquote {
-    border-left-color: rgba(85, 85, 85, 0.12);
-}
-
-header, .context-menu, .megamenu-content, footer{
-    font-family: "Segoe UI", "Arial", sans-serif;
-}
-
-.file-node-content:hover .file-node-icon,
-.file-node-content:hover .file-node-open-state{
-    visibility: visible;
-}
-
-.mac-seamless-mode #typora-sidebar {
-    background-color: #fafafa;
-    background-color: var(--side-bar-bg-color);
-}
-
-.md-lang {
-    color: #b4654d;
-}
-
-/*.html-for-mac {
-    --item-hover-bg-color: #E6F0FE;
-}*/
-
-#md-notification .btn {
-    border: 0;
-}
-
-.dropdown-menu .divider {
-    border-color: #e5e5e5;
-    opacity: 0.4;
-}
-
-.ty-preferences .window-content {
-    background-color: #fafafa;
-}
-
-.ty-preferences .nav-group-item.active {
-    color: white;
-    background: #999;
-}
-
-.menu-item-container a.menu-style-btn {
-    background-color: #f5f8fa;
-    background-image: linear-gradient( 180deg , hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0)); 
-}
-
-
-
-</style>
 </head>
-<body class='typora-export os-windows typora-export-show-outline typora-export-no-collapse-outline'><div class='typora-export-content'>
-<div class="typora-export-sidebar"><div class="outline-content"><li class="outline-item-wrapper outline-h1"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#にゃにゃん-山名琢翔">にゃにゃん (山名琢翔)</a></div><ul class="outline-children"><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#メイカーとしての私">メイカーとしての私</a></div><ul class="outline-children"><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#スキル">スキル</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#プロジェクト">プロジェクト</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#ギャラリー-1">ギャラリー</a></div><ul class="outline-children"></ul></li></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#スピードキューバーとしての私">スピードキューバーとしての私</a></div><ul class="outline-children"><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#記録">記録</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#ギャラリー-2">ギャラリー</a></div><ul class="outline-children"></ul></li></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#私のその他の側面">私のその他の側面</a></div><ul class="outline-children"><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#趣味">趣味</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#ギャラリー-3">ギャラリー</a></div><ul class="outline-children"></ul></li></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#成果">成果</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#コンタクト">コンタクト</a></div><ul class="outline-children"></ul></li></ul></li></div></div><div id='write'  class=''><p>&nbsp;</p><h1 id='にゃにゃん-山名琢翔'><span>にゃにゃん (山名琢翔)</span></h1><p><span>メイカー、スピードキューバー</span></p><p><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Nyanyan(Takuto Yamana)'s Website" data-url="https://nyanyan.github.io/" data-related="takuto_yamana,Nyanyan_Cube" data-show-count="false"><span>Tweet</span></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><span> </span><a href=./../en/><span>English</span></a></p><p><img src="./../img/Nyanyan.jpg" alt="Nyanyan" style="width:50%;" /><img src="./../img/icon.jpg" alt="icon" style="width:50%;" /></p><h2 id='メイカーとしての私'><span>メイカーとしての私</span></h2><h3 id='スキル'><span>スキル</span></h3><p><span>各スキルとレベル(100点満点)です。</span></p><figure><table><thead><tr><th style='text-align:left;' ><span>スキル名</span></th><th><span>点数</span></th></tr></thead><tbody><tr><td style='text-align:left;' ><span>プログラミング (C++, Python, Cython, Javascript)</span></td><td><span>90</span></td></tr><tr><td style='text-align:left;' ><span>最適化アルゴリズム</span></td><td><span>80</span></td></tr><tr><td style='text-align:left;' ><span>ゲームAIアルゴリズム</span></td><td><span>80</span></td></tr><tr><td style='text-align:left;' ><span>競技プログラミング</span></td><td><span>60</span></td></tr><tr><td style='text-align:left;' ><span>メカ設計</span></td><td><span>70</span></td></tr><tr><td style='text-align:left;' ><span>ハードウェア加工</span></td><td><span>70</span></td></tr><tr><td style='text-align:left;' ><span>回路設計</span></td><td><span>50</span></td></tr><tr><td style='text-align:left;' ><span>回路製作</span></td><td><span>80</span></td></tr></tbody></table></figure><h3 id='プロジェクト'><span>プロジェクト</span></h3><p><span>過去プロジェクトを時系列順に紹介します。</span></p><figure><table><thead><tr><th><span>年</span></th><th><span>名称</span></th><th><span>概要</span></th><th><span>詳細・関連URL</span></th></tr></thead><tbody><tr><td><span>2014</span></td><td><span>やまみじゅた1号</span></td><td><span>RoboCup Junior レスキューA部門東東京大会に出場したロボット(チームで製作)</span></td><td><span>東東京大会敗退</span></td></tr><tr><td><span>2014-2019</span></td><td><span>YamaX</span></td><td><span>自作ヒューマノイドロボット(組で製作)</span></td><td><a href='https://makerfaire.com/maker/entry/67738/'><span>Maker Faire出展者ページ</span></a></td></tr><tr><td><span>2017-2019</span></td><td><span>MonoMotion</span></td><td><span>ロボットのモーション作成支援システム(組で制作)</span></td><td><a href='https://www.ipa.go.jp/jinzai/mitou/2018/gaiyou_s-5'><span>未踏事業概要ページ</span></a><span> 未踏事業採択・スーパークリエータ認定</span></td></tr><tr><td><span>2019-2021</span></td><td><span>NyanTimer</span></td><td><span>スピードキューブ専用タイマー</span></td><td><a href='https://youtu.be/ierR8ZPBncU'><span>YouTube PV</span></a></td></tr><tr><td><span>2020</span></td><td><span>Soltvvo</span></td><td><span>2x2x2ルービックキューブを世界最速(自分調べ)で解くロボット</span></td><td><a href='https://youtu.be/Fok7bAn-NSs'><span>YouTube PV</span></a><span> 技育展最優秀賞受賞</span></td></tr><tr><td><span>2020</span></td><td><span>Solvour</span></td><td><span>4x4x4ルービックキューブを解くロボット</span></td><td><a href='https://youtu.be/a2EKRblF6is'><span>YouTube PV</span></a></td></tr><tr><td><span>2020</span></td><td><span>Solock</span></td><td><span>ルービッククロックを世界最速(自分調べ)で解くロボット</span></td><td><a href='https://youtu.be/jc3e5xadDao'><span>YouTube デモンストレーション</span></a></td></tr><tr><td><span>2020-2021</span></td><td><span>NyanClock</span></td><td><span>自作ルービッククロック</span></td><td><a href='https://youtu.be/vNmKay3xpig'><span>YouTube PV</span></a></td></tr><tr><td><span>2021</span></td><td><span>Studth</span></td><td><span>アーテックブロックで作るルービックキューブロボット</span></td><td><a href='https://youtu.be/ETX0saH9TMM'><span>YouTube デモンストレーション</span></a></td></tr><tr><td><span>2021</span></td><td><span>QiaoKe</span></td><td><span>自作2x2x2ルービックキューブ</span></td><td><a href='https://youtu.be/NJjfOaxSceI'><span>YouTube PV</span></a></td></tr><tr><td><span>2021</span></td><td><span>CuYu</span></td><td><span>ルービックキューブ型楽器</span></td><td><a href='https://youtu.be/FqXL8PYMV98'><span>YouTube PV</span></a></td></tr><tr><td><span>2021-2022</span></td><td><span>レトロオセロAI</span></td><td><span>8bitマイコンで動かすオセロAI</span></td><td><a href='https://youtu.be/I_ctZKlP2XA'><span>YouTube PV</span></a><span> 技育展2021最優秀賞受賞</span></td></tr><tr><td><span>2021-2022</span></td><td><span>Egaroucen</span></td><td><span>世界最弱(自分調べ)オセロAI</span></td><td><a href='https://www.egaroucen.nyanyan.dev/'><span>Web版</span></a></td></tr><tr><td><span>2021-</span></td><td><span>Egaroucid</span></td><td><span>世界最強(自分調べ)オセロAI・オセロソフト</span></td><td><a href='https://www.egaroucid.nyanyan.dev/'><span>Web版</span></a><span> </span><a href='https://www.egaroucid-app.nyanyan.dev/'><span>アプリ版</span></a></td></tr></tbody></table></figure><h3 id='ギャラリー-1'><span>ギャラリー</span></h3><p><img src="./../img/yamax.jpg" alt="yamax" style="width:50%;" /><img src="./../img/created_cubes.jpg" alt="created_cubes" style="width:50%;" /></p><p><img src="./../img/soltvvo.jpg" alt="soltvvo" style="width:50%;" /><img src="./../img/retroreversi.jpg" alt="retroreversi" style="width:50%;" /></p><p><img src="./../img/egaroucid.jpg" alt="egaroucid" style="width:50%;" /></p><p>&nbsp;</p><p>&nbsp;</p><h2 id='スピードキューバーとしての私'><span>スピードキューバーとしての私</span></h2><h3 id='記録'><span>記録</span></h3><p><a href='https://www.worldcubeassociation.org/persons/2018YAMA04'><span>World Cube Association公式記録</span></a><span>をご覧ください。</span></p><p>&nbsp;</p><h3 id='ギャラリー-2'><span>ギャラリー</span></h3><p><img src="./../img/cubing.jpg" alt="cubing" style="width:50%;" /></p><p>&nbsp;</p><p>&nbsp;</p><h2 id='私のその他の側面'><span>私のその他の側面</span></h2><h3 id='趣味'><span>趣味</span></h3><p><span>他にもこんなことが好きです。</span></p><ul><li><span>オセロ</span></li><li><span>物理</span></li><li><span>合唱</span></li><li><span>折り紙</span></li><li><span>切り絵</span></li><li><span>写真</span></li></ul><h3 id='ギャラリー-3'><span>ギャラリー</span></h3><p><img src="./../img/jpho.jpg" alt="jpho" style="width:50%;" /><img src="./../img/photo1.jpg" alt="photo1" style="width:50%;" /></p><p><img src="./../img/photo2.jpg" alt="photo2" style="width:50%;" /><img src="./../img/photo3.jpg" alt="photo3" style="width:50%;" /></p><p><img src="./../img/photo4.jpg" alt="photo4" style="width:50%;" /></p><p>&nbsp;</p><h2 id='成果'><span>成果</span></h2><p><span>成果を時系列順で紹介します。</span></p><figure><table><thead><tr><th><span>年</span></th><th><span>受賞</span></th></tr></thead><tbody><tr><td><span>2018</span></td><td><span>京都大学ELCASプレゼンテーション賞</span></td></tr><tr><td><span>2018</span></td><td><span>京都大学サイエンスフェスティバル副学長賞</span></td></tr><tr><td><span>2018</span></td><td><span>IPA未踏採択</span></td></tr><tr><td><span>2018</span></td><td><span>World Maker Faire New York 2018 編集者賞</span></td></tr><tr><td><span>2019</span></td><td><span>IPA未踏スーパークリエータ認定</span></td></tr><tr><td><span>2019</span></td><td><span>物理チャレンジ2019銀賞</span></td></tr><tr><td><span>2019</span></td><td><span>物理チャレンジ2019実験優秀賞</span></td></tr><tr><td><span>2020</span></td><td><span>技育展無駄開発部門最優秀賞</span></td></tr><tr><td><span>2021</span></td><td><span>クマ財団クリエイター奨学金5期生採択</span></td></tr><tr><td><span>2021</span></td><td><span>技育展2021無駄開発部門最優秀賞</span></td></tr><tr><td><span>2021</span></td><td><span>CodinGame オセロAI世界1位</span></td></tr><tr><td><span>2022</span></td><td><span>クマ財団クリエイター奨学金6期生採択</span></td></tr></tbody></table></figure><p>&nbsp;</p><p>&nbsp;</p><h2 id='コンタクト'><span>コンタクト</span></h2><p><span>お気軽にご連絡ください</span></p><figure><table><thead><tr><th><span>SNS</span></th><th><span>アカウント</span></th></tr></thead><tbody><tr><td><span>Twitter (作品投稿用)</span></td><td><a href='https://twitter.com/takuto_yamana' target='_blank' class='url'>https://twitter.com/takuto_yamana</a></td></tr><tr><td><span>Twitter (雑多)</span></td><td><a href='https://twitter.com/Nyanyan_Cube' target='_blank' class='url'>https://twitter.com/Nyanyan_Cube</a></td></tr><tr><td><span>Instagram</span></td><td><a href='https://www.instagram.com/takutoyamana/' target='_blank' class='url'>https://www.instagram.com/takutoyamana/</a></td></tr><tr><td><span>YouTube</span></td><td><a href='https://www.youtube.com/channel/UCOMdTI1hhcNsWI3w4FkT2IQ' target='_blank' class='url'>https://www.youtube.com/channel/UCOMdTI1hhcNsWI3w4FkT2IQ</a></td></tr><tr><td><span>GitHub</span></td><td><a href='https://github.com/Nyanyan/' target='_blank' class='url'>https://github.com/Nyanyan/</a></td></tr></tbody></table></figure><p>&nbsp;</p></div></div>
+<body>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Nyanyan(Takuto Yamana)'s Website" data-url="https://nyanyan.github.io/" data-related="takuto_yamana" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div style="text-align: center">
+<h1>山名琢翔</h1>
+<p>ものづくりとルービックキューブとオセロ</p>
+<a href="./../en">English</a><br>
+<img src="img/Nyanyan.png" width="40%">
+<img src="img/icon.jpg" width="40%">
+</div><div>
+<h2>作品</h2>
+<p>作品を新しい順に紹介します。</p>
 
-<script>(function(){var e=document.body.parentElement,t=[],n=null,i=document.body.classList.contains("typora-export-collapse-outline"),r=function(e,t,n){document.addEventListener(e,function(e){if(!e.defaultPrevented)for(var i=e.target;i&&i!=this;i=i.parentNode)if(i.matches(t)){!1===n.call(i,e)&&(e.preventDefault(),e.stopPropagation());break}},!1)};function o(){return e.scrollTop}r("click",".outline-expander",function(e){var t=this.closest(".outline-item-wrapper").classList;return t.contains("outline-item-open")?t.remove("outline-item-open"):t.add("outline-item-open"),d(),!1}),r("click",".outline-item",function(e){var t=this.querySelector(".outline-label");if(location.hash="#"+t.getAttribute("href"),i){var n=this.closest(".outline-item-wrapper").classList;n.contains("outline-item-open")||n.add("outline-item-open"),c(),n.add("outline-item-active")}});var a,s,l=function(){var e=o();n=null;for(var i=0;i<t.length&&t[i][1]-e<60;i++)n=t[i]},c=function(){document.querySelectorAll(".outline-item-active").forEach(e=>e.classList.remove("outline-item-active")),document.querySelectorAll(".outline-item-single.outline-item-open").forEach(e=>e.classList.remove("outline-item-open"))},d=function(){if(n){c();var e=document.querySelector('.outline-label[href="#'+(CSS.escape?CSS.escape(n[0]):n[0])+'"]');if(e)if(i){var t=e.closest(".outline-item-open>ul>.outline-item-wrapper");if(t)t.classList.add("outline-item-active");else{for(var r=(e=e.closest(".outline-item-wrapper")).parentElement.closest(".outline-item-wrapper");r;)r=(e=r).parentElement.closest(".outline-item-wrapper");e.classList.add("outline-item-active")}}else e.closest(".outline-item-wrapper").classList.add("outline-item-active")}};window.addEventListener("scroll",function(e){a&&clearTimeout(a),a=setTimeout(function(){l(),d()},300)});var u=function(){s=setTimeout(function(){!function(){t=[];var e=o();document.querySelector("#write").querySelectorAll("h1, h2, h3, h4, h5, h6").forEach(n=>{var i=n.getAttribute("id");t.push([i,e+n.getBoundingClientRect().y])})}(),l(),d()},300)};window.addEventListener("resize",function(e){s&&clearTimeout(s),u()}),u()})();</script></body>
+</div>
+<table>
+<tr>
+<th>名称</th><th>概要</th><th>年</th></tr>
+<tr>
+<td><a href=works/Egaroucid>Egaroucid</a><br></td>
+<td>世界最強のオセロAI</td>
+<td>2021-</td>
+</tr>
+<tr>
+<td><a href=works/Egaroucen>Egaroucen</a><br></td>
+<td>世界最弱のオセロAI</td>
+<td>2021-2022</td>
+</tr>
+<tr>
+<td><a href=works/レトロオセロAI>レトロオセロAI</a><br></td>
+<td>8bitマイコンで動かすオセロAI</td>
+<td>2021-2022</td>
+</tr>
+<tr>
+<td><a href=works/CuYu>CuYu</a><br></td>
+<td>ルービックキューブ型楽器</td>
+<td>2021</td>
+</tr>
+<tr>
+<td><a href=works/QiaoKe>QiaoKe</a><br></td>
+<td>自作2x2x2キューブ</td>
+<td>2021</td>
+</tr>
+<tr>
+<td><a href=works/Studth>Studth</a><br></td>
+<td>アーテックブロックで作るルービックキューブロボット</td>
+<td>2021</td>
+</tr>
+<tr>
+<td><a href=works/NyanClock>NyanClock</a><br></td>
+<td>自作クロックパズル</td>
+<td>2020-2021</td>
+</tr>
+<tr>
+<td><a href=works/Solock>Solock</a><br></td>
+<td>ルービッククロックを世界最速で解くロボット</td>
+<td>2020</td>
+</tr>
+<tr>
+<td><a href=works/Solvour>Solvour</a><br></td>
+<td>4x4x4ルービックキューブを解くロボット</td>
+<td>2020</td>
+</tr>
+<tr>
+<td><a href=works/Soltvvo>Soltvvo</a><br></td>
+<td>2x2x2ルービックキューブを世界最速で解くロボット</td>
+<td>2020</td>
+</tr>
+<tr>
+<td><a href=works/NyanTimer>NyanTimer</a><br></td>
+<td>スピードキューブ専用タイマー</td>
+<td>2019-2021</td>
+</tr>
+<tr>
+<td><a href=works/MonoMotion>MonoMotion</a><br></td>
+<td>ロボットのモーション作成支援システム</td>
+<td>2017-2019</td>
+</tr>
+<tr>
+<td><a href=works/YamaX>YamaX</a><br></td>
+<td>自作ヒューマノイドロボット</td>
+<td>2014-2019</td>
+</tr>
+<tr>
+<td><a href=works/やまみじゅた1号>やまみじゅた1号</a><br></td>
+<td>RoboCup Junior レスキューA部門東東京大会に出場したロボット</td>
+<td>2014</td>
+</tr>
+</table><div>
+<h2>実績</h2>
+<p>受賞や実績を新しい順に紹介します。</p>
+
+</div>
+<table>
+<tr>
+<th>年</th><th>名称</th></tr>
+<tr>
+<td>2022</td>
+<td>クマ財団クリエイター奨学金6期生採択</td>
+</tr>
+<tr>
+<td>2021</td>
+<td>CodinGame オセロAI世界1位</td>
+</tr>
+<tr>
+<td>2021</td>
+<td>技育展2021無駄開発部門最優秀賞</td>
+</tr>
+<tr>
+<td>2021</td>
+<td>クマ財団クリエイター奨学金5期生採択</td>
+</tr>
+<tr>
+<td>2020</td>
+<td>技育展無駄開発部門最優秀賞</td>
+</tr>
+<tr>
+<td>2019</td>
+<td>物理チャレンジ2019実験優秀賞</td>
+</tr>
+<tr>
+<td>2019</td>
+<td>物理チャレンジ2019銀賞</td>
+</tr>
+<tr>
+<td>2019</td>
+<td>IPA未踏IT人材発掘・育成事業スーパークリエータ認定</td>
+</tr>
+<tr>
+<td>2018</td>
+<td>World Maker Faire New York 2018 Editor's Choice</td>
+</tr>
+<tr>
+<td>2018</td>
+<td>IPA未踏IT人材発掘・育成事業採択</td>
+</tr>
+<tr>
+<td>2018</td>
+<td>京都大学サイエンスフェスティバル副学長賞</td>
+</tr>
+<tr>
+<td>2018</td>
+<td>京都大学ELCASプレゼンテーション賞</td>
+</tr>
+</table><div>
+<h2>趣味</h2>
+<p>ものづくり以外の趣味です。</p>
+
+</div>
+<table>
+<tr>
+<th>名称</th><th>概要</th><th>主要な実績</th></tr>
+<tr>
+<td>スピードキューブ</td>
+<td>ルービックキューブなど立体パズルの速解き競技</td>
+<td>2x2x2日本ランキング16位(2022年8月15日現在)</td>
+</tr>
+<tr>
+<td>オセロ</td>
+<td>人力でもオセロ(リバーシ)をします</td>
+<td>生3級・オセロクエスト初段</td>
+</tr>
+<tr>
+<td>写真撮影</td>
+<td>何でも撮ります</td>
+</tr>
+</table><div>
+<h2>コンタクト</h2>
+<p>以下のSNSなどからお気軽にご連絡ください。</p>
+
+</div>
+<table>
+<tr>
+<th>SNS</th><th>アカウント</th></tr>
+<tr>
+<td>Twitter</td>
+<td><a href="https://twitter.com/takuto_yamana" target="_blank" el=”noopener noreferrer”>takuto_yamana</a></td>
+</tr>
+<tr>
+<td>Instagram</td>
+<td><a href="https://www.instagram.com/takutoyamana/" target="_blank" el=”noopener noreferrer”>takutoyamana</a></td>
+</tr>
+<tr>
+<td>note</td>
+<td><a href="https://note.com/nyanyan_cubetech" target="_blank" el=”noopener noreferrer”>nyanyan_cubetech</a></td>
+</tr>
+<tr>
+<td>Qiita</td>
+<td><a href="https://qiita.com/Nyanyan_Cube" target="_blank" el=”noopener noreferrer”>Nyanyan_Cube</a></td>
+</tr>
+<tr>
+<td>YouTube</td>
+<td><a href="https://www.youtube.com/channel/UCOMdTI1hhcNsWI3w4FkT2IQ" target="_blank" el=”noopener noreferrer”>Nyanyan - Cube & Engineering</a></td>
+</tr>
+<tr>
+<td>GitHub</td>
+<td><a href="https://github.com/Nyanyan/" target="_blank" el=”noopener noreferrer”>Nyanyan</a></td>
+</tr>
+</table></body>
 </html>

@@ -1,0 +1,16 @@
+table{
+    border-collapse:  collapse;
+}
+
+tr:nth-child(odd){
+    background-color:  #eee;
+}
+
+th{
+    padding: 5px 10px;
+    background-color:  #ccc;
+}
+
+td{
+    padding: 5px 10px;
+}
