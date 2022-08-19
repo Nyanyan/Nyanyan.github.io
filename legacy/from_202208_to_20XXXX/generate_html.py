@@ -88,7 +88,10 @@ for section in sections:
             with open(drc + '/index.html', 'w', encoding='utf-8') as f:
                 f.write(head + html + foot)
             shutil.copy(css_file, drc + '/style.css')
-            shutil.copytree(dr + '/img', 'generated/' + section_file + '/' + title.replace(' ', '') + '/img')
+            try:
+                shutil.copytree(dr + '/img', 'generated/' + section_file + '/' + title.replace(' ', '') + '/img')
+            except:
+                pass
             generated += '<tr>\n'
             generated += '<td><a href=' + section_file + '/' + title.replace(' ', '') + '>' + title + '</a><br></td>\n'
             for datum in info[1:]:
