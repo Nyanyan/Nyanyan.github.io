@@ -2,4 +2,4 @@
 
 
 
-Please visit https://nyanyan.github.io/
+Please visit https://nyanyan.dev/
