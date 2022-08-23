@@ -1,0 +1,3 @@
+Computer Othello
+Retrofit an Othello AI sold in 1980
+2022

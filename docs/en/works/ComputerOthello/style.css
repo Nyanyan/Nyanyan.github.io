@@ -1,3 +1,7 @@
+html, body {
+    font-family: "Arial", "メイリオ";
+}
+
 table{
     border-collapse:  collapse;
 }
@@ -13,4 +17,8 @@ th{
 
 td{
     padding: 5px 10px;
+}
+
+table{
+    margin:auto
 }
