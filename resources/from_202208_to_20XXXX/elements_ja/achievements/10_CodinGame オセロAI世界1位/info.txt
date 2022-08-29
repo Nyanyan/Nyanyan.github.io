@@ -1,2 +1,2 @@
 2021
-CodinGame オセロAI世界1位
+<a href="https://www.codingame.com/multiplayer/bot-programming/othello-1" target="_blank" el=”noopener noreferrer”>CodinGame オセロAI世界1位</a>

@@ -1,2 +1,2 @@
 2021
-1st Place in the world, Othello AI, CodinGame
+<a href="https://www.codingame.com/multiplayer/bot-programming/othello-1" target="_blank" el=”noopener noreferrer”>1st Place in the World, Othello AI, CodinGame</a>
