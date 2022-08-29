@@ -20,5 +20,9 @@ td{
 }
 
 table{
-    margin:auto
+    margin: auto;
+}
+
+.profile_pic{
+    width: 35vmin;
 }
