@@ -1,0 +1,3 @@
+Isevot
+A Robot Plays Othello Against a Robot
+2022
