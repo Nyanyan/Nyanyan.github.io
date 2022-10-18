@@ -11,9 +11,10 @@ The original AI is much weaker than modern Othello AIs. But if I, who made the s
 PV-MCTS algorithm runs on a Spresense from Sony.
 
 <div style="text-align: center">
-    <img src="img/img1.jpg" width="50%">
+    <img src="img/img1.jpg" width="100%">
 </div>
 
+
 <div style="text-align: center">
-    <img src="img/img2.jpg" width="50%">
+    <img src="img/img2.jpg" width="100%">
 </div>

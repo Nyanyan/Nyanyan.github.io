@@ -13,11 +13,11 @@ I wrote <a href="https://note.com/nyanyan_cubetech/n/n7262af06aefb" target="_bla
 </div>
 
 
-
 <div style="text-align: center">
-    <img src="img/img1.jpg" width="50%">
+    <img src="img/img1.jpg" width="100%">
 </div>
 
+
 <div style="text-align: center">
-    <img src="img/img2.jpg" width="50%">
+    <img src="img/img2.jpg" width="100%">
 </div>

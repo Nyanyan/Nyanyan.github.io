@@ -7,8 +7,9 @@
 8bitマイコン(ATMEGA328P)を10個使って動かしたオセロAI、および対戦インターフェイスです。
 
 <div style="text-align: center">
-    <img src="img/retro_othello_ai.png" width="50%">
+    <img src="img/retro_othello_ai.png" width="100%">
 </div>
+
 
 
 

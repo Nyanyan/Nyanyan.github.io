@@ -24,6 +24,34 @@ table{
     font-size: min(1.6vmin, 12pt);
 }
 
-.profile_pic{
+.pic{
+    width: 70vmin;
+}
+
+.pic2{
     width: 35vmin;
+}
+
+.box{
+    width: 90vmin;
+    text-align: start;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.h3_left{
+    font-size: larger;
+    font-weight: bold;
+    text-align: left;
 }

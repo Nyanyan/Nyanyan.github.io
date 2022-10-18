@@ -7,7 +7,7 @@
 Egaroucidはフルスクラッチで開発しているオセロAI、およびオセロAIを搭載したオセロ研究用ソフトウェアです。
 
 <div style="text-align: center">
-    <img src="img/egaroucid_app.png" width="50%">
+    <img src="img/egaroucid_app.png" width="100%">
 </div>
 
 

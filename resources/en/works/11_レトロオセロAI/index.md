@@ -7,7 +7,7 @@ Othello AI with 8 bit microcontrollers (2021-2022)
 Othello AI with 10 8 bit microcontrollers (ATMEGA328P), and its playing interface.
 
 <div style="text-align: center">
-    <img src="img/retro_othello_ai.png" width="50%">
+    <img src="img/retro_othello_ai.png" width="100%">
 </div>
 
 

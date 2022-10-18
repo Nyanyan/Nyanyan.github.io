@@ -1,4 +1,5 @@
 Works works
+Exhibitions exhibition
 Achievements achievements
 Hobbies hobbies
 Contact contact

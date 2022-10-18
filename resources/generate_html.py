@@ -2,6 +2,7 @@ import glob
 import os
 import shutil
 import sys
+import re
 
 shutil.rmtree('generated')
 os.mkdir('generated')
@@ -30,6 +31,10 @@ section_foot = '</div>\n'
 
 centering_head = '<div style="text-align: center">\n'
 centering_foot = '</div>'
+
+link1 = '<a href="'
+link2 = '" target="_blank" el=”noopener noreferrer”>'
+link3 = '</a>'
 
 for section in sections:
     print(section)
@@ -68,10 +73,16 @@ for section in sections:
             md_split = md.splitlines()
             for i, elem in enumerate(md_split):
                 if elem[:2] == '# ':
-                    md_split[i] = '<h1>' + elem[2:] + '</h1>'
+                    elem = '<h1>' + elem[2:] + '</h1>'
                 if elem[:3] == '## ':
-                    md_split[i] = '<h2>' + elem[3:] + '</h2>'
-            html = ''
+                    elem = '<h2>' + elem[3:] + '</h2>'
+                links = re.findall('\[.+\]\(.+\)', elem)
+                for link in links:
+                    text, url = link[1:-1].split('](')
+                    html_link = link1 + url + link2 + text + link3
+                    elem = elem.replace(link, html_link)
+                md_split[i] = elem
+            html = '<div class="box">\n'
             last_empty = False
             for line in md_split:
                 if last_empty == False and line == '':
@@ -82,6 +93,7 @@ for section in sections:
                     else:
                         html += line + '<br>\n'
                     last_empty = False
+            html += '</div>\n'
             drc = 'generated/' + section_file + '/' + title.replace(' ', '')
             if not os.path.exists(drc):
                 os.mkdir(drc)

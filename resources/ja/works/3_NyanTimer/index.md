@@ -7,8 +7,9 @@
 スピードキューブに特化したタイマーです。
 
 <div style="text-align: center">
-    <img src="img/nyantimer.jpg" width="50%">
+    <img src="img/nyantimer.jpg" width="100%">
 </div>
+
 
 
 

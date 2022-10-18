@@ -7,7 +7,7 @@ Timer for all cubers (2019-2021)
 Timer for speedcubing
 
 <div style="text-align: center">
-    <img src="img/nyantimer.jpg" width="50%">
+    <img src="img/nyantimer.jpg" width="100%">
 </div>
 
 
