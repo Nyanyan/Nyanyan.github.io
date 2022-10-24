@@ -76,7 +76,7 @@ for section in sections:
                     elem = '<h1>' + elem[2:] + '</h1>'
                 if elem[:3] == '## ':
                     elem = '<h2>' + elem[3:] + '</h2>'
-                links = re.findall('\[.+\]\(.+\)', elem)
+                links = re.findall('\[.+\]\(.+?\)', elem)
                 for link in links:
                     text, url = link[1:-1].split('](')
                     html_link = link1 + url + link2 + text + link3
