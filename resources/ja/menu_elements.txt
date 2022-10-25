@@ -1,2 +1,3 @@
 ホーム /
 作品 /works/
+展示 /exhibitions/
