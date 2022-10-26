@@ -1,5 +1,15 @@
 # 展示
 
+<div style="text-align:center">
+	参加した展示を新しい順に紹介します。
+</div>
+
+
+<div style="text-align:center; line-height:0;">
+
+
+
+
 <div class="eye_catch">
     <a href="./kuma_experiment_vol1/">
         <img class="img" src="img/kuma_experiment_vol1.png"/>
@@ -16,7 +26,6 @@
         </div>
     </a>
 </div>
-
 <div class="eye_catch">
     <a href="./kuma_exhibition_2022/">
         <img class="img" src="img/kuma_exhibition_2022.png"/>
@@ -78,4 +87,5 @@
             <div class="caption">Maker Faire Tokyo 2015 (2015)</div>
         </div>
     </a>
+</div>
 </div>
