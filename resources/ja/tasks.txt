@@ -1,2 +1,4 @@
 works
 exhibitions
+achievements
+contact

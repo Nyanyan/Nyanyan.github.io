@@ -1,3 +1,5 @@
 ホーム /
 作品 /works/
 展示 /exhibitions/
+実績 /achievements/
+コンタクト /contact/

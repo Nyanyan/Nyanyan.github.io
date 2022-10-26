@@ -4,6 +4,7 @@ html, body {
 
 table{
     border-collapse:  collapse;
+    margin: auto;
 }
 
 tr:nth-child(odd){
@@ -17,11 +18,6 @@ th{
 
 td{
     padding: 5px 10px;
-}
-
-table{
-    margin: auto;
-    font-size: min(1.6vmin, 12pt);
 }
 
 .pic{
@@ -89,7 +85,7 @@ h3{
     text-align: center;
     display: table;
     vertical-align: middle;
-    font-size: min(1.7vw, 12pt);
+    font-size: min(2.5vw, 12pt);
 }
 
 .eye_catch {
