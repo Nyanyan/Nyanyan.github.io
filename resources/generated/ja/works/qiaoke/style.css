@@ -93,8 +93,8 @@ h3{
 }
 
 .eye_catch {
-    width: min(40vw, 30vh);
-    height: min(40vw, 30vh);
+    width: max(19%, min(50%, 20vh));
+    height: max(19%, min(50%, 20vh));
     overflow: hidden;
     position: relative;
     display: inline-block;
@@ -113,6 +113,7 @@ h3{
     text-align: center;
     display: table-cell;
     vertical-align: middle;
+    padding: 4%;
 }
 .eye_catch .mask {
     width: 100%;
