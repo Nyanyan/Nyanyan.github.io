@@ -4,6 +4,8 @@ YamaX、"しんとま" (2015)
 
 
 
+
+
 中学生で構成されるチームY-modifyとして出展しました。展示物はYamaX、自作ゲーム"しんとま"、"ぶつからない車"などです。私は主にYamaX開発に携わりました。
 
 <div style="text-align: center">

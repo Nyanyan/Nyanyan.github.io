@@ -4,7 +4,11 @@
 
 
 
+
+
 出展物はレトロオセロAI、NyanTimer、QiaoKe10M、CuYuです。
+
+
 
 オンライン開催となり、Young Maker Challengeで発表しました。
 

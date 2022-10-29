@@ -4,6 +4,8 @@
 
 
 
+
+
 出展物はIsevot、コンピューターオセロ、オセロの音、過去・現在・未来です。
 
 <div style="text-align: center">
@@ -36,3 +38,6 @@
 
 場所: クマ財団ギャラリー
 
+
+
+[展示会の詳細ページ](https://kuma-foundation.org/gallery/event/kuma-experiment22-01/)

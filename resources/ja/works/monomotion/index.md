@@ -4,7 +4,11 @@
 
 
 
+
+
 ロボットの動きを直感的に生成することを目的にしたシステムです。組で開発しました。
+
+
 
 詳細は<a href="https://monomotion.netlify.app/" target="_blank" el=”noopener noreferrer”>特設サイト</a>にあります。
 

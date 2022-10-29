@@ -4,7 +4,9 @@ RoboCup Junior レスキューA部門東東京大会に出場したロボット 
 
 
 
-RoboCup Junior レスキューA部門東東京大会に出場したロボットです。チームで製作しました。
+
+
+チームで製作しました。
 
 <div style="text-align: center">
     <img src="img/img1.jpg" width="100%">

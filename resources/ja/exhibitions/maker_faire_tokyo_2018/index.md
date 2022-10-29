@@ -4,6 +4,8 @@
 
 
 
+
+
 高校生で構成されるチームY-modifyとして出展しました。展示物はYamaXです。
 
 <div style="text-align: center">

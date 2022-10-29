@@ -4,6 +4,8 @@
 
 
 
+
+
 Artec社のアーテックブロック、Studuino、eduコンを使用して製作したルービックキューブを解くロボットです。
 
 <div class="youtube">

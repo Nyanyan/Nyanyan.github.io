@@ -4,7 +4,11 @@
 
 
 
+
+
 Isevotは自作オセロAI Egaroucidを搭載した2台のロボットです。ロボット同士でオセロの対局を行います。
+
+
 
 製作の背景を[文章](https://note.com/nyanyan_cubetech/n/n7262af06aefb)でも公開しています。
 

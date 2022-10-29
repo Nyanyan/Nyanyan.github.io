@@ -4,7 +4,11 @@
 
 
 
+
+
 出展物はIsevot、コンピューターオセロ、Egaroucid、レトロオセロAIです。
+
+
 
 Young Maker ChallengeでSPRESENSE賞を受賞しました。
 

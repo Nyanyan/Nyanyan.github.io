@@ -4,7 +4,11 @@ YamaX (2018)
 
 
 
+
+
 高校生で構成されるチームY-modifyとして出展しました。展示物はYamaXです。
+
+
 
 Editor's Choice (Blue Ribbon)を受賞しました。
 
