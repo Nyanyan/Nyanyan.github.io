@@ -106,11 +106,9 @@ h3{
 .eye_catch .caption {
     font-size: 100%;
     color: #ffffff;
-    text-align: center;
-    display: table-cell;
-    vertical-align: middle;
     padding: 4%;
 }
+
 .eye_catch .mask {
     width: 100%;
     height: 100%;
@@ -121,9 +119,11 @@ h3{
     background-color: rgba(0,0,0,0.5);
     -webkit-transition: all 0.2s ease;
     transition: all 0.2s ease;
-    display: table;
     text-align: center;
     line-height: normal;
+    display:flex;
+    align-items: center;
+    justify-content: center;
 }
 .eye_catch:hover .mask {
     opacity:1;
