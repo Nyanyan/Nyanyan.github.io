@@ -20,6 +20,24 @@
 </div>
 
 <div class="eye_catch">
+    <a href="./past_now_future/">
+        <img class="img" src="img/past_now_future.png"/>
+        <div class="mask">
+            <div class="caption">過去・現在・未来 (2022)<br>オセロAIを通して考えるコンピュータと人間の未来</div>
+        </div>
+    </a>
+</div>
+
+<div class="eye_catch">
+    <a href="./sound_of_othello/">
+        <img class="img" src="img/sound_of_othello.png"/>
+        <div class="mask">
+            <div class="caption">オセロの音 (2022)<br>オセロの棋譜の音楽化</div>
+        </div>
+    </a>
+</div>
+
+<div class="eye_catch">
     <a href="./isevot/">
         <img class="img" src="img/isevot.png"/>
         <div class="mask">
