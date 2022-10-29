@@ -26,7 +26,7 @@ with open(elements_dir + '/head.html', 'r', encoding='utf-8') as f:
     head = f.read()
 
 menu = '<div class="menu_bar">\n'
-menu += '<a class="menu_a" href="' + main_page_url + elements_dir + '"><img class="bar_icon" src="https://raw.githubusercontent.com/Nyanyan/Nyanyan.github.io/master/img/favicon.jpg"></a>\n'
+#menu += '<a class="menu_a" href="' + main_page_url + elements_dir + '"><img class="bar_icon" src="https://raw.githubusercontent.com/Nyanyan/Nyanyan.github.io/master/img/favicon.jpg"></a>\n'
 with open(elements_dir + '/menu_elements.txt', encoding='utf-8') as f:
     menu_elems = f.read().splitlines()
     n_menu_elems = []
