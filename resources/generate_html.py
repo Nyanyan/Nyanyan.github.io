@@ -25,6 +25,9 @@ with open('main_page_url.txt', 'r', encoding='utf-8') as f:
 with open(elements_dir + '/head.html', 'r', encoding='utf-8') as f:
     head = f.read()
 
+with open(elements_dir + '/head2.html', 'r', encoding='utf-8') as f:
+    head2 = f.read()
+
 menu = '<div class="menu_bar">\n'
 #menu += '<a class="menu_a" href="' + main_page_url + elements_dir + '"><img class="bar_icon" src="https://raw.githubusercontent.com/Nyanyan/Nyanyan.github.io/master/img/favicon.jpg"></a>\n'
 with open(elements_dir + '/menu_elements.txt', encoding='utf-8') as f:
@@ -65,6 +68,16 @@ link22 = '">'
 link23 = '</a>'
 
 def create_html(dr):
+    alternate = ''
+    for lang in langs:
+        if dr[3:]:
+            alternate += '<link rel="alternate" href="http://nyanayn.dev/' + lang[0] + '/' + dr[3:] + '/" hreflang="' + lang[0] + '" />\n'
+        else:
+            alternate += '<link rel="alternate" href="http://nyanayn.dev/' + lang[0] + '/" hreflang="' + lang[0] + '" />\n'
+    if dr[3:]:
+        alternate += '<link rel="alternate" href="http://nyanayn.dev/en/' + dr[3:] + '/" hreflang="x-default">\n'
+    else:
+        alternate += '<link rel="alternate" href="http://nyanayn.dev/en/" hreflang="x-default">\n'
     with open(dr + '/index.md', 'r', encoding='utf-8') as f:
         md = f.read()
     md_split = md.splitlines()
@@ -132,7 +145,7 @@ def create_html(dr):
     if not os.path.exists(out_dr):
         os.mkdir(out_dr)
     with open(out_dr + '/index.html', 'w', encoding='utf-8') as f:
-        f.write(head + menu + html + foot)
+        f.write(head + alternate + head2 + menu + html + foot)
     shutil.copy(css_file, out_dr + '/style.css')
     try:
         shutil.copytree(dr + '/img', out_dr + '/img')
