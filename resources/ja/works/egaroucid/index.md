@@ -8,13 +8,6 @@
 
 Egaroucidはフルスクラッチで開発しているオセロAI、およびオセロAIを搭載したオセロ研究用ソフトウェアです。
 
-<div style="text-align: center">
-    <img src="img/egaroucid_app.png" width="100%">
-</div>
-
-
-
-
 
 
 Egaroucidの原型となったオセロAIは世界的なオセロAIコンテスト<a href="https://www.codingame.com/multiplayer/bot-programming/othello-1" target="_blank" el=”noopener noreferrer”>CodinGame Othello</a>にて世界1位となりました(2022年8月15日現在)。
@@ -34,3 +27,12 @@ Egaroucidの原型となったオセロAIは世界的なオセロAIコンテス�
 
 
 今後GPUによる大規模な並列化にも取り組む予定です。
+
+
+
+
+
+<div style="text-align: center">
+    <img src="img/egaroucid_app.png" width="100%">
+</div>
+
