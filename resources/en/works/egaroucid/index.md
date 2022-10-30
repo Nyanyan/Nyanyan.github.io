@@ -13,24 +13,22 @@ Egaroucid is a othello AI from scratch, and a othello learning software in which
 
 
 
-## Othello AI
-
-Egaroucid 6 Light is the strongest othello AI in a contest, [CodinGame Othello](https://www.codingame.com/multiplayer/bot-programming/othello-1) as of 2022/08/15.
 
 
-
- You can play against this othello AI [here](https://www.egaroucid.nyanyan.dev/).
+The early version got the 1st place in a contest, [CodinGame Othello](https://www.codingame.com/multiplayer/bot-programming/othello-1) as of 2022/08/15.
 
 
 
-## Software for othello players
-
-I built a much stronger AI, Egaroucid 6, and released a [software for othello players](https://www.egaroucid-app.nyanyan.dev/).
+I built a much stronger AI and released a [software for othello players](https://www.egaroucid.nyanyan.dev/en/).
 
 
 
-This AI has more accurate evaluation function and faster search  algorithm with parallel calculation with CPU. I used Negascout as a main algorithm, YBWC for parallel calculation.
+You can play the light version on the web, [Egaroucid for Web](https://www.egaroucid.nyanyan.dev/en/web)
 
 
 
-I will develop an algorithm to use GPUs in othello AI.
+This AI has accurate evaluation function and fast search algorithm with parallel calculation with CPU. I used Negascout as a main algorithm, YBWC for parallel calculation.
+
+
+
+I will develop an algorithm to use GPUs in Othello AIs.
