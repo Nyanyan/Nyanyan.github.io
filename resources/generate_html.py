@@ -71,13 +71,13 @@ def create_html(dr):
     alternate = ''
     for lang in langs:
         if dr[3:]:
-            alternate += '<link rel="alternate" href="http://nyanayn.dev/' + lang[0] + '/' + dr[3:] + '/" hreflang="' + lang[0] + '" />\n'
+            alternate += '<link rel="alternate" href="' + main_page_url + lang[0] + '/' + dr[3:] + '/" hreflang="' + lang[0] + '" />\n'
         else:
-            alternate += '<link rel="alternate" href="http://nyanayn.dev/' + lang[0] + '/" hreflang="' + lang[0] + '" />\n'
+            alternate += '<link rel="alternate" href="' + main_page_url + lang[0] + '/" hreflang="' + lang[0] + '" />\n'
     if dr[3:]:
-        alternate += '<link rel="alternate" href="http://nyanayn.dev/en/' + dr[3:] + '/" hreflang="x-default">\n'
+        alternate += '<link rel="alternate" href="' + main_page_url + 'en/' + dr[3:] + '/" hreflang="x-default">\n'
     else:
-        alternate += '<link rel="alternate" href="http://nyanayn.dev/en/" hreflang="x-default">\n'
+        alternate += '<link rel="alternate" href="' + main_page_url + 'en/" hreflang="x-default">\n'
     with open(dr + '/index.md', 'r', encoding='utf-8') as f:
         md = f.read()
     md_split = md.splitlines()
