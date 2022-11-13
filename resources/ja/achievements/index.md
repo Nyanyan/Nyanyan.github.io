@@ -5,10 +5,13 @@
 </div>
 
 
-
 <table>
 <tbody><tr>
 <th>年</th><th>名称</th></tr>
+<tr>
+<td>2022</td>
+<td><a href="https://www.ipsj.or.jp/award/gi-award2.html" target="_blank" el="”noopener" noreferrer”="">ゲーム情報学研究会優秀研究賞</a></td>
+</tr>
 <tr>
 <td>2022</td>
 <td><a href="https://talent.supporterz.jp/geekten/2022/" target="_blank" el="”noopener" noreferrer”="">技育展2022無駄開発部門優秀賞</a></td>
@@ -66,3 +69,4 @@
 <td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el="”noopener" noreferrer”="">京都大学ELCASプレゼンテーション賞</a></td>
 </tr>
 </tbody></table>
+
