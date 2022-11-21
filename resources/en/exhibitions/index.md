@@ -12,6 +12,14 @@
 
 
 <div class="eye_catch">
+    <a href="./edgetech_plus_2022/">
+        <img class="img" src="img/edgetech_plus_2022.png"/>
+        <div class="mask">
+            <div class="caption">EdgeTech+ 2022 Maker Faire Tokyo Branch Version (2022)</div>
+        </div>
+    </a>
+</div>
+<div class="eye_catch">
     <a href="./kuma_experiment_vol1/">
         <img class="img" src="img/kuma_experiment_vol1.png"/>
         <div class="mask">

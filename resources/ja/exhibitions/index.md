@@ -9,7 +9,14 @@
 
 
 
-
+<div class="eye_catch">
+    <a href="./edgetech_plus_2022/">
+        <img class="img" src="img/edgetech_plus_2022.png"/>
+        <div class="mask">
+            <div class="caption">EdgeTech+ 2022 Maker Faire Tokyo 出張版 (2022)</div>
+        </div>
+    </a>
+</div>
 <div class="eye_catch">
     <a href="./kuma_experiment_vol1/">
         <img class="img" src="img/kuma_experiment_vol1.png"/>
@@ -34,7 +41,6 @@
         </div>
     </a>
 </div>
-
 <div class="eye_catch">
     <a href="./maker_faire_tokyo_2021/">
         <img class="img" src="img/maker_faire_tokyo_2021.png"/>
@@ -43,7 +49,6 @@
         </div>
     </a>
 </div>
-
 <div class="eye_catch">
     <a href="./maker_faire_tokyo_2020/">
         <img class="img" src="img/maker_faire_tokyo_2020.png"/>
@@ -52,7 +57,6 @@
         </div>
     </a>
 </div>
-
 <div class="eye_catch">
     <a href="./world_maker_faire_new_york_2018/">
         <img class="img" src="img/world_maker_faire_new_york_2018.png"/>
@@ -61,7 +65,6 @@
         </div>
     </a>
 </div>
-
 <div class="eye_catch">
     <a href="./maker_faire_tokyo_2018/">
         <img class="img" src="img/maker_faire_tokyo_2018.png"/>
@@ -70,7 +73,6 @@
         </div>
     </a>
 </div>
-
 <div class="eye_catch">
     <a href="./maker_faire_tokyo_2017/">
         <img class="img" src="img/maker_faire_tokyo_2017.png"/>
@@ -79,7 +81,6 @@
         </div>
     </a>
 </div>
-
 <div class="eye_catch">
     <a href="./maker_faire_tokyo_2015/">
         <img class="img" src="img/maker_faire_tokyo_2015.png"/>
