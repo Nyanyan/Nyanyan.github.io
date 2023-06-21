@@ -5,10 +5,13 @@
 </div>
 
 
-
 <table>
 <tbody><tr>
 <th>SNS</th><th>Account</th></tr>
+<tr>
+<td>E-mail</td>
+<td>tyamana!at!mitou`org (Please replace !at! and `)</td>
+</tr>
 <tr>
 <td>Twitter</td>
 <td><a href="https://twitter.com/takuto_yamana" target="_blank" el="”noopener" noreferrer”="">takuto_yamana</a></td>

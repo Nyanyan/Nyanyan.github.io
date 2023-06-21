@@ -8,6 +8,10 @@
 <table>
 <tr>
 <th>Year</th><th>Achievement</th></tr>
+<tr>
+<td>2023</td>
+<td><a href="https://kuma-foundation.org/student/takuto-yamana/" target="_blank" el=”noopener noreferrer”>Chosen as a Creator of Kuma Foundation 7th term</a></td>
+</tr>
 <tr><td>2022</td><td><a href="https://www.ipsj.or.jp/award/gi-award2.html" target="_blank" el="”noopener" noreferrer”="">Excellent Research Award, Information Processing Society of Japan, Game Informatics Research Group</a></td></tr>
 <tr>
 <td>2022</td>
