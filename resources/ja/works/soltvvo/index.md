@@ -1,12 +1,12 @@
 # Soltvvo
 
-2x2x2ルービックキューブを世界最速で解くロボット (2020)
+2x2x2キューブを世界最速で解くロボット (2020)
 
 
 
 
 
-2x2x2ルービックキューブを世界最速(自分調べ)で解くロボットです。平均1-2秒で解きます。
+2x2x2キューブを世界最速(自分調べ)で解くロボットです。平均1-2秒で解きます。
 
 
 
@@ -15,4 +15,3 @@
 <div class="youtube">
 <iframe src="https://www.youtube.com/embed/Fok7bAn-NSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
