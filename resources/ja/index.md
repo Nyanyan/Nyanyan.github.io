@@ -9,3 +9,4 @@
 <img class="pic2" src="img/face.png"><img class="pic2" src="img/icon.jpg">
 
 Photogaphy by Mika Hashimoto for NEUT Magazine
+

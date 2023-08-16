@@ -10,6 +10,10 @@
 <th>年</th><th>名称</th></tr>
 <tr>
 <td>2023</td>
+<td><a href="https://www.ipsj.or.jp/award/yamashita2023.html" target="_blank" el="”noopener" noreferrer”="">情報処理学会山下記念研究賞</a></td>
+</tr>
+<tr>
+<td>2023</td>
 <td><a href="https://kuma-foundation.org/student/takuto-yamana/" target="_blank" el="”noopener" noreferrer”="">クマ財団クリエイター奨学金7期生採択</a></td>
 </tr>
 <tr>
