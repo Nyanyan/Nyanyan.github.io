@@ -6,7 +6,7 @@
 
 
 
-<img class="pic2" src="img/face.png"><img class="pic2" src="img/icon.jpg">
+<img class="pic2" src="img/face.png" alt="Takuto Yamana"><img class="pic2" src="img/icon.jpg" alt="Nyanyan">
 
 Photogaphy by Mika Hashimoto for NEUT Magazine
 

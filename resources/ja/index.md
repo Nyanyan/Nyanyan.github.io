@@ -6,7 +6,7 @@
 
 
 
-<img class="pic2" src="img/face.png"><img class="pic2" src="img/icon.jpg">
+<img class="pic2" src="img/face.png" alt="山名琢翔"><img class="pic2" src="img/icon.jpg" alt="にゃにゃん">
 
 Photogaphy by Mika Hashimoto for NEUT Magazine
 
