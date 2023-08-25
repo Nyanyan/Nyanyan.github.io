@@ -5,7 +5,7 @@ import sys
 import re
 from PIL import Image
 
-MAX_IMG_SIZE = 400
+MAX_IMG_SIZE = 4000
 
 def convert_img(file):
     img = Image.open(file)
