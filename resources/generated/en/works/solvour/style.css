@@ -57,7 +57,7 @@ h3{
 
 .menu_bar{
     width: 100%;
-    height: min(5vw, 50px);
+    height: min(8vw, 50px);
     background-color:  #2D3E50;
     display: flex;
     align-items: center;
@@ -91,8 +91,8 @@ h3{
 }
 
 .eye_catch {
-    width: max(19%, min(50%, 20vh));
-    height: max(19%, min(50%, 20vh));
+    width: 20vmin;
+    height: 20vmin;
     overflow: hidden;
     position: relative;
     display: inline-block;
