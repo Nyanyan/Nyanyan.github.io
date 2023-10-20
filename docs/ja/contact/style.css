@@ -91,8 +91,8 @@ h3{
 }
 
 .eye_catch {
-    width: 20vmin;
-    height: 20vmin;
+    width: min(45vw, 300px);
+    height: min(45vw, 300px);
     overflow: hidden;
     position: relative;
     display: inline-block;

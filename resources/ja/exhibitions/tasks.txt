@@ -1,3 +1,5 @@
+kuma_experiment_23_24_vol1
+edgetech_plus_2022
 kuma_experiment_vol1
 maker_faire_tokyo_2022
 kuma_exhibition_2022
@@ -7,4 +9,3 @@ world_maker_faire_new_york_2018
 maker_faire_tokyo_2018
 maker_faire_tokyo_2017
 maker_faire_tokyo_2015
-edgetech_plus_2022

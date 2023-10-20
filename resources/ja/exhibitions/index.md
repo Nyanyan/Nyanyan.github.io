@@ -8,7 +8,14 @@
 <div style="text-align:center; line-height:0;">
 
 
-
+<div class="eye_catch">
+    <a href="./kuma_experiment_23_24_vol1/">
+        <img class="img" src="img/kuma_experiment_23_24_vol1.png"/>
+        <div class="mask">
+            <div class="caption">KUMA experiment 2023-24 vol.1 めくる、くぐる (2023)</div>
+        </div>
+    </a>
+</div>
 <div class="eye_catch">
     <a href="./edgetech_plus_2022/">
         <img class="img" src="img/edgetech_plus_2022.png"/>
@@ -89,4 +96,5 @@
         </div>
     </a>
 </div>
+
 </div>

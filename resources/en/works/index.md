@@ -21,6 +21,15 @@
 </div>
 
 <div class="eye_catch">
+    <a href="./cotechnology/">
+        <img class="img" src="img/cotechnology.png"/>
+        <div class="mask">
+            <div class="caption">Cotechnology (2023)<br>Parallel Othello AI with STM32</div>
+        </div>
+    </a>
+</div>
+
+<div class="eye_catch">
     <a href="./past_now_future/">
         <img class="img" src="img/past_now_future.png"/>
         <div class="mask">
