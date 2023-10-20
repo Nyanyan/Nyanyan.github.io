@@ -35,8 +35,6 @@
         </div>
     </a>
 </div>
-
-
 <div class="eye_catch">
     <a href="./maker_faire_tokyo_2022/">
         <img class="img" src="img/maker_faire_tokyo_2022.png"/>
