@@ -55,7 +55,7 @@
 </tr>
 <tr>
 <td>2019</td>
-<td><a href="https://www.meti.go.jp/press/2019/05/20190524001/20190524001.html" target="_blank" el=”noopener noreferrer”>Super Creator Award in Mitou, Information-technology Promotion Agency, Japan</a></td>
+<td><a href="https://www.ipa.go.jp/jinzai/mitou/it/supercreator-list.html" target="_blank" el=”noopener noreferrer”>Super Creator Award in Mitou, Information-technology Promotion Agency, Japan</a></td>
 </tr>
 <tr>
 <td>2018</td>
@@ -63,7 +63,7 @@
 </tr>
 <tr>
 <td>2018</td>
-<td><a href="https://www.ipa.go.jp/jinzai/mitou/2018/gaiyou_s-5" target="_blank" el=”noopener noreferrer”>Chosen as a Creator of Mitou in Information-technology Promotion Agency, Japan</a></td>
+<td><a href="https://www.ipa.go.jp/jinzai/mitou/it/2018/gaiyou_s-5.html" target="_blank" el=”noopener noreferrer”>Chosen as a Creator of Mitou in Information-technology Promotion Agency, Japan</a></td>
 </tr>
 <tr>
 <td>2018</td>
@@ -74,4 +74,3 @@
 <td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el=”noopener noreferrer”>Presentation Award in ELCAS, Kyoto University</a></td>
 </tr>
 </table
-
