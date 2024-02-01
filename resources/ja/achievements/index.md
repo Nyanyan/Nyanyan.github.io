@@ -113,8 +113,13 @@
 <th>年</th><th>名称</th><th>備考</th></tr>
 <tr>
 <td>2023</td>
-    <td><a href="https://www.tv-tokyo.co.jp/tankyunokaidan/backnumber/index.html?trgt=20230720" target="_blank" el="”noopener" noreferrer”="">探究の階段 オセロAIで世界に注目される大学生／山名琢翔（筑波大学　理工学群）</a></td>
+<td><a href="https://www.tv-tokyo.co.jp/tankyunokaidan/backnumber/index.html?trgt=20230720" target="_blank" el="”noopener" noreferrer”="">探究の階段 オセロAIで世界に注目される大学生／山名琢翔（筑波大学　理工学群）</a></td>
 <td>テレビ(テレ東)</td>
+</tr>
+<tr>
+<td>2023</td>
+<td><a href="https://neutmagazine.com/interview_kumafoundation_2023" target="_blank" el="”noopener" noreferrer”="">NEUT Magazine “リターンを求められないクリエイター支援”が生む「新しい価値」。市原えつこ × クマ財団6期生座談会＜Sponsored＞</a></td>
+<td>記事(NEUT Magazine)</td>
 </tr>
 <tr>
 <td>2022</td>
