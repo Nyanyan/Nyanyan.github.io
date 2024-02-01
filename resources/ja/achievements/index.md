@@ -3,7 +3,7 @@
 <div style="text-align:center">
     受賞や実績を新しい順に紹介します。
 </div>
-
+## 受賞・支援など
 
 <table>
 <tbody><tr>
@@ -77,3 +77,32 @@
 <td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el="”noopener" noreferrer”="">京都大学ELCASプレゼンテーション賞</a></td>
 </tr>
 </tbody></table>
+
+
+
+## 発表
+
+<table>
+<tbody><tr>
+<th>年</th><th>名称</th><th>タイトル</th><th>備考</th></tr>
+<tr>
+<td>2024</td>
+<td><a href="https://prosym.org/65/" target="_blank" el="”noopener" noreferrer”="">第65回プログラミング・シンポジウム</a></td>
+<td>弱解決から2ヶ月。オセロAIで占う人間とAIの未来</td>
+<td>特別講演</td>
+</tr>
+<tr>
+<td>2023</td>
+<td><a href="https://www.gi-ipsj.org/gpw/2023/" target="_blank" el="”noopener" noreferrer”="">第28回ゲームプログラミングワークショップ (GPW-23)</a></td>
+<td>人間に勝利してから四半世紀。まだ終わらないオセロAI</td>
+<td>招待講演</td>
+</tr>
+<tr>
+<td>2022</td>
+<td><a href="https://www.ipsj.or.jp/kenkyukai/event/gi48.html" target="_blank" el="”noopener" noreferrer”="">第48回ゲーム情報学研究発表会</a></td>
+<td>深層学習による圧縮を利用した強力なオセロAIの制作</td>
+    <td><a href="https://www.ipsj.or.jp/award/gi-award2.html" target="_blank" el="”noopener" noreferrer”="">優秀研究賞</a>、<a href="https://www.ipsj.or.jp/award/yamashita2023.html" target="_blank" el="”noopener" noreferrer”="">山下記念研究賞</a>受賞</td>
+</tr>
+</tbody></table>
+
+
