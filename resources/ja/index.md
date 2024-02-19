@@ -1,8 +1,8 @@
 # 山名琢翔
 
-<div style="text-align:center">メイカー</div>
+<div style="text-align:center">ものづくりとものづくりが好きな人が好きな人</div>
 
-
+<div style="text-align:center">ものづくりそれ自体と、ものづくりのことが好きな人のことが好きです。</div>
 
 
 
