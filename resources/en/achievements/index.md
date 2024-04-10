@@ -9,6 +9,10 @@
 <tr>
 <th>Year</th><th>Achievement</th></tr>
 <tr>
+<tr>
+<td>2024</td>
+<td><a href="https://www.ipsj.or.jp/award/gi-award1.html" target="_blank" el="”noopener" noreferrer”="">Young Encouragement Award, Game Informatics Research Group, IPSJ</a></td>
+</tr>
 <td>2023</td>
 <td><a href="https://www.ipsj.or.jp/award/yamashita2023.html" target="_blank" el="”noopener" noreferrer”="">IPSJ Yamashita SIG Research Award</a></td>
 </tr>
@@ -16,7 +20,10 @@
 <td>2023</td>
 <td><a href="https://kuma-foundation.org/student/takuto-yamana/" target="_blank" el=”noopener noreferrer”>Chosen as a Creator of Kuma Foundation 7th term</a></td>
 </tr>
-<tr><td>2022</td><td><a href="https://www.ipsj.or.jp/award/gi-award2.html" target="_blank" el="”noopener" noreferrer”="">Excellent Research Award, Information Processing Society of Japan, Game Informatics Research Group</a></td></tr>
+<tr>
+<td>2022</td>
+<td><a href="https://www.ipsj.or.jp/award/gi-award2.html" target="_blank" el="”noopener" noreferrer”="">Excellent Research Award, Game Informatics Research Group, IPSJ</a></td>
+</tr>
 <tr>
 <td>2022</td>
 <td><a href="https://talent.supporterz.jp/geekten/2022/" target="_blank" el=”noopener noreferrer”>Excellent Award in Useless Development Category, Geekten 2022</a></td>
@@ -74,3 +81,4 @@
 <td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el=”noopener noreferrer”>Presentation Award in ELCAS, Kyoto University</a></td>
 </tr>
 </table
+
