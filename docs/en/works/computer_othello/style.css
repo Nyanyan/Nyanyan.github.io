@@ -9,6 +9,10 @@ table{
     white-space: nowrap;
 }
 
+tbody{
+    -webkit-text-size-adjust: 100%;
+}
+
 tr:nth-child(odd){
     background-color:  #eee;
 }
