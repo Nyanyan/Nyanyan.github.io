@@ -2,9 +2,11 @@
 
 <div style="text-align:center">, Who loves Making and who love Making</div>
 
-
+<div style="text-align:center">
 
 <img class="pic2" src="img/face.png" alt="Takuto Yamana"><img class="pic2" src="img/icon.jpg" alt="Nyanyan">
+
+</div>
 
 Photogaphy by Mika Hashimoto for NEUT Magazine
 

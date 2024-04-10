@@ -29,8 +29,8 @@ td{
 }
 
 .pic2{
-    width: 50%;
-    height: 50%;
+    width: max(50%, min(90vw, 300px));
+    height: auto;
 }
 
 .box{
