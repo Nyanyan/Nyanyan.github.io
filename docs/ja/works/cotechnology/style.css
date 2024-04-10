@@ -29,7 +29,7 @@ td{
 }
 
 .pic2{
-    width: max(50%, min(90vw, 300px));
+    width: max(30%, min(90vw, 300px));
     height: auto;
 }
 
