@@ -4,7 +4,6 @@
     作品を新しいものから紹介します。
 </div>
 
-
 <div style="text-align:center; line-height:0;">
 
 
@@ -184,3 +183,4 @@
     </a>
 </div>
 </div>
+
