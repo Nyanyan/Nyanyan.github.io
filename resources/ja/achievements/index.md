@@ -3,11 +3,13 @@
 <div style="text-align:center">
     受賞や実績を新しい順に紹介します。
 </div>
+
 ## 受賞・採択など
 
-<div class="table_wrapper"><table>
-<tbody><tr>
-<th>年</th><th>名称</th></tr>
+<div class="table_wrapper"><table><tbody>
+<tr>
+<th>年</th><th>名称</th>
+</tr>
 <tr>
 <td>2024</td>
 <td><a href="https://www.ipsj.or.jp/award/gi-award1.html" target="_blank" el="”noopener" noreferrer”="">ゲーム情報学研究会若手奨励賞</a></td>
@@ -80,16 +82,17 @@
 <td>2018</td>
 <td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el="”noopener" noreferrer”="">京都大学ELCASプレゼンテーション賞</a></td>
 </tr>
-    </tbody></table></div>
+</tbody></table></div>
 
 
 
 
 ## メディア出演
 
-<div class="table_wrapper"><table>
-<tbody><tr>
-<th>年</th><th>名称</th><th>媒体</th></tr>
+<div class="table_wrapper"><table><tbody>
+<tr>
+<th>年</th><th>名称</th><th>媒体</th>
+</tr>
 <tr>
 <td>2024</td>
 <td><a href="https://web.quizknock.com/othello-ai" target="_blank" el="”noopener" noreferrer”="">世界最強の「オセロAI」を作った大学生　創作の原点は「1冊の絵本」</a></td>
@@ -110,4 +113,4 @@
 <td><a href="https://zip-fm.co.jp/programs/6e68fe9e-29bd-49c0-aec6-ab27c7320248" target="_blank" el="”noopener" noreferrer”="">SUPER CAST</a></td>
 <td>ラジオ(ZIP-FM)</td>
 </tr>
-    </tbody></table></div>
+</tbody></table></div>

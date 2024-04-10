@@ -81,4 +81,4 @@
 <td>2018</td>
 <td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el=”noopener noreferrer”>Presentation Award in ELCAS, Kyoto University</a></td>
 </tr>
-    </tbody></table></div>
+</tbody></table></div>
