@@ -45,7 +45,7 @@ Photogaphy by Mika Hashimoto for NEUT Magazine
 
 
 
-## 技術
+## 技術・使用ツール
 
 <ul>
     <li>プログラミング言語等
@@ -56,6 +56,13 @@ Photogaphy by Mika Hashimoto for NEUT Magazine
             <li>HTML/CSS/JavaScript</li>
         </ul>
     </li>
+    <li>工作機械
+        <ul>
+            <li>卓上CNCフライス盤</li>
+            <li>FFF3Dプリンタ</li>
+            <li>SLA3Dプリンタ</li>
+        </ul>
+    </li>
     <li>使用マイコン等
         <ul>
             <li>AVRマイコン on Arduino IDE</li>
@@ -63,6 +70,12 @@ Photogaphy by Mika Hashimoto for NEUT Magazine
             <li>STM32</li>
             <li>Raspberry Pi</li>
             <li>Raspberry Pi Pico</li>
+        </ul>
+    </li>
+    <li>ロボット制作
+        <ul>
+            <li>機体設計(自己流)</li>
+            <li>機体制作</li>
         </ul>
     </li>
     <li>電子工作
@@ -79,6 +92,8 @@ Photogaphy by Mika Hashimoto for NEUT Magazine
         </ul>
     </li>
 </ul>
+
+
 
 
 
