@@ -5,6 +5,8 @@ html, body {
 table{
     border-collapse:  collapse;
     margin: auto;
+    border: 1px solid #ddd;
+    white-space: nowrap;
 }
 
 tr:nth-child(odd){
