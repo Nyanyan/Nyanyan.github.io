@@ -5,7 +5,7 @@
 </div>
 ## 受賞・採択など
 
-<table>
+<div class="table_wrapper"><table>
 <tbody><tr>
 <th>年</th><th>名称</th></tr>
 <tr>
@@ -80,13 +80,14 @@
 <td>2018</td>
 <td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el="”noopener" noreferrer”="">京都大学ELCASプレゼンテーション賞</a></td>
 </tr>
-</tbody></table>
+    </tbody></table></div>
+
 
 
 
 ## メディア出演
 
-<table>
+<div class="table_wrapper"><table>
 <tbody><tr>
 <th>年</th><th>名称</th><th>媒体</th></tr>
 <tr>
@@ -109,5 +110,4 @@
 <td><a href="https://zip-fm.co.jp/programs/6e68fe9e-29bd-49c0-aec6-ab27c7320248" target="_blank" el="”noopener" noreferrer”="">SUPER CAST</a></td>
 <td>ラジオ(ZIP-FM)</td>
 </tr>
-</tbody></table>
-
+    </tbody></table></div>

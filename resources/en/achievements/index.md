@@ -5,14 +5,15 @@
 </div>
 
 
-<table>
+<div class="table_wrapper"><table><tbody>
 <tr>
-<th>Year</th><th>Achievement</th></tr>
-<tr>
+<th>Year</th><th>Achievement</th>
+</tr>
 <tr>
 <td>2024</td>
 <td><a href="https://www.ipsj.or.jp/award/gi-award1.html" target="_blank" el="”noopener" noreferrer”="">Young Encouragement Award, Game Informatics Research Group, IPSJ</a></td>
 </tr>
+<tr>
 <td>2023</td>
 <td><a href="https://www.ipsj.or.jp/award/yamashita2023.html" target="_blank" el="”noopener" noreferrer”="">IPSJ Yamashita SIG Research Award</a></td>
 </tr>
@@ -80,4 +81,4 @@
 <td>2018</td>
 <td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el=”noopener noreferrer”>Presentation Award in ELCAS, Kyoto University</a></td>
 </tr>
-</table
+    </tbody></table></div>

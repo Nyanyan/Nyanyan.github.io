@@ -4,7 +4,7 @@
 
 ## Non-Peer-Reviewed Paper
 
-<table>
+<div class="table_wrapper"><table>
 <tbody><tr>
 <th>Year</th><th>Title</th><th>Publish</th><th>Details</th></tr>
 <tr>
@@ -19,14 +19,15 @@
 <td><a href="https://www.ipsj.or.jp/kenkyukai/event/gi48.html" target="_blank" el="”noopener" noreferrer”="">The 48th meeting of the Game Informatics Research Group</a></td>
 <td><a href="https://www.ipsj.or.jp/award/gi-award2.html" target="_blank" el="”noopener" noreferrer”="">Excellent Research Award</a>, <a href="https://www.ipsj.or.jp/award/yamashita2023.html" target="_blank" el="”noopener" noreferrer”="">IPSJ Yamashita SIG Research Award</a></td>
 </tr>
-</tbody></table>
+    </tbody></table></div>
+
 
 
 
 
 ## Articles
 
-<table>
+<div class="table_wrapper"><table>
 <tbody><tr>
 <th>Year</th><th>Title</th><th>Medium</th><th>Details</th></tr>
 <tr>
@@ -35,14 +36,15 @@
 <td>IPSJ Magazine Vol.65 No.3 pp.134-136</td>
 <td>Special Commentary</td>
 </tr>
-</tbody></table>
+    </tbody></table></div>
+
 
 
 
 
 ## Lectures
 
-<table>
+<div class="table_wrapper"><table>
 <tbody><tr>
 <th>Year</th><th>Title</th><th>Event</th><th>Details</th></tr>
 <tr>
@@ -58,5 +60,4 @@
 <td><a href="https://www.gi-ipsj.org/gpw/2023/" target="_blank" el="”noopener" noreferrer”="">The 28th Game Programming Workshop (GPW-23)</a></td>
 <td>Invited Lecture</td>
 </tr>
-</tbody></table>
-
+    </tbody></table></div>

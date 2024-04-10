@@ -22,6 +22,10 @@ td{
     padding: 5px 10px;
 }
 
+.table_wrapper{
+    overflow-x: scroll;
+}
+
 .pic{
     display: block;
     margin: auto;

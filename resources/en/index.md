@@ -14,7 +14,7 @@ Photogaphy by Mika Hashimoto for NEUT Magazine
 
 ## Biography
 
-<table><tbody>
+<div class="table_wrapper"><table><tbody>
 <tr>
 <td>2001</td>
 <td>Born</td>
@@ -31,4 +31,4 @@ Photogaphy by Mika Hashimoto for NEUT Magazine
 <td>2020</td>
 <td>Enroll in College of Engineering Systems, University of Tsukuba</td>
 </tr>
-</tbody></table>
+    </tbody></table></div>

@@ -5,12 +5,16 @@
 </div>
 
 
-<table>
+<div class="table_wrapper"><table>
 <tbody><tr>
-<th>SNS</th><th>Account</th></tr>
+<th>Medium</th><th>Account</th></tr>
 <tr>
 <td>E-mail</td>
 <td>tyamana!at!mitou`org (Please replace !at! and `)</td>
+</tr>
+<tr>
+<td>GitHub</td>
+<td><a href="https://github.com/Nyanyan/" target="_blank" el="”noopener" noreferrer”="">Nyanyan</a></td>
 </tr>
 <tr>
 <td>Twitter</td>
@@ -32,8 +36,4 @@
 <td>YouTube</td>
 <td><a href="https://www.youtube.com/channel/UCOMdTI1hhcNsWI3w4FkT2IQ" target="_blank" el="”noopener" noreferrer”="">Nyanyan - Cube &amp; Engineering</a></td>
 </tr>
-<tr>
-<td>GitHub</td>
-<td><a href="https://github.com/Nyanyan/" target="_blank" el="”noopener" noreferrer”="">Nyanyan</a></td>
-</tr>
-</tbody></table>
+    </tbody></table></div>

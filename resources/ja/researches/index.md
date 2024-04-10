@@ -4,7 +4,7 @@
 
 ## 査読なし論文
 
-<table>
+<div class="table_wrapper"><table>
 <tbody><tr>
 <th>年</th><th>タイトル</th><th>発表</th><th>備考</th></tr>
 <tr>
@@ -19,13 +19,14 @@
 <td><a href="https://www.ipsj.or.jp/kenkyukai/event/gi48.html" target="_blank" el="”noopener" noreferrer”="">第48回ゲーム情報学研究発表会</a></td>
 <td><a href="https://www.ipsj.or.jp/award/gi-award2.html" target="_blank" el="”noopener" noreferrer”="">優秀研究賞</a>、<a href="https://www.ipsj.or.jp/award/yamashita2023.html" target="_blank" el="”noopener" noreferrer”="">山下記念研究賞</a>受賞</td>
 </tr>
-</tbody></table>
+    </tbody></table></div>
+
 
 
 
 ## 執筆
 
-<table>
+<div class="table_wrapper"><table>
 <tbody><tr>
 <th>年</th><th>タイトル</th><th>媒体</th><th>備考</th></tr>
 <tr>
@@ -34,13 +35,14 @@
 <td>情報処理学会・学会誌「情報処理」Vol.65 No.3 pp.134-136</td>
 <td>特別解説記事</td>
 </tr>
-</tbody></table>
+    </tbody></table></div>
+
 
 
 
 ## 講演
 
-<table>
+<div class="table_wrapper"><table>
 <tbody><tr>
 <th>年</th><th>名称</th><th>タイトル</th><th>備考</th></tr>
 <tr>
@@ -56,4 +58,4 @@
 <td><a href="https://www.gi-ipsj.org/gpw/2023/" target="_blank" el="”noopener" noreferrer”="">第28回ゲームプログラミングワークショップ (GPW-23)</a></td>
 <td>招待講演</td>
 </tr>
-</tbody></table>
+    </tbody></table></div>

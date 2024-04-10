@@ -101,7 +101,7 @@ Photogaphy by Mika Hashimoto for NEUT Magazine
 
 ## 略歴
 
-<table><tbody>
+<div class="table_wrapper"><table><tbody>
 <tr>
 <td>2001</td>
 <td>誕生</td>
@@ -118,4 +118,4 @@ Photogaphy by Mika Hashimoto for NEUT Magazine
 <td>2020</td>
 <td>筑波大学理工学群工学システム学類入学</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
