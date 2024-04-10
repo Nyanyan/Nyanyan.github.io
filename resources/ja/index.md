@@ -2,8 +2,6 @@
 
 <div style="text-align:center">ものづくりとものづくりが好きな人が好きな人</div>
 
-<div style="text-align:center">ものづくりそれ自体と、ものづくりのことが好きな人のことが好きです。</div>
-
 
 
 <img class="pic2" src="img/face.png" alt="山名琢翔"><img class="pic2" src="img/icon.jpg" alt="にゃにゃん">

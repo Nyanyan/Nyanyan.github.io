@@ -2,8 +2,6 @@
 
 <div style="text-align:center">, Who loves Making and who love Making</div>
 
-<div style="text-align:center">I like making something and people who like making</div>
-
 
 
 <img class="pic2" src="img/face.png" alt="Takuto Yamana"><img class="pic2" src="img/icon.jpg" alt="Nyanyan">
