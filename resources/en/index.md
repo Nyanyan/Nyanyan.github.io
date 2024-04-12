@@ -8,7 +8,7 @@
 
 </div>
 
-Photogaphy by Mika Hashimoto for NEUT Magazine
+Photography by Mika Hashimoto for NEUT Magazine
 
 
 
