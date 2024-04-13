@@ -15,6 +15,7 @@ Photography by Mika Hashimoto for NEUT Magazine
 ## 活動領域
 
 <ul>
+    <li>ものづくりを楽しむこと</li>
     <li>プログラミング
         <ul>
             <li>オセロAI</li>
@@ -42,6 +43,7 @@ Photography by Mika Hashimoto for NEUT Magazine
         </ul>
     </li>
 </ul>
+
 
 
 
