@@ -95,6 +95,11 @@
 </tr>
 <tr>
 <td>2024</td>
+<td><a href="https://www.worldothello.org/news/354/egaroucid-an-othello-app-review" target="_blank" el="”noopener" noreferrer”="">Egaroucid: An Othello app review</a></td>
+<td>World Othello Federation</td>
+</tr>
+<tr>
+<td>2024</td>
 <td><a href="https://web.quizknock.com/othello-ai" target="_blank" el="”noopener" noreferrer”="">世界最強の「オセロAI」を作った大学生　創作の原点は「1冊の絵本」</a></td>
 <td>QuizKnock Webメディア</td>
 </tr>
@@ -114,3 +119,4 @@
 <td>ラジオ(ZIP-FM)</td>
 </tr>
 </tbody></table></div>
+
