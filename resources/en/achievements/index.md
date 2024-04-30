@@ -5,6 +5,8 @@
 </div>
 
 
+## Award
+
 <div class="table_wrapper"><table><tbody>
 <tr>
 <th>Year</th><th>Achievement</th>
@@ -80,5 +82,69 @@
 <tr>
 <td>2018</td>
 <td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el=”noopener noreferrer”>Presentation Award in ELCAS, Kyoto University</a></td>
+</tr>
+</tbody></table></div>
+
+
+## Adoption
+
+<div class="table_wrapper"><table><tbody>
+<tr>
+<th>Year</th><th>Achievement</th>
+</tr>
+<tr>
+<td>2023</td>
+<td><a href="https://kuma-foundation.org/student/takuto-yamana/" target="_blank" el=”noopener noreferrer”>Kuma Foundation Creators' Scholarship 7th term</a></td>
+</tr>
+<tr>
+<td>2023</td>
+<td><a href="https://project.ccs.tsukuba.ac.jp/event/24/contributions/439/" target="_blank" el="”noopener" noreferrer”="">Multidisciplinary Cooperative Research Program 2023, CCS, Tsukuba University</a></td>
+</tr>
+<tr>
+<td>2022</td>
+<td><a href="https://kuma-foundation.org/student/takuto-yamana/" target="_blank" el=”noopener noreferrer”>Kuma Foundation Creators' Scholarship 6th term</a></td>
+</tr>
+<tr>
+<td>2021</td>
+<td><a href="https://kuma-foundation.org/student/takuto-yamana/" target="_blank" el=”noopener noreferrer”>Kuma Foundation Creators' Scholarship 5th term</a></td>
+</tr>
+<tr>
+<td>2018</td>
+<td><a href="https://www.ipa.go.jp/jinzai/mitou/it/2018/gaiyou_s-5.html" target="_blank" el=”noopener noreferrer”>Mitou Creator in Information-technology Promotion Agency, Japan</a></td>
+</tr>
+</tbody></table></div>
+
+
+
+## Media Appearance
+
+<div class="table_wrapper"><table><tbody>
+<tr>
+<th>Year</th><th>Title</th><th>Medium</th>
+</tr>
+<tr>
+<td>2024</td>
+<td><a href="https://www.worldothello.org/news/354/egaroucid-an-othello-app-review" target="_blank" el="”noopener" noreferrer”="">Egaroucid: An Othello app review</a></td>
+<td>World Othello Federation</td>
+</tr>
+<tr>
+<td>2024</td>
+<td><a href="https://web.quizknock.com/othello-ai" target="_blank" el="”noopener" noreferrer”="">世界最強の「オセロAI」を作った大学生　創作の原点は「1冊の絵本」</a></td>
+<td>QuizKnock Web (Japanese)</td>
+</tr>
+<tr>
+<td>2023</td>
+<td><a href="https://www.tv-tokyo.co.jp/tankyunokaidan/backnumber/index.html?trgt=20230720" target="_blank" el="”noopener" noreferrer”="">探究の階段 オセロAIで世界に注目される大学生／山名琢翔（筑波大学　理工学群）</a></td>
+<td>Television (Japanese)</td>
+</tr>
+<tr>
+<td>2023</td>
+<td><a href="https://neutmagazine.com/interview_kumafoundation_2023" target="_blank" el="”noopener" noreferrer”="">NEUT Magazine “リターンを求められないクリエイター支援”が生む「新しい価値」。市原えつこ × クマ財団6期生座談会＜Sponsored＞</a></td>
+<td>NEUT Magazine (Japanese)</td>
+</tr>
+<tr>
+<td>2022</td>
+<td><a href="https://zip-fm.co.jp/programs/6e68fe9e-29bd-49c0-aec6-ab27c7320248" target="_blank" el="”noopener" noreferrer”="">SUPER CAST</a></td>
+<td>Radio (Japanese)</td>
 </tr>
 </tbody></table></div>

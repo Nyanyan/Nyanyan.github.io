@@ -1,10 +1,11 @@
 # 実績
 
 <div style="text-align:center">
-    受賞や実績を新しい順に紹介します。
+    実績を新しい順に紹介します。
 </div>
 
-## 受賞・採択など
+
+## 受賞など
 
 <div class="table_wrapper"><table><tbody>
 <tr>
@@ -19,10 +20,6 @@
 <td><a href="https://www.ipsj.or.jp/award/yamashita2023.html" target="_blank" el="”noopener" noreferrer”="">情報処理学会山下記念研究賞</a></td>
 </tr>
 <tr>
-<td>2023</td>
-<td><a href="https://kuma-foundation.org/student/takuto-yamana/" target="_blank" el="”noopener" noreferrer”="">クマ財団クリエイター奨学金7期生採択</a></td>
-</tr>
-<tr>
 <td>2022</td>
 <td><a href="https://www.ipsj.or.jp/award/gi-award2.html" target="_blank" el="”noopener" noreferrer”="">ゲーム情報学研究会優秀研究賞</a></td>
 </tr>
@@ -35,20 +32,12 @@
 <td><a href="https://makezine.jp/event/makerfaire/ymc2022/" target="_blank" el="”noopener" noreferrer”="">Maker Faire Tokyo 2022 Young Maker Challenge SPRESENSE賞</a></td>
 </tr>
 <tr>
-<td>2022</td>
-<td><a href="https://kuma-foundation.org/student/takuto-yamana/" target="_blank" el="”noopener" noreferrer”="">クマ財団クリエイター奨学金6期生採択</a></td>
-</tr>
-<tr>
 <td>2021</td>
 <td><a href="https://www.codingame.com/multiplayer/bot-programming/othello-1" target="_blank" el="”noopener" noreferrer”="">CodinGame オセロAI世界1位</a></td>
 </tr>
 <tr>
 <td>2021</td>
 <td><a href="https://talent.supporterz.jp/geekten/2021/" target="_blank" el="”noopener" noreferrer”="">技育展2021無駄開発部門最優秀賞</a></td>
-</tr>
-<tr>
-<td>2021</td>
-<td><a href="https://kuma-foundation.org/student/takuto-yamana/" target="_blank" el="”noopener" noreferrer”="">クマ財団クリエイター奨学金5期生採択</a></td>
 </tr>
 <tr>
 <td>2020</td>
@@ -72,10 +61,6 @@
 </tr>
 <tr>
 <td>2018</td>
-<td><a href="https://www.ipa.go.jp/jinzai/mitou/it/2018/gaiyou_s-5.html" target="_blank" el="”noopener" noreferrer”="">IPA未踏IT人材発掘・育成事業採択</a></td>
-</tr>
-<tr>
-<td>2018</td>
 <td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-04-09-0" target="_blank" el="”noopener" noreferrer”="">京都大学サイエンスフェスティバル副学長賞</a></td>
 </tr>
 <tr>
@@ -84,6 +69,35 @@
 </tr>
 </tbody></table></div>
 
+
+
+## 採択
+
+<div class="table_wrapper"><table><tbody>
+<tr>
+<th>年</th><th>名称</th>
+</tr>
+<tr>
+<td>2023</td>
+<td><a href="https://kuma-foundation.org/student/takuto-yamana/" target="_blank" el="”noopener" noreferrer”="">クマ財団クリエイター奨学金7期生</a></td>
+</tr>
+<tr>
+<td>2023</td>
+<td><a href="https://project.ccs.tsukuba.ac.jp/event/24/contributions/439/" target="_blank" el="”noopener" noreferrer”="">筑波大学CCS 令和5年度学際共同利用プログラム</a></td>
+</tr>
+<tr>
+<td>2022</td>
+<td><a href="https://kuma-foundation.org/student/takuto-yamana/" target="_blank" el="”noopener" noreferrer”="">クマ財団クリエイター奨学金6期生</a></td>
+</tr>
+<tr>
+<td>2021</td>
+<td><a href="https://kuma-foundation.org/student/takuto-yamana/" target="_blank" el="”noopener" noreferrer”="">クマ財団クリエイター奨学金5期生</a></td>
+</tr>
+<tr>
+<td>2018</td>
+<td><a href="https://www.ipa.go.jp/jinzai/mitou/it/2018/gaiyou_s-5.html" target="_blank" el="”noopener" noreferrer”="">IPA未踏IT人材発掘・育成事業</a></td>
+</tr>
+</tbody></table></div>
 
 
 
@@ -119,4 +133,3 @@
 <td>ラジオ(ZIP-FM)</td>
 </tr>
 </tbody></table></div>
-
