@@ -105,7 +105,7 @@
 
 <div class="table_wrapper"><table><tbody>
 <tr>
-<th>年</th><th>名称</th><th>媒体</th>
+<th>年</th><th>タイトル</th><th>媒体</th>
 </tr>
 <tr>
 <td>2024</td>
@@ -133,3 +133,4 @@
 <td>ラジオ(ZIP-FM)</td>
 </tr>
 </tbody></table></div>
+
