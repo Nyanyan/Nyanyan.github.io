@@ -1,0 +1,147 @@
+html, body {
+    font-family: "Arial", "メイリオ";
+    line-height: 1.7em;
+}
+
+table{
+    border-collapse:  collapse;
+    margin: auto;
+    border: 1px solid #ddd;
+    white-space: nowrap;
+}
+
+tbody{
+    -webkit-text-size-adjust: 100%;
+}
+
+tr:nth-child(odd){
+    background-color:  #eee;
+}
+
+th{
+    padding: 5px 10px;
+    background-color:  #ccc;
+}
+
+td{
+    padding: 5px 10px;
+}
+
+.table_wrapper{
+    overflow-x: scroll;
+}
+
+.pic{
+    display: block;
+    margin: auto;
+    width: 70vmin;
+}
+
+.pic2{
+    width: max(30%, min(90vw, 300px));
+    height: auto;
+}
+
+.box{
+    width: min(100vh, 90vw);
+    text-align: start;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.h3_left{
+    font-size: larger;
+    font-weight: bold;
+    text-align: left;
+}
+
+.menu_bar{
+    width: 100%;
+    height: min(9vw, 60px);
+    background-color:  #2D3E50;
+    display: flex;
+    align-items: center;
+    padding: 0%;
+    margin: 0%;
+}
+
+.menu_a{
+    text-decoration: none;
+    height: 100%;
+    color: white;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.menu_button{
+    width: min(15vw, 130px);
+    height: min(9vw, 60px);
+    background-color:  #2D3E50;
+    display: inline-block; 
+    text-align: center;
+    display: table;
+    vertical-align: middle;
+    font-size: min(2.5vw, 12pt);
+}
+
+.eye_catch {
+    width: min(45vw, 300px);
+    height: min(45vw, 300px);
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    _display: inline;
+    cursor: pointer;
+}
+
+.eye_catch .img {
+    width: 100%;
+    height: 100%;
+}
+
+.eye_catch .caption {
+    font-size: 100%;
+    color: #ffffff;
+    padding: 4%;
+}
+
+.eye_catch .mask {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    background-color: rgba(0,0,0,0.5);
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    text-align: center;
+    line-height: normal;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.eye_catch:hover .mask {
+    opacity:1;
+}
+
+.youtube {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    text-align: center;
+}
+.youtube iframe {
+    width: 100%;
+    height: 100%;
+}
