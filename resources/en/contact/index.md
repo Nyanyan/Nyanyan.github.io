@@ -34,6 +34,6 @@
 </tr>
 <tr>
 <td>YouTube</td>
-<td><a href="https://www.youtube.com/channel/UCOMdTI1hhcNsWI3w4FkT2IQ" target="_blank" el="”noopener" noreferrer”="">Nyanyan - Cube &amp; Engineering</a></td>
+<td><a href="https://www.youtube.com/channel/UCOMdTI1hhcNsWI3w4FkT2IQ" target="_blank" el="”noopener" noreferrer”="">Nyanyan - Maker</a></td>
 </tr>
-    </tbody></table></div>
+</tbody></table></div>
