@@ -35,7 +35,6 @@
     </a>
 </div>
 
-
 <div class="eye_catch">
     <a href="./past_now_future/">
         <img class="img" src="img/past_now_future.png"/>

@@ -24,7 +24,6 @@
     </a>
 </div>
 
-
 <div class="eye_catch">
     <a href="./cotechnology/">
         <img class="img" src="img/cotechnology.png"/>
