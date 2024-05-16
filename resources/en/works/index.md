@@ -99,6 +99,15 @@
 </div>
 
 <div class="eye_catch">
+    <a href="./padurong/">
+        <img class="img" src="img/padurong.png"/>
+        <div class="mask">
+            <div class="caption">Padurong (2021)<br>Handmade Face Turn Octahedron</div>
+        </div>
+    </a>
+</div>
+
+<div class="eye_catch">
     <a href="./cuyu/">
         <img class="img" src="img/cuyu.png"/>
         <div class="mask">
