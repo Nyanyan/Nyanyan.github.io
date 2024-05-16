@@ -6,9 +6,6 @@
 
 <div style="text-align:center; line-height:0;">
 
-
-
-
 <div class="eye_catch">
     <a href="./egaroucid/">
         <img class="img" src="img/egaroucid.png"/>
@@ -17,6 +14,16 @@
         </div>
     </a>
 </div>
+
+<div class="eye_catch">
+    <a href="./cuyu2/">
+        <img class="img" src="img/cuyu2.png"/>
+        <div class="mask">
+            <div class="caption">CuYu2 (2024)<br>立体パズル楽器</div>
+        </div>
+    </a>
+</div>
+
 
 <div class="eye_catch">
     <a href="./cotechnology/">
