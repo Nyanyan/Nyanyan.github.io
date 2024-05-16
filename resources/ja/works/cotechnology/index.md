@@ -28,6 +28,14 @@ STM32ボード提供: STMicroelectronics 中村 良明様
 
 さて、私は協働する技術をうまく身に着けて生きていくのか。それで私自身が納得するのか。技術、ものづくりに対して、もっと違う向き合い方をしていくのか。協働する技術を見て、改めて今、考えています。
 
+
+
+<div class="youtube">
+<iframe src="https://www.youtube.com/embed/7nRlb4U1kdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
 <div style="text-align: center">
     <img src="img/img1.jpg" width="100%">
 </div>
