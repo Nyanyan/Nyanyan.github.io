@@ -5,6 +5,7 @@ past_now_future
 sound_of_othello
 isevot
 computer_othello
+mod_rubikscube_solver_robo
 egaroucen
 retro_othello_ai
 cuyu

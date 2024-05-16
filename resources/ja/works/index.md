@@ -70,6 +70,15 @@
 </div>
 
 <div class="eye_catch">
+    <a href="./mod_rubikscube_solver_robo/">
+        <img class="img" src="img/mod_rubikscube_solver_robo.png"/>
+        <div class="mask">
+            <div class="caption">魔改造ルービックキューブソルバーロボ (2022)<br>商品化したロボットを改造</div>
+        </div>
+    </a>
+</div>
+
+<div class="eye_catch">
     <a href="./egaroucen/">
         <img class="img" src="img/egaroucen.png"/>
         <div class="mask">

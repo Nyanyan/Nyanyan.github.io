@@ -72,6 +72,15 @@
 </div>
 
 <div class="eye_catch">
+    <a href="./mod_rubikscube_solver_robo/">
+        <img class="img" src="img/mod_rubikscube_solver_robo.png"/>
+        <div class="mask">
+            <div class="caption">Modified Rubik's Cube Solver Robo (2022)<br>Modification of commercialized robots</div>
+        </div>
+    </a>
+</div>
+
+<div class="eye_catch">
     <a href="./egaroucen/">
         <img class="img" src="img/egaroucen.png"/>
         <div class="mask">
