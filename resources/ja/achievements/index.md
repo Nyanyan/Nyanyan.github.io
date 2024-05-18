@@ -5,7 +5,7 @@
 </div>
 
 
-## 受賞など
+## 受賞
 
 <div class="table_wrapper"><table><tbody>
 <tr>
@@ -94,10 +94,15 @@
 <td><a href="https://kuma-foundation.org/student/takuto-yamana/" target="_blank" el="”noopener" noreferrer”="">クマ財団クリエイター奨学金5期生</a></td>
 </tr>
 <tr>
+<td>2020</td>
+<td>DMM.make AKIBA SCHOLARSHIP (スタートライン)</td>
+</tr>
+<tr>
 <td>2018</td>
 <td><a href="https://www.ipa.go.jp/jinzai/mitou/it/2018/gaiyou_s-5.html" target="_blank" el="”noopener" noreferrer”="">IPA未踏IT人材発掘・育成事業</a></td>
 </tr>
 </tbody></table></div>
+
 
 
 
@@ -133,4 +138,3 @@
 <td>ラジオ(ZIP-FM)</td>
 </tr>
 </tbody></table></div>
-
