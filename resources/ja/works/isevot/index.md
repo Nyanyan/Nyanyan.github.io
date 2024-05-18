@@ -12,11 +12,13 @@ Isevotは自作オセロAI Egaroucidを搭載した2台のロボットです。�
 
 製作の背景を[文章](https://note.com/nyanyan_cubetech/n/n7262af06aefb)でも公開しています。
 
+
+
+この作品で[技育展2022無駄開発部門優秀賞](https://talent.supporterz.jp/geekten/2022/)を受賞しました。
+
 <div class="youtube">
 <iframe src="https://www.youtube.com/embed/bV2cLeHRmJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-
 
 
 <div style="text-align: center">

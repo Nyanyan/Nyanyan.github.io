@@ -16,6 +16,10 @@ The original AI is much weaker than modern Othello AIs. But if I, who  made the 
 
 PV-MCTS algorithm runs on a Spresense from Sony.
 
+
+
+I've got [Maker Faire Tokyo 2022 Young Maker Challenge SPRESENSE Award](https://makezine.jp/event/makerfaire/ymc2022/) with this project.
+
 <div style="text-align: center">
     <img src="img/img1.jpg" width="100%">
 </div>

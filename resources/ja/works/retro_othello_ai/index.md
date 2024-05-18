@@ -12,6 +12,10 @@
 
 10個のマイコンのうち9つを並列に動作させることでAIの高速化を実現しました。並列化アルゴリズムにはYBWCを使用しました。
 
+
+
+この作品で[技育展2021無駄開発部門最優秀賞](https://talent.supporterz.jp/geekten/2021/)を受賞しました。
+
 <div class="youtube">
 <iframe src="https://www.youtube.com/embed/I_ctZKlP2XA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

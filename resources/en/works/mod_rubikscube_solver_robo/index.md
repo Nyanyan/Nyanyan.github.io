@@ -4,6 +4,8 @@ Modified "Rubik's Cube Solver Robo" by Toys "R" Us Original (2022)
 
 
 
+
+
 I tried modifying the Toys "R" Us original "Rubik's Cube Solver Robo" that I helped commercialize.
 
 I installed a color sensor that is not in the commercial version, and wrote my own program to achieve smoother movement.

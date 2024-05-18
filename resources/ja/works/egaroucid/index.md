@@ -1,6 +1,6 @@
 # Egaroucid
 
-世界最強のオセロAI (2021-)
+世界最強のオセロAI (2021-現在)
 
 
 
@@ -22,17 +22,6 @@ Egaroucidの原型となったオセロAIは世界的なオセロAIコンテス�
 
 
 
-このオセロAIは高精度な評価関数を使い、CPUによる並列化も実現しました。主なアルゴリズムにはNegascout法を、並列化にはYBWCを用いています。
-
-
-
-今後GPUによる大規模な並列化にも取り組む予定です。
-
-
-
-
-
 <div style="text-align: center">
     <img src="img/egaroucid_app.png" width="100%">
 </div>
-
