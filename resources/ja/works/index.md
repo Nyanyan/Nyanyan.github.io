@@ -10,7 +10,7 @@
     <a href="./egaroucid/">
         <img class="img" src="img/egaroucid.png"/>
         <div class="mask">
-            <div class="caption">Egaroucid (2021-)<br>世界最強のオセロAI</div>
+            <div class="caption">Egaroucid (2021-現在)<br>世界最強のオセロAI</div>
         </div>
     </a>
 </div>

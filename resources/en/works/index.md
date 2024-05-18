@@ -12,7 +12,7 @@
     <a href="./egaroucid/">
         <img class="img" src="img/egaroucid.png"/>
         <div class="mask">
-            <div class="caption">Egaroucid (2021-)<br>World's strongest Othello AI</div>
+            <div class="caption">Egaroucid (2021-Now)<br>World's strongest Othello AI</div>
         </div>
     </a>
 </div>
