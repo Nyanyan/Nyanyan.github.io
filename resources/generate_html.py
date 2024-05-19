@@ -200,7 +200,7 @@ def create_html(dr):
     html = ''
     html += '<div class="box">\n'
     html += '<p>\n'
-    html += tweet.replace('DATA_URL', this_page_url).replace('DATA_TEXT', page_title) + ' \n'
+    html += tweet.replace('DATA_URL', this_page_url + '/').replace('DATA_TEXT', page_title) + ' \n'
     for lang_dr, lang_name in langs:
         original_lang = dr.split('/')[0]
         if lang_dr == original_lang:
