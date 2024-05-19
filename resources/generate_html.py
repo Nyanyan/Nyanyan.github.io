@@ -64,6 +64,9 @@ with open(elements_dir + '/tweet.html', 'r', encoding='utf-8') as f:
 with open(elements_dir + '/foot.html', 'r', encoding='utf-8') as f:
     foot = f.read()
 
+with open(elements_dir + '/description.txt', 'r', encoding='utf-8') as f:
+    description = f.read()
+
 section_head1 = '<div>\n<h2>'
 section_head2 = '</h2>\n'
 section_foot = '</div>\n'
@@ -230,17 +233,16 @@ def create_html(dr):
         pass
     html += '</div>\n'
     head_title = '<title>' + page_title + '</title>\n'
-    og_image = '<meta property="og:image" content="' + this_page_url + '/img/eyecatch.png" />\n'
     additional_head = '<meta property="og:url" content="' + this_page_url + '/" />\n'
     additional_head += '<meta property="og:title" content="' + page_title + '" />\n'
-    #additional_head += '<meta property="og:description" content="' + meta_description + '" />\n'
+    additional_head += '<meta property="og:image" content="' + this_page_url + '/img/eyecatch.png" />\n'
+    additional_head += '<meta property="og:description" content="' + description + '" />\n'
     additional_head += '<link rel="canonical" href="' + this_page_url + '/">\n'
-    #additional_head += '<meta name="description" content="' + meta_description + '"/>\n'
     out_dr = 'generated/' + dr
     if not os.path.exists(out_dr):
         os.mkdir(out_dr)
     with open(out_dr + '/index.html', 'w', encoding='utf-8') as f:
-        f.write(head + alternate + og_image + head2 + head_title + menu + html + foot)
+        f.write(head + alternate + additional_head + head_title + head2 + menu + html + foot)
     shutil.copy(css_file, out_dr + '/style.css')
     if os.path.exists(dr + '/img'):
         img_files = glob.glob(dr + '/img/**')
