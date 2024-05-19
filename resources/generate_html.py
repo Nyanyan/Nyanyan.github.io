@@ -191,10 +191,13 @@ def create_html(dr):
         '''
         # modify data
         md_split[i] = elem
+    this_page_url = main_page_url + dr
+    with open(dr + '/title.txt', 'r', encoding='utf-8') as f:
+        page_title = f.readline()
     html = ''
     html += '<div class="box">\n'
     html += '<p>\n'
-    #html += tweet + ' \n'
+    html += tweet.replace('DATA_URL', this_page_url).replace('DATA_TEXT', page_title) + ' \n'
     for lang_dr, lang_name in langs:
         original_lang = dr.split('/')[0]
         if lang_dr == original_lang:
@@ -226,9 +229,6 @@ def create_html(dr):
     except:
         pass
     html += '</div>\n'
-    this_page_url = main_page_url + dr
-    with open(dr + '/title.txt', 'r', encoding='utf-8') as f:
-        page_title = f.readline()
     head_title = '<title>' + page_title + '</title>\n'
     og_image = '<meta property="og:image" content="' + this_page_url + '/img/eyecatch.png" />\n'
     additional_head = '<meta property="og:url" content="' + this_page_url + '/" />\n'
