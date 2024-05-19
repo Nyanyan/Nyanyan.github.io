@@ -5,7 +5,7 @@ import sys
 import re
 from PIL import Image
 
-MAX_IMG_SIZE = 4000
+MAX_IMG_SIZE = 1024
 
 def convert_img(file):
     img = Image.open(file)
@@ -79,6 +79,18 @@ link21 = '<a href="'
 link22 = '">'
 link23 = '</a>'
 
+def judge_raw_html(html_elem):
+    html_tags = ['table', 'tr', 'td', 'th', 'a', 'div', 'ul', 'li', 'p', 'span', 'canvas', 'details', 'summary', 'code', 'label', 'script']
+    count = 0
+    for tag in html_tags:
+        if '<' + tag in html_elem:
+            count += 1
+        elif '</' + tag in html_elem:
+            count -= 1
+    #print(html_elem)
+    # ignore img, input, br
+    return count
+
 def create_html(dr):
     alternate = ''
     for lang in langs:
@@ -93,6 +105,7 @@ def create_html(dr):
     with open(dr + '/index.md', 'r', encoding='utf-8') as f:
         md = f.read()
     md_split = md.splitlines()
+    '''
     for i, elem in enumerate(md_split):
         # special replacements
         # section tags
@@ -116,6 +129,66 @@ def create_html(dr):
         for bold in bolds:
             html_bold = '<b>' + bold[2:-2] + '</b>'
             elem = elem.replace(bold, html_bold)
+        # modify data
+        md_split[i] = elem
+    '''
+    raw_html = 0
+    for i, elem in enumerate(md_split):
+        while elem and (elem[0] == ' ' or elem[0] == '\t'):
+            elem = elem[1:]
+        html_elems = re.findall('\<.+?\>', elem)
+        for html_elem in html_elems:
+            raw_html += judge_raw_html(html_elem)
+        # section tags
+        if elem[:2] == '# ':
+            elem = '<h1>' + elem[2:] + '</h1>'
+        elif elem[:3] == '## ':
+            last_h3_title = elem[3:]
+            elem = '<h2 id="' + elem[3:] + '">' + elem[3:] + '</h2>'
+        elif elem[:4] == '### ':
+            elem = '<h3 id="' + last_h3_title + '_' + elem[4:] + '">' + elem[4:] + '</h3>'
+        elif elem[:5] == '#### ':
+            elem = '<h4>' + elem[5:] + '</h4>'
+        # links
+        links = re.findall('\[.+?\]\(.+?\)', elem)
+        for link in links:
+            text, url = link[1:-1].split('](')
+            if url[0] != '.':
+                html_link = link1 + url + link2 + text + link3
+            else:
+                html_link = link21 + url + link22 + text + link23
+            elem = elem.replace(link, html_link)
+        # bold
+        bolds = re.findall('\*\*.+?\*\*', elem)
+        for bold in bolds:
+            html_bold = '<b>' + bold[2:-2] + '</b>'
+            elem = elem.replace(bold, html_bold)
+        # code
+        codes = re.findall('```.+?```', elem)
+        for code in codes:
+            html_code = '<code>' + code[3:-3] + '</code>'
+            elem = elem.replace(code, html_code)
+        # paragraph
+        if raw_html == 0:
+            elem = '<p>' + elem + '</p>'
+        # img
+        '''
+        if elem[:4] == '<img':
+            img_file_name = ''
+            for elem_elem in elem.split():
+                if elem_elem[:4] == 'src=':
+                    last_idx = elem_elem.rfind('"')
+                    img_file_name = elem_elem[5:last_idx]
+                    img_file_name = img_file_name.replace('"', '').replace('>', '')
+            if img_file_name:
+                print(dr + '/' + img_file_name)
+                img = Image.open(dr + '/' + img_file_name)
+                shorter_side = min(img.width, img.height)
+                ratio = min(1, MAX_IMG_SIZE / shorter_side)
+                img_width = int(img.width * ratio)
+                img_height = int(img.height * ratio)
+                elem = '<img width="' + str(img_width) + '" height="' + str(img_height) + '"' + elem[4:]
+        '''
         # modify data
         md_split[i] = elem
     html = ''
