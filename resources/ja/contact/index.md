@@ -6,9 +6,7 @@
 
 
 <div class="table_wrapper"><table>
-<tbody><tr>
-<th>SNS</th><th>アカウント</th></tr>
-<tr>
+<tbody>
 <td>E-mail</td>
 <td>tyamana!at!mitou`org (!at!と`を置き換えてください)</td>
 </tr>

@@ -6,9 +6,7 @@
 
 
 <div class="table_wrapper"><table>
-<tbody><tr>
-<th>Medium</th><th>Account</th></tr>
-<tr>
+<tbody>
 <td>E-mail</td>
 <td>tyamana!at!mitou`org (Please replace !at! and `)</td>
 </tr>
