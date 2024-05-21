@@ -129,7 +129,7 @@
 </tr>
 <tr>
 <td>2023</td>
-<td><a href="https://neutmagazine.com/interview_kumafoundation_2023" target="_blank" el="”noopener" noreferrer”="">NEUT Magazine “リターンを求められないクリエイター支援”が生む「新しい価値」。市原えつこ × クマ財団6期生座談会＜Sponsored＞</a></td>
+<td><a href="https://neutmagazine.com/interview_kumafoundation_2023" target="_blank" el="”noopener" noreferrer”="">“リターンを求められないクリエイター支援”が生む「新しい価値」<br>市原えつこ × クマ財団6期生座談会＜Sponsored＞</a></td>
 <td>記事(NEUT Magazine)</td>
 </tr>
 <tr>
@@ -138,3 +138,4 @@
 <td>ラジオ(ZIP-FM)</td>
 </tr>
 </tbody></table></div>
+
