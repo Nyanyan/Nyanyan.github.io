@@ -2,4 +2,5 @@
 作品 /works/
 展示 /exhibitions/
 研究 /researches/
+実績 /achievements/
 コンタクト /contact/
