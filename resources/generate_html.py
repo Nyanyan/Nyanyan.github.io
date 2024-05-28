@@ -173,7 +173,8 @@ def create_html(dr):
             elem = elem.replace(code, html_code)
         # paragraph
         if raw_html == 0:
-            elem = '<p>' + elem + '</p>'
+            if not (len(elem) >= 2 and elem[:2] == '<h'):
+                elem = '<p>' + elem + '</p>'
         # img
         '''
         if elem[:4] == '<img':
@@ -199,7 +200,7 @@ def create_html(dr):
         page_title = f.readline()
     html = ''
     html += '<div class="box">\n'
-    html += '<p>\n'
+    html += '<p></p>\n'
     html += tweet.replace('DATA_URL', this_page_url + '/').replace('DATA_TEXT', page_title) + ' \n'
     for lang_dr, lang_name in langs:
         original_lang = dr.split('/')[0]
@@ -208,7 +209,6 @@ def create_html(dr):
         modified_dr = dr[len(original_lang) + 1:]
         lang_link = main_page_url + lang_dr + '/' + modified_dr
         html += link21 + lang_link + link22 + lang_name + link23 + ' \n'
-    html += '</p>\n'
     try:
         with open(dr + '/head_additional.html', 'r', encoding='utf-8') as f:
             html += f.read()

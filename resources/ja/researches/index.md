@@ -3,7 +3,6 @@
 
 
 ## 査読なし論文
-
 <div class="table_wrapper"><table>
 <tbody><tr>
 <th>年</th><th>タイトル</th><th>発表</th><th>備考</th></tr>
@@ -19,13 +18,11 @@
 <td><a href="https://www.ipsj.or.jp/kenkyukai/event/gi48.html" target="_blank" el="”noopener" noreferrer”="">第48回ゲーム情報学研究発表会</a></td>
 <td><a href="https://www.ipsj.or.jp/award/gi-award2.html" target="_blank" el="”noopener" noreferrer”="">優秀研究賞</a>、<a href="https://www.ipsj.or.jp/award/yamashita2023.html" target="_blank" el="”noopener" noreferrer”="">山下記念研究賞</a>受賞</td>
 </tr>
-    </tbody></table></div>
-
+</tbody></table></div>
 
 
 
 ## 執筆
-
 <div class="table_wrapper"><table>
 <tbody><tr>
 <th>年</th><th>タイトル</th><th>媒体</th><th>備考</th></tr>
@@ -41,7 +38,6 @@
 
 
 ## 講演
-
 <div class="table_wrapper"><table>
 <tbody><tr>
 <th>年</th><th>名称</th><th>タイトル</th><th>備考</th></tr>

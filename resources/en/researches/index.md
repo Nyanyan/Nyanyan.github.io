@@ -3,7 +3,6 @@
 
 
 ## Non-Peer-Reviewed Paper
-
 <div class="table_wrapper"><table>
 <tbody><tr>
 <th>Year</th><th>Title</th><th>Publish</th><th>Details</th></tr>
@@ -26,7 +25,6 @@
 
 
 ## Articles
-
 <div class="table_wrapper"><table>
 <tbody><tr>
 <th>Year</th><th>Title</th><th>Medium</th><th>Details</th></tr>
@@ -43,7 +41,6 @@
 
 
 ## Lectures
-
 <div class="table_wrapper"><table>
 <tbody><tr>
 <th>Year</th><th>Title</th><th>Event</th><th>Details</th></tr>

@@ -6,7 +6,6 @@
 
 
 ## Award
-
 <div class="table_wrapper"><table><tbody>
 <tr>
 <th>Year</th><th>Achievement</th>
@@ -72,7 +71,6 @@
 
 
 ## Adoption
-
 <div class="table_wrapper"><table><tbody>
 <tr>
 <th>Year</th><th>Achievement</th>
@@ -107,7 +105,6 @@
 
 
 ## Media Appearance
-
 <div class="table_wrapper"><table><tbody>
 <tr>
 <th>Year</th><th>Title</th><th>Medium</th>

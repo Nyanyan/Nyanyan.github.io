@@ -111,7 +111,6 @@ Photography by Mika Hashimoto for NEUT Magazine
 
 
 ## Biography
-
 <div class="table_wrapper"><table><tbody>
 <tr>
 <td>2001</td>

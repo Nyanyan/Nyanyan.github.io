@@ -6,7 +6,6 @@
 
 
 ## 受賞
-
 <div class="table_wrapper"><table><tbody>
 <tr>
 <th>年</th><th>名称</th>
@@ -72,7 +71,6 @@
 
 
 ## 採択
-
 <div class="table_wrapper"><table><tbody>
 <tr>
 <th>年</th><th>名称</th>
@@ -107,7 +105,6 @@
 
 
 ## メディア出演
-
 <div class="table_wrapper"><table><tbody>
 <tr>
 <th>年</th><th>タイトル</th><th>媒体</th>
