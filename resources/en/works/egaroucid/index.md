@@ -4,7 +4,7 @@ World's strongest Othello AI (2021-Now)
 
 
 
-Egaroucid is a othello AI from scratch, and a othello learning software in which the othello AI calculates.
+[Egaroucid](https://www.egaroucid.nyanyan.dev/en/) is a othello AI from scratch, and a othello learning software in which the othello AI calculates.
 
 
 
@@ -21,5 +21,14 @@ You can play the light version on the web, [Egaroucid for Web](https://www.egaro
 
 
 <div style="text-align: center">
-    <img src="img/egaroucid_app.png" width="100%">
+    <img src="img/app.png" width="100%">
+</div>
+
+
+<div style="text-align: center">
+    <img src="img/egaroucid_for_console.png" width="100%">
+</div>
+
+<div style="text-align: center">
+    <img src="img/egaroucid_for_web.png" width="100%">
 </div>
