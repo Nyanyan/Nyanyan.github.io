@@ -25,49 +25,49 @@ Born in 2001. Enjoying "Making", I actively publish various information related 
 <div style="text-align:center;">
 
 <div class="skill_div"><p class="skill_header">Programming</p>
-<table><tbody>
+<div class="table_wrapper"><table><tbody>
 <tr><td>C/C++</td><td>★★★★★</td></tr>
 <tr><td>Python</td><td>★★★★★</td></tr>
 <tr><td>CUDA C++</td><td>★★★★</td></tr>
 <tr><td>TensorFlow</td><td>★★★</td></tr>
 <tr><td>HTML/CSS/JavaScript</td><td>★★</td></tr>
-</tbody></table></div>
+</tbody></table></div></div>
 
 <div class="skill_div"><p class="skill_header">Electronics</p>
-<table><tbody>
+<div class="table_wrapper"><table><tbody>
 <tr><td>Soldering</td><td>★★★★★</td></tr>
 <tr><td>Circuit Design</td><td>★★★</td></tr>
 <tr><td>Board Design</td><td>★★★</td></tr>
-</tbody></table></div>
+</tbody></table></div></div>
 
 <div class="skill_div"><p class="skill_header">Robotics</p>
-<table><tbody>
+<div class="table_wrapper"><table><tbody>
 <tr><td>Design</td><td>★★★</td></tr>
 <tr><td>Production</td><td>★★★★</td></tr>
-</tbody></table></div>
+</tbody></table></div></div>
 
 <div class="skill_div"><p class="skill_header">MIcrocontrollers</p>
-<table><tbody>
+<div class="table_wrapper"><table><tbody>
 <tr><td>AVR Microcontrollers on Arduino IDE</td><td>★★★★★</td></tr>
 <tr><td>ESP32</td><td>★★★★★</td></tr>
 <tr><td>STM32</td><td>★★★</td></tr>
 <tr><td>Raspberry Pi</td><td>★★★★</td></tr>
 <tr><td>Raspberry Pi Pico</td><td>★★★</td></tr>
-</tbody></table></div>
+</tbody></table></div></div>
 
 <div class="skill_div"><p class="skill_header">Machine Tools</p>
-<table><tbody>
+<div class="table_wrapper"><table><tbody>
 <tr><td>Tabletop CNC Milling Machine</td><td>★★★★★</td></tr>
 <tr><td>FFF 3D Printer</td><td>★★★★</td></tr>
 <tr><td>SLA 3D Printer</td><td>★★★</td></tr>
-</tbody></table></div>
+</tbody></table></div></div>
 
 <div class="skill_div"><p class="skill_header">Natural Languages</p>
-<table><tbody>
+<div class="table_wrapper"><table><tbody>
 <tr><td>Japanese</td><td>Mother Tongue</td></tr>
 <tr><td>English</td><td>CEFR B2</td></tr>
 <tr><td>Chinese</td><td>Just a Little</td></tr>
-</tbody></table></div>
+</tbody></table></div></div>
 
 </div>
 
