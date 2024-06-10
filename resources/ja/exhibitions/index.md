@@ -1,8 +1,5 @@
 # 展示
 
-<div style="text-align:center">
-	参加した展示を新しい順に紹介します。
-</div>
 
 
 <div style="text-align:center; line-height:0;">

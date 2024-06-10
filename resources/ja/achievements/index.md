@@ -1,8 +1,5 @@
 # 実績
 
-<div style="text-align:center">
-    実績を新しい順に紹介します。
-</div>
 
 
 ## 受賞
@@ -135,4 +132,3 @@
 <td>ラジオ(ZIP-FM)</td>
 </tr>
 </tbody></table></div>
-

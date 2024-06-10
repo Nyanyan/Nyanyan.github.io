@@ -1,8 +1,5 @@
 # Exhibitions
 
-<div style="text-align:center">
-	Exhibitions I attended
-</div>
 
 
 

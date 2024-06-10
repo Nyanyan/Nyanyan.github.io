@@ -1,8 +1,5 @@
 # Achievements
 
-<div style="text-align:center">
-    My achievements below
-</div>
 
 
 ## Award
@@ -135,4 +132,3 @@
 <td>Radio (Japanese)</td>
 </tr>
 </tbody></table></div>
-

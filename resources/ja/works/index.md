@@ -1,8 +1,5 @@
 # 作品
 
-<div style="text-align:center">
-    作品を新しいものから紹介します。
-</div>
 
 
 
