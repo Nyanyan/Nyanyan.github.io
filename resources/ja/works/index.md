@@ -36,6 +36,15 @@
 </div>
 
 <div class="eye_catch">
+    <a href="./winter_cherry_blossom/">
+        <img class="img" src="img/winter_cherry_blossom.png"/>
+        <div class="mask">
+            <div class="caption">寒桜 (2023)<br>水引で作った寒桜</div>
+        </div>
+    </a>
+</div>
+
+<div class="eye_catch">
     <a href="./past_now_future/">
         <img class="img" src="img/past_now_future.png"/>
         <div class="mask">
