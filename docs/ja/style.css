@@ -55,15 +55,17 @@ h1{
 
 h2{
     text-align: center;
-    line-height: 1.7em;
-    margin-top: 3%;
-    margin-bottom: 0%;
+    margin-top: 2%;
+    margin-bottom: 1%;
     padding: 0.2em;
+    line-height: 1.7em;
 }
 
 h3{
     text-align: center;
     line-height: 1.7em;
+    margin-top: 2%;
+    margin-bottom: 1%;
     padding: 0.1em;
     line-height: 1.3em;
 }
@@ -101,6 +103,20 @@ h3{
     display: table;
     vertical-align: middle;
     font-size: min(2.5vw, 12pt);
+}
+
+.skill_div {
+    width: min(70vw, 400px);
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    _display: inline;
+    vertical-align: top;
+}
+
+.skill_header {
+    text-align: center;
+    font-weight: bold;
 }
 
 .eye_catch {
