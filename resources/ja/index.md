@@ -54,7 +54,7 @@ Photography by Mika Hashimoto for NEUT Magazine
         <ul>
             <li>C/C++</li>
             <li>Python</li>
-            <li>CUDA</li>
+            <li>CUDA C++</li>
             <li>HTML/CSS/JavaScript</li>
         </ul>
     </li>
@@ -99,6 +99,7 @@ Photography by Mika Hashimoto for NEUT Magazine
 
 
 
+
 ## 好きなこと
 
 好きなことは、得意とは限りません。
@@ -118,20 +119,9 @@ Photography by Mika Hashimoto for NEUT Magazine
 
 ## 略歴
 <div class="table_wrapper"><table><tbody>
-<tr>
-<td>2001</td>
-<td>誕生</td>
-</tr>
-<tr>
-<td>2014</td>
-<td>東京都立小石川中等教育学校入学</td>
-</tr>
-<tr>
-<td>2020</td>
-<td>東京都立小石川中等教育学校卒業</td>
-</tr>
-<tr>
-<td>2020</td>
-<td>筑波大学理工学群工学システム学類入学</td>
-</tr>
+<tr><td>2001</td><td>誕生</td></tr>
+<tr><td>2014</td><td>東京都立小石川中等教育学校入学</td></tr>
+<tr><td>2020</td><td>東京都立小石川中等教育学校卒業</td></tr>
+<tr><td>2020</td><td>筑波大学理工学群工学システム学類入学</td></tr>
 </tbody></table></div>
+

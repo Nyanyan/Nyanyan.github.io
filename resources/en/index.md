@@ -53,7 +53,7 @@ Photography by Mika Hashimoto for NEUT Magazine
         <ul>
             <li>C/C++</li>
             <li>Python</li>
-            <li>CUDA</li>
+            <li>CUDA C++</li>
             <li>HTML/CSS/JavaScript</li>
         </ul>
     </li>
@@ -96,6 +96,7 @@ Photography by Mika Hashimoto for NEUT Magazine
 
 
 
+
 ## Interest
 
 <ul>
@@ -112,20 +113,9 @@ Photography by Mika Hashimoto for NEUT Magazine
 
 ## Biography
 <div class="table_wrapper"><table><tbody>
-<tr>
-<td>2001</td>
-<td>Born</td>
-</tr>
-<tr>
-<td>2014</td>
-<td>Enroll in Tokyo Metropolitan Koishikawa Secondary School</td>
-</tr>
-<tr>
-<td>2020</td>
-<td>Graduate from Tokyo Metropolitan Koishikawa Secondary School</td>
-</tr>
-<tr>
-<td>2020</td>
-<td>Enroll in College of Engineering Systems, University of Tsukuba</td>
-</tr>
-    </tbody></table></div>
+<tr><td>2001</td><td>Born</td></tr>
+<tr><td>2014</td><td>Enroll in Tokyo Metropolitan Koishikawa Secondary School</td></tr>
+<tr><td>2020</td><td>Graduate from Tokyo Metropolitan Koishikawa Secondary School</td></tr>
+<tr><td>2020</td><td>Enroll in College of Engineering Systems, University of Tsukuba</td></tr>
+</tbody></table></div>
+
