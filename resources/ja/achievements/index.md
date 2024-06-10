@@ -99,9 +99,8 @@
 </tbody></table></div>
 
 
-
-
 ## メディア出演
+
 <div class="table_wrapper"><table><tbody>
 <tr>
 <th>年</th><th>タイトル</th><th>媒体</th>

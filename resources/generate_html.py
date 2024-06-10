@@ -172,9 +172,8 @@ def create_html(dr):
             html_code = '<code>' + code[3:-3] + '</code>'
             elem = elem.replace(code, html_code)
         # paragraph
-        if raw_html == 0:
-            if not (len(elem) >= 2 and elem[:2] == '<h'):
-                elem = '<p>' + elem + '</p>'
+        if raw_html == 0 and len(elem) and elem[0] != '<':
+            elem = '<p>' + elem + '</p>'
         # img
         '''
         if elem[:4] == '<img':
@@ -222,8 +221,8 @@ def create_html(dr):
         else:
             if line:
                 html += line
-            else:
-                html += line + '<br>\n'
+            #else:
+            #    html += line + '<br>\n'
             last_empty = False
     try:
         with open(dr + '/foot_additional.html', 'r', encoding='utf-8') as f:
