@@ -24,7 +24,7 @@
 <div style="text-align:center;">
 
 <div class="skill_div"><p class="skill_header">プログラミング</p>
-<div class="table_wrapper"><table><tbody>
+<div class="table_wrapper"><table class="skill_table"><tbody>
 <tr><td>C/C++</td><td>★★★★★</td></tr>
 <tr><td>Python</td><td>★★★★★</td></tr>
 <tr><td>CUDA C++</td><td>★★★★</td></tr>
@@ -32,37 +32,37 @@
 <tr><td>HTML/CSS/JavaScript</td><td>★★</td></tr>
 </tbody></table></div></div>
 
-<div class="skill_div"><p class="skill_header">電子工作</p>
-<div class="table_wrapper"><table><tbody>
-<tr><td>はんだ付け</td><td>★★★★★</td></tr>
-<tr><td>回路設計</td><td>★★★</td></tr>
-<tr><td>基板設計</td><td>★★★</td></tr>
-</tbody></table></div></div>
-
-<div class="skill_div"><p class="skill_header">ロボット製作</p>
-<div class="table_wrapper"><table><tbody>
-<tr><td>機体設計</td><td>★★★</td></tr>
-<tr><td>機体製作</td><td>★★★★</td></tr>
-</tbody></table></div></div>
-
 <div class="skill_div"><p class="skill_header">マイコンなど</p>
-<div class="table_wrapper"><table><tbody>
-<tr><td>AVRマイコン on Arduino IDE</td><td>★★★★★</td></tr>
+<div class="table_wrapper"><table class="skill_table"><tbody>
+<tr><td>Arduino</td><td>★★★★★</td></tr>
 <tr><td>ESP32</td><td>★★★★★</td></tr>
 <tr><td>STM32</td><td>★★★</td></tr>
 <tr><td>Raspberry Pi</td><td>★★★★</td></tr>
 <tr><td>Raspberry Pi Pico</td><td>★★★</td></tr>
 </tbody></table></div></div>
 
+<div class="skill_div"><p class="skill_header">電子工作</p>
+<div class="table_wrapper"><table class="skill_table"><tbody>
+<tr><td>はんだ付け</td><td>★★★★★</td></tr>
+<tr><td>回路設計</td><td>★★★</td></tr>
+<tr><td>基板設計</td><td>★★★</td></tr>
+</tbody></table></div></div>
+
+<div class="skill_div"><p class="skill_header">ロボット製作</p>
+<div class="table_wrapper"><table class="skill_table"><tbody>
+<tr><td>機体設計</td><td>★★★</td></tr>
+<tr><td>機体製作</td><td>★★★★</td></tr>
+</tbody></table></div></div>
+
 <div class="skill_div"><p class="skill_header">工作機械</p>
-<div class="table_wrapper"><table><tbody>
+<div class="table_wrapper"><table class="skill_table"><tbody>
 <tr><td>卓上CNCフライス盤</td><td>★★★★★</td></tr>
 <tr><td>FFF 3Dプリンタ</td><td>★★★★</td></tr>
 <tr><td>SLA 3Dプリンタ</td><td>★★★</td></tr>
 </tbody></table></div></div>
 
 <div class="skill_div"><p class="skill_header">自然言語</p>
-<div class="table_wrapper"><table><tbody>
+<div class="table_wrapper"><table class="skill_table"><tbody>
 <tr><td>日本語</td><td>母語</td></tr>
 <tr><td>英語</td><td>英検準一級</td></tr>
 <tr><td>中国語</td><td>ほんの少し</td></tr>
