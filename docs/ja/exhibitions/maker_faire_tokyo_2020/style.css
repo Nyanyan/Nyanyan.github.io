@@ -106,7 +106,7 @@ h3{
 }
 
 .skill_div {
-    width: min(70vw, 400px);
+    width: min(70vw, 300px);
     overflow: hidden;
     position: relative;
     display: inline-block;
@@ -117,6 +117,10 @@ h3{
 .skill_header {
     text-align: center;
     font-weight: bold;
+}
+
+.skill_table{
+    width: min(200pt, 100%);
 }
 
 .eye_catch {
@@ -168,8 +172,4 @@ h3{
 .youtube iframe {
     width: 100%;
     height: 100%;
-}
-
-.skill_table{
-    width: 200pt;
 }

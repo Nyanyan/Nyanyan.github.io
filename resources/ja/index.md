@@ -64,7 +64,7 @@
 <div class="skill_div"><p class="skill_header">自然言語</p>
 <div class="table_wrapper"><table class="skill_table"><tbody>
 <tr><td>日本語</td><td>母語</td></tr>
-<tr><td>英語</td><td>英検準一級</td></tr>
+<tr><td>英語</td><td>英検準一級<br>TOEIC L&R 780</td></tr>
 <tr><td>中国語</td><td>ほんの少し</td></tr>
 </tbody></table></div></div>
 

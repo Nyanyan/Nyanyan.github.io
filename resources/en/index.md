@@ -57,7 +57,7 @@ Born in 2001. Enjoying "Making", I actively publish various information related 
 
 <div class="skill_div"><p class="skill_header">Machine Tools</p>
 <div class="table_wrapper"><table class="skill_table"><tbody>
-<tr><td>Desktop CNC Milling Machine</td><td>★★★★★</td></tr>
+<tr><td>Desktop CNC <br>Milling Machine</td><td>★★★★★</td></tr>
 <tr><td>FFF 3D Printer</td><td>★★★★</td></tr>
 <tr><td>SLA 3D Printer</td><td>★★★</td></tr>
 </tbody></table></div></div>
