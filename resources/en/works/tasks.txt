@@ -18,6 +18,7 @@ nyanclock
 solock
 solvour
 soltvvo
+crange
 monomotion
 yamax
 yamamijuta

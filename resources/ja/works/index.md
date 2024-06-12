@@ -144,8 +144,7 @@
     <a href="./nyantimer/">
         <img class="img" src="img/nyantimer.png"/>
         <div class="mask">
-            <div class="caption">NyanTimer (2019-2021)<br>スピードキューブ専用タイマー
-        </div>
+            <div class="caption">NyanTimer (2019-2021)<br>スピードキューブ専用タイマー</div>
         </div>
     </a>
 </div>
@@ -181,7 +180,16 @@
     <a href="./soltvvo/">
         <img class="img" src="img/soltvvo.png"/>
         <div class="mask">
-            <div class="caption">Soltvvo (2020)<br>2x2x2キューブを世界最速で解くロボット 	</div>
+            <div class="caption">Soltvvo (2020)<br>2x2x2キューブを世界最速で解くロボット</div>
+        </div>
+    </a>
+</div>
+
+<div class="eye_catch">
+    <a href="./crange/">
+        <img class="img" src="img/crange.png"/>
+        <div class="mask">
+            <div class="caption">Crange (2019)<br>パズル映像の配色変更</div>
         </div>
     </a>
 </div>
@@ -190,7 +198,7 @@
     <a href="./monomotion/">
         <img class="img" src="img/monomotion.png"/>
         <div class="mask">
-            <div class="caption">MonoMotion (2017-2019)<br>ロボットのモーション作成支援システム 	</div>
+            <div class="caption">MonoMotion (2017-2019)<br>ロボットのモーション作成支援システム</div>
         </div>
     </a>
 </div>

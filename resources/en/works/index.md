@@ -188,6 +188,15 @@
 </div>
 
 <div class="eye_catch">
+    <a href="./crange/">
+        <img class="img" src="img/crange.png"/>
+        <div class="mask">
+            <div class="caption">Crange (2019)<br>Change the Color of Cubes in Videos</div>
+        </div>
+    </a>
+</div>
+
+<div class="eye_catch">
     <a href="./monomotion/">
         <img class="img" src="img/monomotion.png"/>
         <div class="mask">
