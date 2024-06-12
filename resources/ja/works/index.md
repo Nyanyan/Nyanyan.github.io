@@ -207,8 +207,7 @@
     <a href="./yamax/">
         <img class="img" src="img/yamax.png"/>
         <div class="mask">
-            <div class="caption">YamaX (2014-2019)<br>自作ヒューマノイドロボット
-        </div>
+            <div class="caption">YamaX (2014-2019)<br>自作ヒューマノイドロボット</div>
         </div>
     </a>
 </div>
@@ -217,8 +216,16 @@
     <a href="./yamamijuta/">
         <img class="img" src="img/yamamijuta.png"/>
         <div class="mask">
-            <div class="caption">やまみじゅた1号 (2014)<br>RoboCup Junior レスキューA部門東東京大会に出場したロボット
+            <div class="caption">やまみじゅた1号 (2014)<br>RoboCup Junior レスキューA部門東東京大会に出場したロボット</div>
         </div>
+    </a>
+</div>
+
+<div class="eye_catch">
+    <a href="./linetracer/">
+        <img class="img" src="img/linetracer.png"/>
+        <div class="mask">
+            <div class="caption">ライントレーサー (2014)<br>Arduinoを使用した初のロボット</div>
         </div>
     </a>
 </div>

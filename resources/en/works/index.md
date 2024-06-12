@@ -200,9 +200,7 @@
     <a href="./monomotion/">
         <img class="img" src="img/monomotion.png"/>
         <div class="mask">
-            <div class="caption">
-                MonoMotion (2017-2019)<br>Robot motion creation support system
-            </div>
+            <div class="caption">MonoMotion (2017-2019)<br>Robot motion creation support system</div>
         </div>
     </a>
 </div>
@@ -211,8 +209,7 @@
     <a href="./yamax/">
         <img class="img" src="img/yamax.png"/>
         <div class="mask">
-            <div class="caption">YamaX (2014-2019)<br>Handmade Humanoid robots
-        </div>
+            <div class="caption">YamaX (2014-2019)<br>Handmade Humanoid robots</div>
         </div>
     </a>
 </div>
@@ -221,8 +218,16 @@
     <a href="./yamamijuta/">
         <img class="img" src="img/yamamijuta.png"/>
         <div class="mask">
-            <div class="caption">Yamamijuta-1 (2014)<br>Took part in RoboCup Junior Rescue A
+            <div class="caption">Yamamijuta-1 (2014)<br>Took part in RoboCup Junior Rescue A</div>
         </div>
+    </a>
+</div>
+
+<div class="eye_catch">
+    <a href="./linetracer/">
+        <img class="img" src="img/linetracer.png"/>
+        <div class="mask">
+            <div class="caption">Line Tracer (2014)<br>My first robot with Arduino</div>
         </div>
     </a>
 </div>
