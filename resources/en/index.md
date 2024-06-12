@@ -64,7 +64,7 @@ Born in 2001. Enjoying "Making", I actively publish various information related 
 
 <div class="skill_div"><p class="skill_header">Natural Languages</p>
 <div class="table_wrapper"><table class="skill_table"><tbody>
-<tr><td>Japanese</td><td>Mother Tongue</td></tr>
+<tr><td>Japanese</td><td>Native</td></tr>
 <tr><td>English</td><td>CEFR B2</td></tr>
 <tr><td>Chinese</td><td>Just a Little</td></tr>
 </tbody></table></div></div>
