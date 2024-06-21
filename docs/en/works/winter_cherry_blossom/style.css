@@ -106,7 +106,7 @@ h3{
 }
 
 .skill_div {
-    width: min(70vw, 300px);
+    width: max(30%, min(70vw, 300px));
     overflow: hidden;
     position: relative;
     display: inline-block;
