@@ -4,8 +4,12 @@ import shutil
 import sys
 import re
 from PIL import Image
+#import cv2
+
 
 MAX_IMG_SIZE = 1280
+IMG_QUALITY = 100
+#IMG_PNG_COLORS = 256
 
 def convert_img(file):
     img = Image.open(file)
@@ -13,8 +17,20 @@ def convert_img(file):
     ratio = min(1, MAX_IMG_SIZE / longer_side)
     width = int(img.width * ratio)
     height = int(img.height * ratio)
-    img_resized = img.resize((width, height))
-    return img_resized
+    img = img.resize((width, height))
+    ext = file.split('.')[-1]
+    if ext != 'jpg' and ext != 'png':
+        print('jpg nor png found', ext)
+    if ext == 'png':
+        img = img.convert('RGB')
+        #img = img.convert("P", palette=Image.ADAPTIVE, colors=IMG_PNG_COLORS)
+    return img
+'''
+IMG_QUALITY = 100
+def convert_img(file):
+    img = cv2.imread(file, cv2.IMREAD_COLOR)
+    return img
+'''
 
 elements_dir = sys.argv[1]
 
@@ -175,8 +191,9 @@ def create_html(dr):
         if raw_html == 0 and len(elem) and elem[0] != '<':
             elem = '<p>' + elem + '</p>'
         # img
-        '''
-        if elem[:4] == '<img':
+        if '<img' in elem:
+            elem = elem.replace('.png', '.jpg')
+            '''
             img_file_name = ''
             for elem_elem in elem.split():
                 if elem_elem[:4] == 'src=':
@@ -184,14 +201,10 @@ def create_html(dr):
                     img_file_name = elem_elem[5:last_idx]
                     img_file_name = img_file_name.replace('"', '').replace('>', '')
             if img_file_name:
-                print(dr + '/' + img_file_name)
-                img = Image.open(dr + '/' + img_file_name)
-                shorter_side = min(img.width, img.height)
-                ratio = min(1, MAX_IMG_SIZE / shorter_side)
-                img_width = int(img.width * ratio)
-                img_height = int(img.height * ratio)
-                elem = '<img width="' + str(img_width) + '" height="' + str(img_height) + '"' + elem[4:]
-        '''
+                new_img_file_name = '.'.join(img_file_name.split('.')[:-1]) + '.jpg'
+                elem = elem.replace(img_file_name, new_img_file_name)
+                print('replace', img_file_name, new_img_file_name)
+            '''
         # modify data
         md_split[i] = elem
     this_page_url = main_page_url + dr
@@ -234,7 +247,7 @@ def create_html(dr):
     head_title = '<title>' + page_title + '</title>\n'
     additional_head = '<meta property="og:url" content="' + this_page_url + '/" />\n'
     additional_head += '<meta property="og:title" content="' + page_title + '" />\n'
-    additional_head += '<meta property="og:image" content="' + this_page_url + '/img/eyecatch.png" />\n'
+    additional_head += '<meta property="og:image" content="' + this_page_url + '/img/eyecatch.jpg" />\n'
     additional_head += '<meta property="og:description" content="' + description + '" />\n'
     additional_head += '<link rel="canonical" href="' + this_page_url + '/">\n'
     out_dr = 'generated/' + dr
@@ -248,8 +261,11 @@ def create_html(dr):
         os.mkdir(out_dr + '/img')
         for file in img_files:
             resized_img = convert_img(file)
-            file_name = file.split('\\')[-1]
-            resized_img.save(out_dr + '/img/' + file_name)
+            file_name = file.replace('\\', '/').split('/')[-1]
+            new_file_name = '.'.join(file_name.split('.')[:-1]) + '.jpg'
+            #print('copy', file_name, new_file_name)
+            resized_img.save(out_dr + '/img/' + new_file_name, optimize=True, quality=IMG_QUALITY)
+            #cv2.imwrite(out_dr + '/img/' + new_file_name, resized_img, [cv2.IMWRITE_JPEG_QUALITY, IMG_QUALITY])
     tasks = []
     try:
         with open(dr + '/tasks.txt', 'r', encoding='utf-8') as f:
