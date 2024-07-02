@@ -95,7 +95,7 @@ h3{
 }
 
 .menu_button{
-    width: min(15vw, 130px);
+    width: min(16.67vw, 130px);
     height: min(9vw, 60px);
     background-color:  #2D3E50;
     display: inline-block; 

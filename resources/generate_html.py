@@ -7,7 +7,7 @@ from PIL import Image
 #import cv2
 
 
-MAX_IMG_SIZE = 1280
+MAX_IMG_SIZE = 1920
 IMG_QUALITY = 100
 #IMG_PNG_COLORS = 256
 
