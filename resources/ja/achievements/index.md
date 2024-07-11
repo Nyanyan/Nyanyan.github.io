@@ -131,3 +131,49 @@
 <td>ラジオ(ZIP-FM)</td>
 </tr>
 </tbody></table></div>
+
+
+## 非入賞・不採択
+
+<center>過去の挑戦歴です。</center>
+
+<div class="table_wrapper"><table><tbody>
+<tr>
+<th>年</th><th>名称</th><th>備考</th>
+</tr>
+<tr>
+<td>2024</td>
+<td><a href="https://awrd.com/award/kuse-ga-aru-award-1" target="_blank" el="”noopener" noreferrer”="">クセがあるアワード：混</a></td>
+<td>1次審査落ち</td>
+</tr>
+<tr>
+<td>2020</td>
+<td><a href="https://kuma-foundation.org/" target="_blank" el="”noopener" noreferrer”="">クマ財団クリエイター奨学金4期生</a></td>
+<td>書類審査落ち</td>
+</tr>
+<tr>
+<td>2020</td>
+<td><a href="https://tmmf.jp/2020/" target="_blank" el="”noopener" noreferrer”="">Tsukuba Mini Maker Faire 2020</a></td>
+<td>出展承認ならず</td>
+</tr>
+<tr>
+<td>2019</td>
+<td><a href="https://gugen.jp/subscriptions/work/799" target="_blank" el="”noopener" noreferrer”="">GUGEN 2019</a></td>
+<td>受賞ならず</td>
+</tr>
+<tr>
+<td>2018</td>
+<td><a href="https://www.jpho.jp/" target="_blank" el="”noopener" noreferrer”="">物理チャレンジ2018</a></td>
+<td>予選理論試験受け忘れ</td>
+</tr>
+<tr>
+<td>2016</td>
+<td><a href="https://gugen.jp/subscriptions/work/379" target="_blank" el="”noopener" noreferrer”="">GUGEN 2016</a></td>
+<td>受賞ならず</td>
+</tr>
+<tr>
+<td>2015</td>
+<td><a href="https://gugen.jp/subscriptions/work/306" target="_blank" el="”noopener" noreferrer”="">GUGEN 2015</a></td>
+<td>受賞ならず</td>
+</tr>
+</tbody></table></div>

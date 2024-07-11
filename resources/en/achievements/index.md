@@ -132,3 +132,49 @@
 <td>Radio (Japanese)</td>
 </tr>
 </tbody></table></div>
+
+
+## Non-Award / Rejected
+
+<center>The history of past challenges</center>
+
+<div class="table_wrapper"><table><tbody>
+<tr>
+<th>Year</th><th>Title</th><th>Details</th>
+</tr>
+<tr>
+<td>2024</td>
+<td><a href="https://awrd.com/award/kuse-ga-aru-award-1" target="_blank" el="”noopener" noreferrer”="">Mazeru</a></td>
+<td>First screening fail</td>
+</tr>
+<tr>
+<td>2020</td>
+<td><a href="https://kuma-foundation.org/" target="_blank" el="”noopener" noreferrer”="">Kuma Foundation Creators' Scholarship 4th term</a></td>
+<td>Document screening fail</td>
+</tr>
+<tr>
+<td>2020</td>
+<td><a href="https://tmmf.jp/2020/" target="_blank" el="”noopener" noreferrer”="">Tsukuba Mini Maker Faire 2020</a></td>
+<td>Exhibit not approved</td>
+</tr>
+<tr>
+<td>2019</td>
+<td><a href="https://gugen.jp/subscriptions/work/799" target="_blank" el="”noopener" noreferrer”="">GUGEN 2019</a></td>
+<td>Not awarded</td>
+</tr>
+<tr>
+<td>2018</td>
+<td><a href="https://www.jpho.jp/" target="_blank" el="”noopener" noreferrer”="">Japan Physics Olympiad 2018</a></td>
+<td>Forgot to take the preliminary theory exam</td>
+</tr>
+<tr>
+<td>2016</td>
+<td><a href="https://gugen.jp/subscriptions/work/379" target="_blank" el="”noopener" noreferrer”="">GUGEN 2016</a></td>
+<td>Not awarded</td>
+</tr>
+<tr>
+<td>2015</td>
+<td><a href="https://gugen.jp/subscriptions/work/306" target="_blank" el="”noopener" noreferrer”="">GUGEN 2015</a></td>
+<td>Not awarded</td>
+</tr>
+</tbody></table></div>
