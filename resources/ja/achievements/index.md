@@ -130,7 +130,13 @@
 <td><a href="https://zip-fm.co.jp/programs/6e68fe9e-29bd-49c0-aec6-ab27c7320248" target="_blank" el="”noopener" noreferrer”="">SUPER CAST</a></td>
 <td>ラジオ(ZIP-FM)</td>
 </tr>
+<tr>
+<td>2021</td>
+<td><a href="https://www.youtube.com/live/rAM499RwhpI?si=BIsVoAJVPNvTHtsv" target="_blank" el="”noopener" noreferrer”="">オセロAIやルービックキューブAIのスーパークリエイター<br>山名琢翔(にゃにゃん)インタビュー｜みんなの勉強部屋</a></td>
+<td>YouTube</td>
+</tr>
 </tbody></table></div>
+
 
 
 ## 非入賞・不採択

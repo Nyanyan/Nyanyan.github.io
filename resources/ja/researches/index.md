@@ -35,12 +35,10 @@
     </tbody></table></div>
 
 
-
-
 ## 講演
 <div class="table_wrapper"><table>
 <tbody><tr>
-<th>年</th><th>名称</th><th>タイトル</th><th>備考</th></tr>
+<th>年</th><th>タイトル</th><th>イベント</th><th>備考</th></tr>
 <tr>
 <tr>
 <td>2024</td>
@@ -55,3 +53,57 @@
 <td>招待講演</td>
 </tr>
     </tbody></table></div>
+
+
+
+## 登壇
+
+<div class="table_wrapper"><table>
+<tbody>
+<tr><th>年</th><th>タイトル</th><th>イベント</th><th>備考</th></tr>
+<tr>
+<td>2024</td>
+<td>今更だから面白いオセロAIの話</td>
+<td><a href="https://sakura-tokyo.connpass.com/event/323089/" target="_blank" el="”noopener" noreferrer”="">さくらのAI Meetup vol.3 #さくらのAI</a></td>
+<td>登壇</td>
+</tr>
+<tr>
+<td>2024</td>
+<td>ロボットの役に立ったら嬉しいオセロAIの話</td>
+<td><a href="https://robosemi.connpass.com/event/309583/" target="_blank" el="”noopener" noreferrer”="">第45回ロボティクス勉強会</a></td>
+<td>通常発表</td>
+</tr>
+<tr>
+<td>2023</td>
+<td>オセロって最初4マス埋まってるじゃないですか。<br>あれって実はコマンドで…</td>
+<td><a href="https://amakubo.connpass.com/event/288675/" target="_blank" el="”noopener" noreferrer”="">coinsLT #1000</a></td>
+<td>飛び入り参加</td>
+</tr>
+<tr>
+<td>2022</td>
+<td>オセロAIを作っていたらオセロを音楽にしていた話</td>
+<td><a href="https://muana.connpass.com/event/259360/" target="_blank" el="”noopener" noreferrer”="">Music×Analytics Meetup Vol.9</a></td>
+<td>7min LT</td>
+</tr>
+<tr>
+<td>2022</td>
+<td>オセロAIをWeb公開した</td>
+<td><a href="https://sakura-tokyo.connpass.com/event/247955/" target="_blank" el="”noopener" noreferrer”="">#さくらのマイクロコミュニティ<br>（Webサービス開発者の会） #1</a></td>
+<td>LT</td>
+</tr>
+<tr>
+<td>2020</td>
+<td>ものづくりとルービックキューブ</td>
+<td><a href="https://joken-nuce.connpass.com/event/195933/" target="_blank" el="”noopener" noreferrer”="">#stdout2020 学生LT会</a></td>
+<td>LT</td>
+</tr>
+<tr>
+<td>2020</td>
+<td>ルービックキューブで世界記録保持者になりたい(ロボット部門で)</td>
+<td><a href="https://www.youtube.com/live/Xht3u3NunsQ?si=suxcCfYlv5-NhwsC" target="_blank" el="”noopener" noreferrer”="">CubingLT #1</a></td>
+<td>LT</td>
+</tr>
+    </tbody></table></div>
+
+
+
