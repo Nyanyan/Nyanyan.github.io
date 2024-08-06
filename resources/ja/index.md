@@ -4,7 +4,7 @@
 
 <div style="text-align:center">
 
-<img class="pic2" src="img/face.png" alt="山名琢翔"><img class="pic2" src="img/icon.jpg" alt="にゃにゃん">
+<img class="pic2" style="aspect-ratio: 1;" src="img/face.png" alt="山名琢翔"><img class="pic2" style="aspect-ratio: 1;" src="img/icon.jpg" alt="にゃにゃん">
 
 </div>
 <p style="text-align: right">Photography by Mika Hashimoto for NEUT Magazine</p>

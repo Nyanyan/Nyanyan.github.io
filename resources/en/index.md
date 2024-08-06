@@ -4,7 +4,7 @@
 
 <div style="text-align:center">
 
-<img class="pic2" src="img/face.png" alt="Takuto Yamana"><img class="pic2" src="img/icon.jpg" alt="Nyanyan">
+<img class="pic2" style="aspect-ratio: 1;" src="img/face.png" alt="Takuto Yamana"><img class="pic2" style="aspect-ratio: 1;" src="img/icon.jpg" alt="Nyanyan">
 
 </div>
 <p style="text-align: right">Photography by Mika Hashimoto for NEUT Magazine</p>
