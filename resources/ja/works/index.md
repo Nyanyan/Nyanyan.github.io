@@ -13,7 +13,14 @@
         </div>
     </a>
 </div>
-
+<div class="eye_catch">
+    <a href="./cuyu3/">
+        <img class="img" src="img/cuyu3.png"/>
+        <div class="mask">
+            <div class="caption">CuYu3 (2024)<br>立体パズル楽器</div>
+        </div>
+    </a>
+</div>
 <div class="eye_catch">
     <a href="./cuyu2/">
         <img class="img" src="img/cuyu2.png"/>
@@ -22,6 +29,7 @@
         </div>
     </a>
 </div>
+
 
 <div class="eye_catch">
     <a href="./cotechnology/">

@@ -13,6 +13,15 @@
         </div>
     </a>
 </div>
+<div class="eye_catch">
+    <a href="./cuyu3/">
+        <img class="img" src="img/cuyu3.png"/>
+        <div class="mask">
+            <div class="caption">CuYu3 (2024)<br>Puzzle-shaped musical instrument</div>
+        </div>
+    </a>
+</div>
+
 
 <div class="eye_catch">
     <a href="./cuyu2/">
