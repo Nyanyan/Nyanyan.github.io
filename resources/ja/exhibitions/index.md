@@ -6,6 +6,14 @@
 
 
 <div class="eye_catch">
+    <a href="./maker_faire_tokyo_2024/">
+        <img class="img" src="img/maker_faire_tokyo_2024.png"/>
+        <div class="mask">
+            <div class="caption">Maker Faire Tokyo 2024 (2024)</div>
+        </div>
+    </a>
+</div>
+<div class="eye_catch">
     <a href="./kuma_experiment_23_24_vol1/">
         <img class="img" src="img/kuma_experiment_23_24_vol1.png"/>
         <div class="mask">
@@ -93,5 +101,6 @@
         </div>
     </a>
 </div>
+
 
 </div>
