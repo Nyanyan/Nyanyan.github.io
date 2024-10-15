@@ -2,6 +2,21 @@
 
 
 
+## Peer-Reviewed Paper
+
+<div class="table_wrapper"><table>
+<tbody><tr>
+<th>Year</th><th>Title</th><th>Publish</th><th>Details</th></tr>
+<tr>
+<td>2024</td>
+<td><a href="http://id.nii.ac.jp/1001/00239899/" target="_blank" el="”noopener" noreferrer”="">Developing and Evaluating a Strong Othello AI with Small-scale Deep Learning as a Compression</a></td>
+<td>IPSJ Journal Vol.65 No.10 pp.1545-1553</td>
+<td><a href="https://www.ipsj.or.jp/award/ssp_award.html" target="_blank" el="”noopener" noreferrer”="">Specially Selected Paper</a></td>
+</tr>
+    </tbody></table></div>
+
+
+
 ## Non-Peer-Reviewed Paper
 <div class="table_wrapper"><table>
 <tbody><tr>
@@ -112,4 +127,3 @@
 <td>LT</td>
 </tr>
     </tbody></table></div>
-
