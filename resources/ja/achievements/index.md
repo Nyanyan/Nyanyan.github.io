@@ -9,19 +9,23 @@
 </tr>
 <tr>
 <td>2024</td>
-<td><a href="https://www.ipsj.or.jp/award/gi-award1.html" target="_blank" el="”noopener" noreferrer”="">ゲーム情報学研究会若手奨励賞</a></td>
+<td><a href="https://www.ipsj.or.jp/award/ssp_award.html" target="_blank" el="”noopener" noreferrer”="">情報処理学会論文誌 特選論文</a></td>
+</tr>
+<tr>
+<td>2024</td>
+<td><a href="https://www.ipsj.or.jp/award/gi-award1.html" target="_blank" el="”noopener" noreferrer”="">ゲーム情報学研究会 若手奨励賞</a></td>
 </tr>
 <tr>
 <td>2023</td>
-<td><a href="https://www.ipsj.or.jp/award/yamashita2023.html" target="_blank" el="”noopener" noreferrer”="">情報処理学会山下記念研究賞</a></td>
+<td><a href="https://www.ipsj.or.jp/award/yamashita2023.html" target="_blank" el="”noopener" noreferrer”="">情報処理学会 山下記念研究賞</a></td>
 </tr>
 <tr>
 <td>2022</td>
-<td><a href="https://www.ipsj.or.jp/award/gi-award2.html" target="_blank" el="”noopener" noreferrer”="">ゲーム情報学研究会優秀研究賞</a></td>
+<td><a href="https://www.ipsj.or.jp/award/gi-award2.html" target="_blank" el="”noopener" noreferrer”="">ゲーム情報学研究会 優秀研究賞</a></td>
 </tr>
 <tr>
 <td>2022</td>
-<td><a href="https://talent.supporterz.jp/geekten/2022/" target="_blank" el="”noopener" noreferrer”="">技育展2022無駄開発部門優秀賞</a></td>
+<td><a href="https://talent.supporterz.jp/geekten/2022/" target="_blank" el="”noopener" noreferrer”="">技育展2022無駄開発部門 優秀賞</a></td>
 </tr>
 <tr>
 <td>2022</td>
@@ -33,23 +37,23 @@
 </tr>
 <tr>
 <td>2021</td>
-<td><a href="https://talent.supporterz.jp/geekten/2021/" target="_blank" el="”noopener" noreferrer”="">技育展2021無駄開発部門最優秀賞</a></td>
+<td><a href="https://talent.supporterz.jp/geekten/2021/" target="_blank" el="”noopener" noreferrer”="">技育展2021無駄開発部門 最優秀賞</a></td>
 </tr>
 <tr>
 <td>2020</td>
-<td><a href="https://talent.supporterz.jp/geekten/2020/" target="_blank" el="”noopener" noreferrer”="">技育展無駄開発部門最優秀賞</a></td>
+<td><a href="https://talent.supporterz.jp/geekten/2020/" target="_blank" el="”noopener" noreferrer”="">技育展無駄開発部門 最優秀賞</a></td>
 </tr>
 <tr>
 <td>2019</td>
-<td><a href="http://www.jpho.jp/2019/prizes at phy-chal-2019.pdf" target="_blank" el="”noopener" noreferrer”="">物理チャレンジ2019実験優秀賞</a></td>
+<td><a href="http://www.jpho.jp/2019/prizes at phy-chal-2019.pdf" target="_blank" el="”noopener" noreferrer”="">物理チャレンジ2019 実験優秀賞</a></td>
 </tr>
 <tr>
 <td>2019</td>
-<td><a href="http://www.jpho.jp/2019/prizes at phy-chal-2019.pdf" target="_blank" el="”noopener" noreferrer”="">物理チャレンジ2019銀賞</a></td>
+<td><a href="http://www.jpho.jp/2019/prizes at phy-chal-2019.pdf" target="_blank" el="”noopener" noreferrer”="">物理チャレンジ2019 銀賞</a></td>
 </tr>
 <tr>
 <td>2019</td>
-<td><a href="https://www.ipa.go.jp/jinzai/mitou/it/supercreator-list.html" target="_blank" el="”noopener" noreferrer”="">IPA未踏IT人材発掘・育成事業スーパークリエータ認定</a></td>
+<td><a href="https://www.ipa.go.jp/jinzai/mitou/it/supercreator-list.html" target="_blank" el="”noopener" noreferrer”="">IPA未踏IT人材発掘・育成事業 スーパークリエータ認定</a></td>
 </tr>
 <tr>
 <td>2018</td>
@@ -57,13 +61,14 @@
 </tr>
 <tr>
 <td>2018</td>
-<td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-04-09-0" target="_blank" el="”noopener" noreferrer”="">京都大学サイエンスフェスティバル副学長賞</a></td>
+<td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-04-09-0" target="_blank" el="”noopener" noreferrer”="">京都大学サイエンスフェスティバル 副学長賞</a></td>
 </tr>
 <tr>
 <td>2018</td>
-<td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el="”noopener" noreferrer”="">京都大学ELCASプレゼンテーション賞</a></td>
+<td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el="”noopener" noreferrer”="">京都大学ELCAS プレゼンテーション賞</a></td>
 </tr>
 </tbody></table></div>
+
 
 
 
