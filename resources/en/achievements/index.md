@@ -9,6 +9,10 @@
 </tr>
 <tr>
 <td>2024</td>
+<td><a href="https://talent.supporterz.jp/geekten/2024/" target="_blank" el=”noopener noreferrer”>WingArc1st Award, Geekten 2024</a></td>
+</tr>
+<tr>
+<td>2024</td>
 <td><a href="https://www.ipsj.or.jp/award/ssp_award.html" target="_blank" el="”noopener" noreferrer”="">Specially Selected Paper, IPSJ</a></td>
 </tr>
 <tr>
@@ -68,6 +72,7 @@
 <td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el=”noopener noreferrer”>Presentation Award in ELCAS, Kyoto University</a></td>
 </tr>
 </tbody></table></div>
+
 
 
 

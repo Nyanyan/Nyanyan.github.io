@@ -9,6 +9,10 @@
 </tr>
 <tr>
 <td>2024</td>
+<td><a href="https://talent.supporterz.jp/geekten/2024/" target="_blank" el="”noopener" noreferrer”="">技育展2024 ウイングアーク1st賞</a></td>
+</tr>
+<tr>
+<td>2024</td>
 <td><a href="https://www.ipsj.or.jp/award/ssp_award.html" target="_blank" el="”noopener" noreferrer”="">情報処理学会論文誌 特選論文</a></td>
 </tr>
 <tr>
@@ -68,6 +72,7 @@
 <td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el="”noopener" noreferrer”="">京都大学ELCAS プレゼンテーション賞</a></td>
 </tr>
 </tbody></table></div>
+
 
 
 
