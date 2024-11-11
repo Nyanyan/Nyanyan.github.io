@@ -2,6 +2,17 @@
 
 
 
+## 外部リンク
+
+<ul>
+    <li>[researchmap](https://researchmap.jp/takuto_yamana)</li>
+    <li>[ORCID](https://orcid.org/0009-0009-0615-3693)</li>
+</ul>
+
+
+
+
+
 ## 査読付き論文
 
 <div class="table_wrapper"><table>

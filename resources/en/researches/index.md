@@ -2,6 +2,15 @@
 
 
 
+## External Links
+
+<ul>
+    <li>[researchmap](https://researchmap.jp/takuto_yamana)</li>
+    <li>[ORCID](https://orcid.org/0009-0009-0615-3693)</li>
+</ul>
+
+
+
 ## Peer-Reviewed Paper
 
 <div class="table_wrapper"><table>
