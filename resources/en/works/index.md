@@ -4,7 +4,6 @@
 
 
 <div style="text-align:center; line-height:0;">
-
 <div class="eye_catch">
     <a href="./egaroucid/">
         <img class="img" src="img/egaroucid.png"/>
@@ -14,23 +13,14 @@
     </a>
 </div>
 <div class="eye_catch">
-    <a href="./cuyu3/">
-        <img class="img" src="img/cuyu3.png"/>
+    <a href="./cuyu_series/">
+        <img class="img" src="img/cuyu_series.png"/>
         <div class="mask">
-            <div class="caption">CuYu3 (2024)<br>Puzzle-shaped musical instrument</div>
+            <div class="caption">CuYu (2021-2024)<br>Puzzle-shaped musical instrument</div>
         </div>
     </a>
 </div>
 
-
-<div class="eye_catch">
-    <a href="./cuyu2/">
-        <img class="img" src="img/cuyu2.png"/>
-        <div class="mask">
-            <div class="caption">CuYu2 (2024)<br>Puzzle-shaped musical instrument</div>
-        </div>
-    </a>
-</div>
 
 <div class="eye_catch">
     <a href="./cotechnology/">
@@ -118,15 +108,6 @@
         <img class="img" src="img/padurong.png"/>
         <div class="mask">
             <div class="caption">Padurong (2021)<br>Handmade Face Turn Octahedron</div>
-        </div>
-    </a>
-</div>
-
-<div class="eye_catch">
-    <a href="./cuyu/">
-        <img class="img" src="img/cuyu.png"/>
-        <div class="mask">
-            <div class="caption">CuYu (2021)<br>Rubik's-cube-shaped musical instrument</div>
         </div>
     </a>
 </div>

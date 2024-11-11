@@ -1,6 +1,5 @@
 egaroucid
-cuyu3
-cuyu2
+cuyu_series
 cotechnology
 winter_cherry_blossom
 past_now_future
@@ -11,7 +10,6 @@ mod_rubikscube_solver_robo
 egaroucen
 retro_othello_ai
 padurong
-cuyu
 qiaoke
 studth
 nyantimer
@@ -24,3 +22,6 @@ monomotion
 yamax
 yamamijuta
 linetracer
+cuyu3
+cuyu2
+cuyu
