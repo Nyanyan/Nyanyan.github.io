@@ -6,6 +6,14 @@
 
 
 <div class="eye_catch">
+    <a href="./sohosai_2024/">
+        <img class="img" src="img/sohosai_2024.png"/>
+        <div class="mask">
+            <div class="caption">雙峰祭2024 メイカー〆切祭 (2024)</div>
+        </div>
+    </a>
+</div>
+<div class="eye_catch">
     <a href="./maker_faire_tokyo_2024/">
         <img class="img" src="img/maker_faire_tokyo_2024.png"/>
         <div class="mask">
@@ -101,6 +109,7 @@
         </div>
     </a>
 </div>
+
 
 
 </div>

@@ -9,6 +9,14 @@
 
 
 <div class="eye_catch">
+    <a href="./sohosai_2024/">
+        <img class="img" src="img/sohosai_2024.png"/>
+        <div class="mask">
+            <div class="caption">Sohosai 2024 Maker Shimekirisai (2024)</div>
+        </div>
+    </a>
+</div>
+<div class="eye_catch">
     <a href="./maker_faire_tokyo_2024/">
         <img class="img" src="img/maker_faire_tokyo_2024.png"/>
         <div class="mask">
@@ -48,6 +56,7 @@
         </div>
     </a>
 </div>
+
 
 
 <div class="eye_catch">
