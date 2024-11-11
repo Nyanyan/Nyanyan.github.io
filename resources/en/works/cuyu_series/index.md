@@ -10,7 +10,7 @@ A solve directly becomes a music. Also, turning like a pro becomes a music.
 
 The puzzle was made with a 3D printer and has an ESP32C3 microcontroller and a hall sensor inside. It communicates wirelessly with an external speaker to play sounds. CuYu also supports external power supply via a dedicated charger.
 
-Geekten 2024 WingArc1st Award
+[Geekten 2024 WingArc1st Award](https://talent.supporterz.jp/geekten/2024/)
 
 
 
