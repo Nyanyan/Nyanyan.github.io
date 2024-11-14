@@ -59,7 +59,14 @@
 <td>IPSJ Magazine Vol.65 No.3 pp.134-136</td>
 <td>Special Commentary</td>
 </tr>
+<tr>
+<td>2021</td>
+<td><a href="https://toragijr.cqpub.co.jp/magazine/no44/" target="_blank" el="”noopener" noreferrer”="">A Robot that Solves 2x2x2 Cube Puzzle in 2 Seconds</a></td>
+<td>Toragi Junior 2021 Winter & Transistor Gijutsu 2021/2</td>
+<td></td>
+</tr>
     </tbody></table></div>
+
 
 
 

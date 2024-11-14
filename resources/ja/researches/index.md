@@ -52,14 +52,20 @@
 ## 執筆
 <div class="table_wrapper"><table>
 <tbody><tr>
-<th>年</th><th>タイトル</th><th>媒体</th><th>備考</th></tr>
-<tr>
+<th>年</th><th>タイトル</th><th>媒体</th><th>備考</th></tr><tr>
 <td>2024</td>
 <td><a href="https://note.com/ipsj/n/n86f6dbfbfc7a" target="_blank" el="”noopener" noreferrer”="">「オセロが解けた」を白黒ハッキリさせようじゃないか</a></td>
 <td>情報処理学会・学会誌「情報処理」Vol.65 No.3 pp.134-136</td>
 <td>特別解説記事</td>
 </tr>
+<tr>
+<td>2021</td>
+<td><a href="https://toragijr.cqpub.co.jp/magazine/no44/" target="_blank" el="”noopener" noreferrer”="">2×2×2キューブ・パズルを2秒で解くロボット</a></td>
+<td>トラ技ジュニア 2021冬 & トランジスタ技術 2021年2月号</td>
+<td></td>
+</tr>
     </tbody></table></div>
+
 
 
 ## 講演
