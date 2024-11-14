@@ -4,11 +4,22 @@
 
 ## 外部リンク
 
-<ul>
-    <li>[researchmap](https://researchmap.jp/takuto_yamana)</li>
-    <li>[ORCID](https://orcid.org/0009-0009-0615-3693)</li>
-    <li>[Google Scholar](https://scholar.google.co.jp/citations?hl=ja&user=MgRzX5EAAAAJ)</li>
-</ul>
+<div class="table_wrapper"><table>
+<tbody>
+    <tr>
+        <td>researchmap</td>
+        <td><a href="https://researchmap.jp/takuto_yamana" target="_blank" el="”noopener" noreferrer”="">takuto_yamana</a></td>
+    <tr>
+    <tr>
+        <td>ORCID</td>
+        <td><a href="https://orcid.org/0009-0009-0615-3693" target="_blank" el="”noopener" noreferrer”="">0009-0009-0615-3693</a></td>
+    </tr>
+    <tr>
+        <td>Google Scholar</td>
+        <td><a href="https://scholar.google.co.jp/citations?user=MgRzX5EAAAAJ" target="_blank" el="”noopener" noreferrer”="">Takuto Yamana</a></td>
+    </tr>
+</tbody></table></div>
+
 
 
 
