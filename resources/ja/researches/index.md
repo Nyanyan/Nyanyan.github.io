@@ -7,6 +7,10 @@
 <div class="table_wrapper"><table>
 <tbody>
     <tr>
+	    <th>メディア</th>
+        <th>アカウント</th>
+    </tr>
+    <tr>
         <td>researchmap</td>
         <td><a href="https://researchmap.jp/takuto_yamana" target="_blank" el="”noopener" noreferrer”="">takuto_yamana</a></td>
     <tr>
@@ -19,6 +23,7 @@
         <td><a href="https://scholar.google.co.jp/citations?user=MgRzX5EAAAAJ" target="_blank" el="”noopener" noreferrer”="">Takuto Yamana</a></td>
     </tr>
 </tbody></table></div>
+
 
 
 
