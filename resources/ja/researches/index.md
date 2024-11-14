@@ -7,6 +7,7 @@
 <ul>
     <li>[researchmap](https://researchmap.jp/takuto_yamana)</li>
     <li>[ORCID](https://orcid.org/0009-0009-0615-3693)</li>
+    <li>[Google Scholar](https://scholar.google.co.jp/citations?hl=ja&user=MgRzX5EAAAAJ)</li>
 </ul>
 
 
