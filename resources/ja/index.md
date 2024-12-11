@@ -3,12 +3,9 @@
 <div style="text-align:center">ものづくりとものづくりが好きな人が好きな人</div>
 
 <div style="text-align:center">
-
-<img class="pic2" style="aspect-ratio: 1;" src="img/face.png" alt="山名琢翔"><img class="pic2" style="aspect-ratio: 1;" src="img/icon.jpg" alt="にゃにゃん">
+<img class="pic2" style="aspect-ratio: 1;" src="img/face.jpg" alt="山名琢翔"><img class="pic2" style="aspect-ratio: 1;" src="img/icon.jpg" alt="にゃにゃん">
 
 </div>
-<p style="text-align: right">Photography by Mika Hashimoto for NEUT Magazine</p>
-
 
 
 ## 山名琢翔とは

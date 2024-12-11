@@ -3,12 +3,9 @@
 <div style="text-align:center">, Who loves Making and who love Making</div>
 
 <div style="text-align:center">
-
-<img class="pic2" style="aspect-ratio: 1;" src="img/face.png" alt="Takuto Yamana"><img class="pic2" style="aspect-ratio: 1;" src="img/icon.jpg" alt="Nyanyan">
+<img class="pic2" style="aspect-ratio: 1;" src="img/face.jpg" alt="Takuto Yamana"><img class="pic2" style="aspect-ratio: 1;" src="img/icon.jpg" alt="Nyanyan">
 
 </div>
-<p style="text-align: right">Photography by Mika Hashimoto for NEUT Magazine</p>
-
 
 
 # About
@@ -80,4 +77,3 @@ Born in 2001. Enjoying "Making", I actively publish various information related 
 <tr><td>2020</td><td>Graduate from Tokyo Metropolitan Koishikawa Secondary School</td></tr>
 <tr><td>2020</td><td>Enroll in College of Engineering Systems, University of Tsukuba</td></tr>
 </tbody></table></div>
-
