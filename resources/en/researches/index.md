@@ -118,6 +118,12 @@
 <tbody>
 <tr><th>Year</th><th>Title</th><th>Event</th><th>Details</th></tr>
 <tr>
+<td>2025</td>
+<td>Othello AI is Interesting</td>
+<td><a href="https://righteous-aragon-7f1.notion.site/LT-17065cba42a180a09dc2ea14444561fa" target="_blank" el="”noopener" noreferrer”="">新年LT</a></td>
+<td>LT</td>
+</tr>
+<tr>
 <td>2024</td>
 <td>An Interesting Othello AI because it's Late</td>
 <td><a href="https://sakura-tokyo.connpass.com/event/323089/" target="_blank" el="”noopener" noreferrer”="">さくらのAI Meetup vol.3 #さくらのAI</a></td>
@@ -160,3 +166,4 @@
 <td>LT</td>
 </tr>
     </tbody></table></div>
+

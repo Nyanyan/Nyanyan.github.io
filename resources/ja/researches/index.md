@@ -111,6 +111,12 @@
 <tbody>
 <tr><th>年</th><th>タイトル</th><th>イベント</th><th>備考</th></tr>
 <tr>
+<td>2025</td>
+<td>オセロAI制作が楽しい話</td>
+<td><a href="https://righteous-aragon-7f1.notion.site/LT-17065cba42a180a09dc2ea14444561fa" target="_blank" el="”noopener" noreferrer”="">新年LT</a></td>
+<td>登壇</td>
+</tr>
+<tr>
 <td>2024</td>
 <td>今更だから面白いオセロAIの話</td>
 <td><a href="https://sakura-tokyo.connpass.com/event/323089/" target="_blank" el="”noopener" noreferrer”="">さくらのAI Meetup vol.3 #さくらのAI</a></td>
@@ -153,5 +159,6 @@
 <td>LT</td>
 </tr>
     </tbody></table></div>
+
 
 
