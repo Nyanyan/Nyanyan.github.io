@@ -112,6 +112,12 @@
 <tr><th>年</th><th>タイトル</th><th>イベント</th><th>備考</th></tr>
 <tr>
 <td>2025</td>
+<td>オセロAIは、いいぞ。</td>
+<td>わくわくLT会 Vol.2</td>
+<td>登壇</td>
+</tr>
+<tr>
+<td>2025</td>
 <td>オセロAI制作が楽しい話</td>
 <td><a href="https://righteous-aragon-7f1.notion.site/LT-17065cba42a180a09dc2ea14444561fa" target="_blank" el="”noopener" noreferrer”="">新年LT</a></td>
 <td>登壇</td>

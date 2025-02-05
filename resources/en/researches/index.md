@@ -119,6 +119,12 @@
 <tr><th>Year</th><th>Title</th><th>Event</th><th>Details</th></tr>
 <tr>
 <td>2025</td>
+<td>Othello AI Recommended</td>
+<td>わくわくLT会 Vol.2</td>
+<td>LT</td>
+</tr>
+<tr>
+<td>2025</td>
 <td>Othello AI is Interesting</td>
 <td><a href="https://righteous-aragon-7f1.notion.site/LT-17065cba42a180a09dc2ea14444561fa" target="_blank" el="”noopener" noreferrer”="">新年LT</a></td>
 <td>LT</td>
