@@ -65,7 +65,6 @@ Born in 2001. Enjoying "Making", I actively publish various information related 
 <tr><td>English</td><td>CEFR B2</td></tr>
 <tr><td>Chinese</td><td>Just a Little</td></tr>
 </tbody></table></div></div>
-
 </div>
 
 
@@ -76,4 +75,7 @@ Born in 2001. Enjoying "Making", I actively publish various information related 
 <tr><td>2014</td><td>Enroll in Tokyo Metropolitan Koishikawa Secondary School</td></tr>
 <tr><td>2020</td><td>Graduate from Tokyo Metropolitan Koishikawa Secondary School</td></tr>
 <tr><td>2020</td><td>Enroll in College of Engineering Systems, University of Tsukuba</td></tr>
+<tr><td>2025</td><td>Withdraw from College of Engineering Systems, University of Tsukuba</td></tr>
+<tr><td>2025</td><td>Enroll in Master's Program in Design, University of Tsukuba</td></tr>
 </tbody></table></div>
+
