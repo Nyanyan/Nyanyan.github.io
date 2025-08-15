@@ -4,7 +4,13 @@ Reversi Robots "Minoth" & "Isevot" (2025)
 
 
 
-I exhibited "Minoth," a new Reversi teaching robot, and "Isevot," a Reversi robot created in 2022.
+I exhibited "Minoth," a new Reversi professor robot, and "Isevot," a Reversi robot created in 2022.
+
+
+
+## Artwork Caption
+
+A quarter of a century has passed since a Reversi AI defeated the world champion. Reversi AI has become almost perfect in terms of strength. However, what AI can do is limited to just finding strong moves. What if there was a future where a strong AI had a robot body and could teach us how to win at Reversi? We invite you to experience such a future.
 
 
 
