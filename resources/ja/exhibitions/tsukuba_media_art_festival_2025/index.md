@@ -15,7 +15,9 @@
     <img src="img/img4.jpg" width="100%">
     <img src="img/img5.jpg" width="100%">
     <img src="img/img6.jpg" width="100%">
+    <img src="img/img7.jpg" width="100%">
 </div>
+
 
 
 
