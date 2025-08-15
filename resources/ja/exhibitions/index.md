@@ -33,7 +33,7 @@
     <a href="./tsukuba_media_art_festival_2025/">
         <img class="img" src="img/tsukuba_media_art_festival_2025.png"/>
         <div class="mask">
-            <div class="caption">つくばメディアアートフェスティバル2025 (2025)</div>
+            <div class="caption">第7回つくばメディアアートフェスティバル (2025)</div>
         </div>
     </a>
 </div>

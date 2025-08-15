@@ -15,12 +15,11 @@ Admission: [Advance] Adult 1,400 yen / 18 years old and under 500 yen, [At the d
 ## Archive
 
 <div style="text-align:center; line-height:0;">
-
 <div class="eye_catch">
     <a href="./tsukuba_media_art_festival_2025/">
         <img class="img" src="img/tsukuba_media_art_festival_2025.png"/>
         <div class="mask">
-            <div class="caption">Tsukuba Media Art Festival 2025 (2025)</div>
+            <div class="caption">The 7th Tsukuba Media Art Festival (2025)</div>
         </div>
     </a>
 </div>
@@ -128,4 +127,5 @@ Admission: [Advance] Adult 1,400 yen / 18 years old and under 500 yen, [At the d
         </div>
     </a>
 </div>
+
 </div>
