@@ -1,6 +1,6 @@
 # Takuto Yamana
 
-<div style="text-align:center">, Who loves Making and who love Making</div>
+<div style="text-align:center">A Maker Who Loves Making and Makers Who Love Making</div>
 
 <div style="text-align:center">
 <img class="pic2" style="aspect-ratio: 1;" src="img/face.jpg" alt="Takuto Yamana"><img class="pic2" style="aspect-ratio: 1;" src="img/icon.jpg" alt="Nyanyan">
@@ -78,4 +78,3 @@ Born in 2001. Enjoying "Making", I actively publish various information related 
 <tr><td>2025</td><td>Withdraw from College of Engineering Systems, University of Tsukuba</td></tr>
 <tr><td>2025</td><td>Enroll in Master's Program in Design, University of Tsukuba</td></tr>
 </tbody></table></div>
-
