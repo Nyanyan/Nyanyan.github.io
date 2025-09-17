@@ -4,6 +4,16 @@
 
 
 <div style="text-align:center; line-height:0;">
+
+<div class="eye_catch">
+    <a href="./minoth/">
+        <img class="img" src="img/minoth.png"/>
+        <div class="mask">
+            <div class="caption">Minoth (2025-現在)<br>オセロ教授ロボット</div>
+        </div>
+    </a>
+</div>
+
 <div class="eye_catch">
     <a href="./egaroucid/">
         <img class="img" src="img/egaroucid.png"/>
@@ -12,6 +22,7 @@
         </div>
     </a>
 </div>
+
 <div class="eye_catch">
     <a href="./cuyu_series/">
         <img class="img" src="img/cuyu_series.png"/>
@@ -20,8 +31,6 @@
         </div>
     </a>
 </div>
-
-
 
 <div class="eye_catch">
     <a href="./cotechnology/">
@@ -220,5 +229,6 @@
         </div>
     </a>
 </div>
+
 </div>
 
