@@ -164,8 +164,13 @@
 <th>Year</th><th>Title</th><th>Details</th>
 </tr>
 <tr>
+<td>2025</td>
+<td><a href="https://fmddsc.jp/event/%E7%AC%AC%EF%BC%96%E5%9B%9E%E5%8C%BB%E7%99%82%E5%89%B5%E7%94%9F%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88/" target="_blank" el="”noopener" noreferrer”="">The 6th Medical Creation Idea Contest</a></td>
+<td>Not awarded</td>
+</tr>
+<tr>
 <td>2024</td>
-<td><a href="https://awrd.com/award/kuse-ga-aru-award-1" target="_blank" el="”noopener" noreferrer”="">Mazeru</a></td>
+<td><a href="https://awrd.com/award/kuse-ga-aru-award-1" target="_blank" el="”noopener" noreferrer”="">"Mazeru" Competition</a></td>
 <td>First screening fail</td>
 </tr>
 <tr>
@@ -199,3 +204,4 @@
 <td>Not awarded</td>
 </tr>
 </tbody></table></div>
+

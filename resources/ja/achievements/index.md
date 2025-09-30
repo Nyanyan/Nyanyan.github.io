@@ -163,6 +163,11 @@
 <th>年</th><th>名称</th><th>備考</th>
 </tr>
 <tr>
+<td>2025</td>
+<td><a href="https://fmddsc.jp/event/%E7%AC%AC%EF%BC%96%E5%9B%9E%E5%8C%BB%E7%99%82%E5%89%B5%E7%94%9F%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88/" target="_blank" el="”noopener" noreferrer”="">第６回医療創生アイデアコンテスト</a></td>
+<td>入賞ならず</td>
+</tr>
+<tr>
 <td>2024</td>
 <td><a href="https://awrd.com/award/kuse-ga-aru-award-1" target="_blank" el="”noopener" noreferrer”="">クセがあるアワード：混</a></td>
 <td>1次審査落ち</td>
@@ -198,3 +203,4 @@
 <td>受賞ならず</td>
 </tr>
 </tbody></table></div>
+
