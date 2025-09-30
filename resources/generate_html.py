@@ -124,38 +124,36 @@ def create_html(dr):
     with open(dr + '/index.md', 'r', encoding='utf-8') as f:
         md = f.read()
     md_split = md.splitlines()
-    '''
-    for i, elem in enumerate(md_split):
-        # special replacements
-        # section tags
-        if elem[:2] == '# ':
-            elem = '<h1>' + elem[2:] + '</h1>'
-        if elem[:3] == '## ':
-            elem = '<h2>' + elem[3:] + '</h2>'
-        if elem[:4] == '### ':
-            elem = '<h3>' + elem[3:] + '</h3>'
-        # links
-        links = re.findall('\[.+?\]\(.+?\)', elem)
-        for link in links:
-            text, url = link[1:-1].split('](')
-            if url[0] != '.':
-                html_link = link1 + url + link2 + text + link3
-            else:
-                html_link = link21 + url + link22 + text + link23
-            elem = elem.replace(link, html_link)
-        # bold
-        bolds = re.findall('\*\*.+?\*\*', elem)
-        for bold in bolds:
-            html_bold = '<b>' + bold[2:-2] + '</b>'
-            elem = elem.replace(bold, html_bold)
-        # modify data
-        md_split[i] = elem
-    '''
+    # for i, elem in enumerate(md_split):
+    #     # special replacements
+    #     # section tags
+    #     if elem[:2] == '# ':
+    #         elem = '<h1>' + elem[2:] + '</h1>'
+    #     if elem[:3] == '## ':
+    #         elem = '<h2>' + elem[3:] + '</h2>'
+    #     if elem[:4] == '### ':
+    #         elem = '<h3>' + elem[3:] + '</h3>'
+    #     # links
+    #     links = re.findall('\[.+?\]\(.+?\)', elem)
+    #     for link in links:
+    #         text, url = link[1:-1].split('](')
+    #         if url[0] != '.':
+    #             html_link = link1 + url + link2 + text + link3
+    #         else:
+    #             html_link = link21 + url + link22 + text + link23
+    #         elem = elem.replace(link, html_link)
+    #     # bold
+    #     bolds = re.findall('\*\*.+?\*\*', elem)
+    #     for bold in bolds:
+    #         html_bold = '<b>' + bold[2:-2] + '</b>'
+    #         elem = elem.replace(bold, html_bold)
+    #     # modify data
+    #     md_split[i] = elem
     raw_html = 0
     for i, elem in enumerate(md_split):
         while elem and (elem[0] == ' ' or elem[0] == '\t'):
             elem = elem[1:]
-        html_elems = re.findall('\<.+?\>', elem)
+        html_elems = re.findall(r'\<.+?\>', elem)
         for html_elem in html_elems:
             raw_html += judge_raw_html(html_elem)
         # section tags
@@ -169,7 +167,7 @@ def create_html(dr):
         elif elem[:5] == '#### ':
             elem = '<h4>' + elem[5:] + '</h4>'
         # links
-        links = re.findall('\[.+?\]\(.+?\)', elem)
+        links = re.findall(r'\[.+?\]\(.+?\)', elem)
         for link in links:
             text, url = link[1:-1].split('](')
             if url[0] != '.':
@@ -178,7 +176,7 @@ def create_html(dr):
                 html_link = link21 + url + link22 + text + link23
             elem = elem.replace(link, html_link)
         # bold
-        bolds = re.findall('\*\*.+?\*\*', elem)
+        bolds = re.findall(r'\*\*.+?\*\*', elem)
         for bold in bolds:
             html_bold = '<b>' + bold[2:-2] + '</b>'
             elem = elem.replace(bold, html_bold)
