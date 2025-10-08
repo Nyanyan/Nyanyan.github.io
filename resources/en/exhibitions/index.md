@@ -2,15 +2,7 @@
 
 ## Upcoming
 
-### Maker Faire Tokyo 2025
 
-Official page: [Maker Faire Tokyo 2025](https://makezine.jp/event/mft2025/)
-
-Date: 2025/10/4 (Sat) 12:00-18:00, 2025/10/5 (Sun) 10:00-17:00
-
-Venue: Tokyo Big Sight West Hall 4 (3-11-1 Ariake, Koto-ku, Tokyo)
-
-Admission: [Advance] Adult 1,400 yen / 18 years old and under 500 yen, [At the door] Adult 1,800 yen / 18 years old and under 700 yen
 
 ## Archive
 
