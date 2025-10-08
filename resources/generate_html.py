@@ -7,8 +7,8 @@ from PIL import Image
 #import cv2
 
 
-MAX_IMG_SIZE = 1920
-IMG_QUALITY = 100
+MAX_IMG_SIZE = 2048
+IMG_QUALITY = 93
 #IMG_PNG_COLORS = 256
 
 def convert_img(file):
@@ -18,7 +18,7 @@ def convert_img(file):
     width = int(img.width * ratio)
     height = int(img.height * ratio)
     img = img.resize((width, height))
-    ext = file.split('.')[-1]
+    ext = file.split('.')[-1].lower()
     if ext != 'jpg' and ext != 'png':
         print('jpg nor png found', ext)
     if ext == 'png':
