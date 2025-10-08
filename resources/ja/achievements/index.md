@@ -37,7 +37,7 @@
 </tr>
 <tr>
 <td>2022</td>
-<td><a href="https://makezine.jp/event/makerfaire/ymc2022/" target="_blank" el="”noopener" noreferrer”="">Maker Faire Tokyo 2022 Young Maker Challenge SPRESENSE賞</a></td>
+<td><a href="https://makezine.jp/blog/2022/10/mft2022-report-07.html" target="_blank" el="”noopener" noreferrer”="">Maker Faire Tokyo 2022 Young Maker Challenge SPRESENSE賞</a></td>
 </tr>
 <tr>
 <td>2021</td>
@@ -76,6 +76,7 @@
 <td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el="”noopener" noreferrer”="">京都大学ELCAS プレゼンテーション賞</a></td>
 </tr>
 </tbody></table></div>
+
 
 
 
@@ -203,4 +204,3 @@
 <td>受賞ならず</td>
 </tr>
 </tbody></table></div>
-
