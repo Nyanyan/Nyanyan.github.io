@@ -4,31 +4,19 @@
 
 ## 近日開催
 
-### Maker Faire Tokyo 2025
-
-
-
-公式ページ: [Maker Faire Tokyo 2025](https://makezine.jp/event/mft2025/)
-
-
-
-日時: 2025/10/4（土）12:00～18:00、2025/10/5（日）10:00〜17:00
-
-
-
-会場: 東京ビッグサイト　西4ホール (東京都江東区有明3-11-1)
-
-
-
-入場料: ［前売］大人 1,400円 / 18歳以下 500円、［当日］大人 1,800円 / 18歳以下 700円
-
-
+<center>To be announced...</center>
 
 ## アーカイブ
 
 <div style="text-align:center; line-height:0;">
-
-
+<div class="eye_catch">
+    <a href="./maker_faire_tokyo_2025/">
+        <img class="img" src="img/maker_faire_tokyo_2025.png"/>
+        <div class="mask">
+            <div class="caption">Maker Faire Tokyo 2025 (2025)</div>
+        </div>
+    </a>
+</div>
 <div class="eye_catch">
     <a href="./tsukuba_media_art_festival_2025/">
         <img class="img" src="img/tsukuba_media_art_festival_2025.png"/>
@@ -141,6 +129,7 @@
         </div>
     </a>
 </div>
+
 
 
 

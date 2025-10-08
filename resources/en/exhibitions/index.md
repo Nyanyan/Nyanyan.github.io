@@ -2,11 +2,19 @@
 
 ## Upcoming
 
-
+<center>To be announced...</center>
 
 ## Archive
 
 <div style="text-align:center; line-height:0;">
+<div class="eye_catch">
+    <a href="./maker_faire_tokyo_2025/">
+        <img class="img" src="img/maker_faire_tokyo_2025.png"/>
+        <div class="mask">
+            <div class="caption">Maker Faire Tokyo 2025 (2025)</div>
+        </div>
+    </a>
+</div>
 <div class="eye_catch">
     <a href="./tsukuba_media_art_festival_2025/">
         <img class="img" src="img/tsukuba_media_art_festival_2025.png"/>
@@ -119,5 +127,6 @@
         </div>
     </a>
 </div>
+
 
 </div>
