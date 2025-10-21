@@ -18,7 +18,7 @@ SonyのSpresense上でPV-MCTSを動かしています。
 
 
 
-この作品で[Maker Faire Tokyo 2022 Young Maker Challenge SPRESENSE賞](https://makezine.jp/event/makerfaire/ymc2022/)を受賞しました。
+この作品で[Maker Faire Tokyo 2022 Young Maker Challenge SPRESENSE賞](https://makezine.jp/blog/2022/10/mft2022-report-07.html)を受賞しました。
 
 <div style="text-align: center">
     <img src="img/img1.jpg" width="100%">
