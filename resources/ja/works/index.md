@@ -22,6 +22,14 @@
     </a>
 </div>
 <div class="eye_catch">
+    <a href="./copied_screw/">
+        <img class="img" src="img/copied_screw.jpg"/>
+        <div class="mask">
+            <div class="caption">ネジ (2025)<br>アクリル製模造ネジ</div>
+        </div>
+    </a>
+</div>
+<div class="eye_catch">
     <a href="./cuyu_series/">
         <img class="img" src="img/cuyu_series.jpg"/>
         <div class="mask">

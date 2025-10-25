@@ -2,7 +2,6 @@
 
 
 
-
 <div style="text-align:center; line-height:0;">
 <div class="eye_catch">
     <a href="./minoth/">
@@ -16,7 +15,15 @@
     <a href="./egaroucid/">
         <img class="img" src="img/egaroucid.jpg"/>
         <div class="mask">
-            <div class="caption">Egaroucid (2021-Now)<br>World's strongest Othello AI</div>
+            <div class="caption">Egaroucid (2021-Now)<br>World's Strongest Othello AI</div>
+        </div>
+    </a>
+</div>
+<div class="eye_catch">
+    <a href="./copied_screw/">
+        <img class="img" src="img/copied_screw.jpg"/>
+        <div class="mask">
+            <div class="caption">Screw (2025)<br>Imitation Screw made of Acrylic</div>
         </div>
     </a>
 </div>
@@ -207,3 +214,4 @@
     </a>
 </div>
 </div>
+
