@@ -4,7 +4,6 @@
 
 
 <div style="text-align:center; line-height:0;">
-
 <div class="eye_catch">
     <a href="./minoth/">
         <img class="img" src="img/minoth.jpg"/>
@@ -18,6 +17,14 @@
         <img class="img" src="img/egaroucid.jpg"/>
         <div class="mask">
             <div class="caption">Egaroucid (2021-現在)<br>世界最強のオセロAI</div>
+        </div>
+    </a>
+</div>
+<div class="eye_catch">
+    <a href="./air_kobito/">
+        <img class="img" src="img/air_kobito.jpg"/>
+        <div class="mask">
+            <div class="caption">エアコビト (2025)<br>睡眠を快適にしてくれる小人</div>
         </div>
     </a>
 </div>
@@ -213,6 +220,7 @@
         </div>
     </a>
 </div>
+
 
 </div>
 

@@ -20,6 +20,14 @@
     </a>
 </div>
 <div class="eye_catch">
+    <a href="./air_kobito/">
+        <img class="img" src="img/air_kobito.jpg"/>
+        <div class="mask">
+            <div class="caption">Air-Elf (2025)<br>Who Makes Your Sleep Comfortable</div>
+        </div>
+    </a>
+</div>
+<div class="eye_catch">
     <a href="./copied_screw/">
         <img class="img" src="img/copied_screw.jpg"/>
         <div class="mask">
@@ -214,4 +222,3 @@
     </a>
 </div>
 </div>
-
