@@ -22,9 +22,9 @@ I've got [Maker Faire Tokyo 2022 Young Maker Challenge SPRESENSE Award](https://
 
 <div style="text-align: center">
     <img src="img/img1.jpg" width="100%">
-</div>
-
-
-<div style="text-align: center">
     <img src="img/img2.jpg" width="100%">
+    <img src="img/img3.jpg" width="100%">
 </div>
+
+
+
