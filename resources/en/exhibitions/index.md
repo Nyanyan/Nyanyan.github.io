@@ -2,19 +2,21 @@
 
 ## Coming Soon
 
-### Sohosai 2025 Craftsmanship Exhibition -Maker Deadline Festival-
+<center>to be announced...</center>
 
-Date: 2025/11/02-03
 
-Location: 3A203, University of Tsukuba
-
-Calling all craft lovers! Robots, electronics, programming, and more. People who enjoy making things freely at the University of Tsukuba will hold a unique exhibition. Please come and see the "Makers" who enjoy their hobby of making things.
-
-[Official Project Page](https://search.sohosai.com/projects/217)
 
 ## Archive
 
 <div style="text-align:center; line-height:0;">
+<div class="eye_catch">
+    <a href="./sohosai_2025/">
+        <img class="img" src="img/sohosai_2025.jpg"/>
+        <div class="mask">
+            <div class="caption">Sohosai 2024 Maker Deadline Festival (2025)</div>
+        </div>
+    </a>
+</div>
 <div class="eye_catch">
     <a href="./maker_faire_tokyo_2025/">
         <img class="img" src="img/maker_faire_tokyo_2025.jpg"/>
@@ -135,6 +137,7 @@ Calling all craft lovers! Robots, electronics, programming, and more. People who
         </div>
     </a>
 </div>
+
 
 
 </div>

@@ -4,7 +4,7 @@
 
 ## 近日開催
 
-to be announced...
+<center>to be announced...</center>
 
 
 
