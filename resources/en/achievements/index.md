@@ -8,6 +8,10 @@
 <th>Year</th><th>Achievement</th>
 </tr>
 <tr>
+<td>2025</td>
+<td>Othello AI Tournament Second Place @<a href="https://skatgame.net/mburo/ggs/" target="_blank" el="”noopener" noreferrer”="">Generic Game Server</a></td>
+</tr>
+<tr>
 <td>2024</td>
 <td>Othello AI Tournament Champion @<a href="https://skatgame.net/mburo/ggs/" target="_blank" el="”noopener" noreferrer”="">Generic Game Server</a></td>
 </tr>
@@ -76,6 +80,7 @@
 <td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el=”noopener noreferrer”>Presentation Award in ELCAS, Kyoto University</a></td>
 </tr>
 </tbody></table></div>
+
 
 
 

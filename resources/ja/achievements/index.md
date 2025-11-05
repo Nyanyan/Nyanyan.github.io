@@ -8,6 +8,10 @@
 <th>年</th><th>名称</th>
 </tr>
 <tr>
+<td>2025</td>
+<td>オセロAI大会 準優勝 @<a href="https://skatgame.net/mburo/ggs/" target="_blank" el="”noopener" noreferrer”="">Generic Game Server</a></td>
+</tr>
+<tr>
 <td>2024</td>
 <td>オセロAI大会 優勝 @<a href="https://skatgame.net/mburo/ggs/" target="_blank" el="”noopener" noreferrer”="">Generic Game Server</a></td>
 </tr>
@@ -76,6 +80,7 @@
 <td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el="”noopener" noreferrer”="">京都大学ELCAS プレゼンテーション賞</a></td>
 </tr>
 </tbody></table></div>
+
 
 
 
@@ -209,4 +214,3 @@
 <td>受賞ならず</td>
 </tr>
 </tbody></table></div>
-
