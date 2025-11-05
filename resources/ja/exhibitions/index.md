@@ -4,21 +4,21 @@
 
 ## 近日開催
 
-### 雙峰祭2025 ものづくり展示会 -メイカー〆切祭-
-
-日時: 2025/11/02-03
-
-場所: 筑波大学 3A203
-
-ものづくりが好きな人、集まれ！ロボット、電子工作、プログラミング、他にもいろいろ。筑波大学で自由にものづくりを楽しむ人たちが、個性あふれる展示を行います。趣味のものづくりを謳歌する「メイカー」たちをぜひご覧ください。
-
-[公式企画ページ](https://search.sohosai.com/projects/217)
+to be announced...
 
 
 
 ## アーカイブ
 
 <div style="text-align:center; line-height:0;">
+<div class="eye_catch">
+    <a href="./sohosai_2025/">
+        <img class="img" src="img/sohosai_2025.jpg"/>
+        <div class="mask">
+            <div class="caption">雙峰祭2025 メイカー〆切祭 (2025)</div>
+        </div>
+    </a>
+</div>
 <div class="eye_catch">
     <a href="./maker_faire_tokyo_2025/">
         <img class="img" src="img/maker_faire_tokyo_2025.jpg"/>
@@ -139,6 +139,7 @@
         </div>
     </a>
 </div>
+
 
 
 
