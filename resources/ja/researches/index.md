@@ -34,10 +34,10 @@
 
 <div class="table_wrapper"><table>
 <tbody><tr>
-<th>年</th><th>タイトル</th><th>発表</th><th>備考</th></tr>
+<th>年</th><th>タイトル</th><th>発表先</th><th>備考</th></tr>
 <tr>
 <td>2024</td>
-<td><a href="http://id.nii.ac.jp/1001/00239899/" target="_blank" el="”noopener" noreferrer”="">小規模な深層学習による圧縮を利用した強力なオセロAIの開発と評価</a></td>
+<td><a href="https://doi.org/10.20729/00239899" target="_blank" el="”noopener" noreferrer”="">小規模な深層学習による圧縮を利用した強力なオセロAIの開発と評価</a></td>
 <td>情報処理学会論文誌 Vol.65 No.10 pp.1545-1553</td>
 <td><a href="https://www.ipsj.or.jp/award/ssp_award.html" target="_blank" el="”noopener" noreferrer”="">特選論文</a></td>
 </tr>
@@ -45,10 +45,11 @@
 
 
 
+
 ## 査読なし論文
 <div class="table_wrapper"><table>
 <tbody><tr>
-<th>年</th><th>タイトル</th><th>発表</th><th>備考</th></tr>
+<th>年</th><th>タイトル</th><th>発表先</th><th>備考</th></tr>
 <tr>
 <td>2024</td>
 <td><a href="http://id.nii.ac.jp/1001/00232800/" target="_blank" el="”noopener" noreferrer”="">GPGPUによるαβ法を用いた高速なオセロ探索手法</a></td>
@@ -62,6 +63,7 @@
 <td><a href="https://www.ipsj.or.jp/award/gi-award2.html" target="_blank" el="”noopener" noreferrer”="">優秀研究賞</a>、<a href="https://www.ipsj.or.jp/award/yamashita2023.html" target="_blank" el="”noopener" noreferrer”="">山下記念研究賞</a>受賞</td>
 </tr>
 </tbody></table></div>
+
 
 
 
@@ -165,6 +167,5 @@
 <td>LT</td>
 </tr>
     </tbody></table></div>
-
 
 
