@@ -171,6 +171,11 @@
 </tr>
 <tr>
 <td>2025</td>
+<td><a href="https://luma.com/whkm8jf2" target="_blank" el="”noopener" noreferrer”="">VIBE25-5: Welcome to San Fransokyo</a></td>
+<td>Not awarded</td>
+</tr>
+<tr>
+<td>2025</td>
 <td><a href="https://kc-i.jp/activity/award/isca/2025/" target="_blank" el="”noopener" noreferrer”="">INTERNATIONAL STUDENTS CREATIVE AWARD</a></td>
 <td>Not nominated</td>
 </tr>
@@ -215,3 +220,4 @@
 <td>Not awarded</td>
 </tr>
 </tbody></table></div>
+
