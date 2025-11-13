@@ -13,6 +13,11 @@
 世界チャンピオンにリバーシAIが勝利してから四半世紀。リバーシAIは強さという面ではほぼ完璧になりました。しかし、AIができることはただ強い手を見つけることに留まっています。強いAIがロボットの体を持って、リバーシの勝ち方を教えてくれる未来があったらどうでしょう？そんな未来を体験していただきます。
 
 
+<div class="youtube">
+<iframe src="https://www.youtube.com/embed/jmoJRHh0pqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin"  allowfullscreen></iframe>
+</div>
+
+
 
 <div style="text-align: center">
     <img src="img/img1.jpg" width="100%">

@@ -8,6 +8,10 @@
 <th>年</th><th>名称</th>
 </tr>
 <tr>
+<td>2025</td>
+<td>オセロAI大会 準優勝 @<a href="https://skatgame.net/mburo/ggs/" target="_blank" el="”noopener" noreferrer”="">Generic Game Server</a></td>
+</tr>
+<tr>
 <td>2024</td>
 <td>オセロAI大会 優勝 @<a href="https://skatgame.net/mburo/ggs/" target="_blank" el="”noopener" noreferrer”="">Generic Game Server</a></td>
 </tr>
@@ -37,7 +41,7 @@
 </tr>
 <tr>
 <td>2022</td>
-<td><a href="https://makezine.jp/event/makerfaire/ymc2022/" target="_blank" el="”noopener" noreferrer”="">Maker Faire Tokyo 2022 Young Maker Challenge SPRESENSE賞</a></td>
+<td><a href="https://makezine.jp/blog/2022/10/mft2022-report-07.html" target="_blank" el="”noopener" noreferrer”="">Maker Faire Tokyo 2022 Young Maker Challenge SPRESENSE賞</a></td>
 </tr>
 <tr>
 <td>2021</td>
@@ -76,6 +80,8 @@
 <td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el="”noopener" noreferrer”="">京都大学ELCAS プレゼンテーション賞</a></td>
 </tr>
 </tbody></table></div>
+
+
 
 
 
@@ -164,6 +170,11 @@
 </tr>
 <tr>
 <td>2025</td>
+<td><a href="https://kc-i.jp/activity/award/isca/2025/" target="_blank" el="”noopener" noreferrer”="">INTERNATIONAL STUDENTS CREATIVE AWARD</a></td>
+<td>ノミネートならず</td>
+</tr>
+<tr>
+<td>2025</td>
 <td><a href="https://fmddsc.jp/event/%E7%AC%AC%EF%BC%96%E5%9B%9E%E5%8C%BB%E7%99%82%E5%89%B5%E7%94%9F%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88/" target="_blank" el="”noopener" noreferrer”="">第６回医療創生アイデアコンテスト</a></td>
 <td>入賞ならず</td>
 </tr>
@@ -203,4 +214,3 @@
 <td>受賞ならず</td>
 </tr>
 </tbody></table></div>
-
