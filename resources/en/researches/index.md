@@ -32,16 +32,18 @@
 
 <div class="table_wrapper"><table>
 <tbody><tr>
-<th>Year</th><th>Title</th><th>Published at</th><th>Details</th></tr>
+<th>Year</th><th>Title</th><th>Authors</th><th>Published at</th><th>Details</th></tr>
 <tr>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/TG.2025.3624825" target="_blank" el="”noopener" noreferrer”="">Compressing the Evaluation Function With Small-Scale Deep Learning on Othello</a></td>
+<td><u>Takuto Yamana</u>, Junichi Hoshino</td>
 <td>IEEE Transactions on Games</td>
 <td></td>
 </tr>
 <tr>
 <td>2024</td>
 <td><a href="https://doi.org/10.20729/00239899" target="_blank" el="”noopener" noreferrer”="">Developing and Evaluating a Strong Othello AI with Small-scale Deep Learning as a Compression</a></td>
+<td><u>Takuto Yamana</u>, Junichi Hoshino</td>
 <td>IPSJ Journal Vol.65 No.10 pp.1545-1553</td>
 <td><a href="https://www.ipsj.or.jp/award/ssp_award.html" target="_blank" el="”noopener" noreferrer”="">Specially Selected Paper</a></td>
 </tr>
@@ -53,16 +55,18 @@
 ## Non-Peer-Reviewed Paper
 <div class="table_wrapper"><table>
 <tbody><tr>
-<th>Year</th><th>Title</th><th>Published at</th><th>Details</th></tr>
+<th>Year</th><th>Title</th><th>Authors</th><th>Published at</th><th>Details</th></tr>
 <tr>
 <td>2024</td>
 <td><a href="http://id.nii.ac.jp/1001/00232800/" target="_blank" el="”noopener" noreferrer”="">GPGPUによるαβ法を用いた高速なオセロ探索手法</a></td>
+<td><u>山名琢翔</u></td>
 <td><a href="https://www.ipsj.or.jp/kenkyukai/event/gi51.html" target="_blank" el="”noopener" noreferrer”="">The 51st meeting of the Game Informatics Research Group</a></td>
 <td><a href="https://www.ipsj.or.jp/award/gi-award1.html" target="_blank" el="”noopener" noreferrer”="">Young Encouragement Award</a></td>
 </tr>
 <tr>
 <td>2022</td>
 <td><a href="http://id.nii.ac.jp/1001/00218627/" target="_blank" el="”noopener" noreferrer”="">Mastering Othello with Deep Learning as a Compression</a></td>
+<td><u>Takuto Yamana</u></td>
 <td><a href="https://www.ipsj.or.jp/kenkyukai/event/gi48.html" target="_blank" el="”noopener" noreferrer”="">The 48th meeting of the Game Informatics Research Group</a></td>
 <td><a href="https://www.ipsj.or.jp/award/gi-award2.html" target="_blank" el="”noopener" noreferrer”="">Excellent Research Award</a>, <a href="https://www.ipsj.or.jp/award/yamashita2023.html" target="_blank" el="”noopener" noreferrer”="">IPSJ Yamashita SIG Research Award</a></td>
 </tr>
