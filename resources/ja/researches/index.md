@@ -36,6 +36,12 @@
 <tbody><tr>
 <th>年</th><th>タイトル</th><th>発表先</th><th>備考</th></tr>
 <tr>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TG.2025.3624825" target="_blank" el="”noopener" noreferrer”="">Compressing the Evaluation Function With Small-Scale Deep Learning on Othello</a></td>
+<td>IEEE Transactions on Games</td>
+<td></td>
+</tr>
+<tr>
 <td>2024</td>
 <td><a href="https://doi.org/10.20729/00239899" target="_blank" el="”noopener" noreferrer”="">小規模な深層学習による圧縮を利用した強力なオセロAIの開発と評価</a></td>
 <td>情報処理学会論文誌 Vol.65 No.10 pp.1545-1553</td>

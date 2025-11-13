@@ -34,6 +34,12 @@
 <tbody><tr>
 <th>Year</th><th>Title</th><th>Published at</th><th>Details</th></tr>
 <tr>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TG.2025.3624825" target="_blank" el="”noopener" noreferrer”="">Compressing the Evaluation Function With Small-Scale Deep Learning on Othello</a></td>
+<td>IEEE Transactions on Games</td>
+<td></td>
+</tr>
+<tr>
 <td>2024</td>
 <td><a href="https://doi.org/10.20729/00239899" target="_blank" el="”noopener" noreferrer”="">Developing and Evaluating a Strong Othello AI with Small-scale Deep Learning as a Compression</a></td>
 <td>IPSJ Journal Vol.65 No.10 pp.1545-1553</td>
