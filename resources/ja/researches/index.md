@@ -32,7 +32,7 @@
 
 ## 査読付き論文
 
-- <u>Takuto Yamana</u>, Junichi Hoshino: [Compressing the Evaluation Function With Small-Scale Deep Learning on Othello](https://doi.org/10.1109/TG.2025.3624825), IEEE Transactions on Games (2025)
+- <u>Takuto Yamana</u>, and Junichi Hoshino: [Compressing the Evaluation Function With Small-Scale Deep Learning on Othello](https://doi.org/10.1109/TG.2025.3624825), IEEE Transactions on Games (2025)
 - <u>山名琢翔</u>, 星野准一：[小規模な深層学習による圧縮を利用した強力なオセロAIの開発と評価](https://doi.org/10.20729/00239899), 情報処理学会論文誌, Vol.65, No.10, pp.1545-1553 (2024) 【[特選論文](https://www.ipsj.or.jp/award/ssp_award.html)】
 
 
@@ -40,9 +40,7 @@
 ## その他論文
 
 - <u>山名琢翔</u>, 星野准一：[オセロAIとLLMを使用したオセロ解説システムの開発と評価](https://ipsj.ixsq.nii.ac.jp/records/2005511), ゲームプログラミングワークショップ2025論文集, Vol. 2025, pp.104-111 (2025) 【[ゲームプログラミングワークショップ ベストポスター賞](https://www.gi-ipsj.org/gpw/award.html)】
-
 - <u>山名琢翔</u>：[GPGPUによるαβ法を用いた高速なオセロ探索手法](https://ipsj.ixsq.nii.ac.jp/records/232914), 研究報告ゲーム情報学（GI）, Vol. 2024-GI-51, No. 26, pp. 1-9 (2024) 【[若手奨励賞](https://www.ipsj.or.jp/award/gi-award1.html)】
-
 - <u>山名琢翔</u>：[深層学習による圧縮を利用した強力なオセロAIの制作](https://ipsj.ixsq.nii.ac.jp/records/218735), 研究報告ゲーム情報学（GI）, Vol. 2022-GI-48, No. 5, pp. 1-5 (2022) 【[優秀研究賞](https://www.ipsj.or.jp/award/gi-award2.html), [山下記念研究賞](https://www.ipsj.or.jp/award/yamashita2023.html)】
 
 
@@ -50,8 +48,7 @@
 ## 執筆
 
 - <u>山名琢翔</u>：[「オセロが解けた」を白黒ハッキリさせようじゃないか](https://note.com/ipsj/n/n86f6dbfbfc7a), 情報処理, Vol. 65, No. 3, pp. 134-136 (2024) 【特別解説記事】
-
-- <u>山名琢翔</u>：[2×2×2キューブ・パズルを2秒で解くロボット](https://toragijr.cqpub.co.jp/magazine/no44/), トラ技ジュニア, 2021冬号 (No. 44) (2024)
+- <u>山名琢翔</u>：[2×2×2キューブ・パズルを2秒で解くロボット](https://toragijr.cqpub.co.jp/magazine/no44/), トラ技ジュニア, 2021冬号 (No. 44), トランジスタ技術, 2021年2月号 (2021)
 
 
 

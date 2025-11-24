@@ -187,11 +187,19 @@ def create_html(dr):
             elem = elem.replace(code, html_code)
         # bullet list
         if elem[:2] == '- ':
-            if i == 0 or md_split[i-1][:2] != '- ':
+            # use the original markdown lines to decide list boundaries
+            orig_lines = md.splitlines()
+            prev_is_li = False
+            next_is_li = False
+            if i > 0:
+                prev_is_li = orig_lines[i-1].lstrip().startswith('- ')
+            if i < len(orig_lines) - 1:
+                next_is_li = orig_lines[i+1].lstrip().startswith('- ')
+            if not prev_is_li:
                 elem = '<ul>\n<li>' + elem[2:] + '</li>'
             else:
                 elem = '<li>' + elem[2:] + '</li>'
-            if i == len(md_split) - 1 or md_split[i+1][:2] != '- ':
+            if not next_is_li:
                 elem += '\n</ul>'
         # paragraph
         if raw_html == 0 and len(elem) and elem[0] != '<':

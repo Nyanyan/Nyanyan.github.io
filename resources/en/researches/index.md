@@ -27,76 +27,24 @@
 
 
 
+## Peer-Reviewed Papers
 
-## Peer-Reviewed Paper
-
-<div class="table_wrapper"><table>
-<tbody><tr>
-<th>Year</th><th>Title</th><th>Authors</th><th>Published at</th><th>Details</th></tr>
-<tr>
-<td>2025</td>
-<td><a href="https://doi.org/10.1109/TG.2025.3624825" target="_blank" el="”noopener" noreferrer”="">Compressing the Evaluation Function With Small-Scale Deep Learning on Othello</a></td>
-<td><u>Takuto Yamana</u>, Junichi Hoshino</td>
-<td>IEEE Transactions on Games</td>
-<td></td>
-</tr>
-<tr>
-<td>2024</td>
-<td><a href="https://doi.org/10.20729/00239899" target="_blank" el="”noopener" noreferrer”="">Developing and Evaluating a Strong Othello AI with Small-scale Deep Learning as a Compression</a></td>
-<td><u>Takuto Yamana</u>, Junichi Hoshino</td>
-<td>IPSJ Journal Vol.65 No.10 pp.1545-1553</td>
-<td><a href="https://www.ipsj.or.jp/award/ssp_award.html" target="_blank" el="”noopener" noreferrer”="">Specially Selected Paper</a></td>
-</tr>
-    </tbody></table></div>
+- <u>Takuto Yamana</u>, and Junichi Hoshino: [Compressing the Evaluation Function With Small-Scale Deep Learning on Othello](https://doi.org/10.1109/TG.2025.3624825), IEEE Transactions on Games (2025)
+- <u>Takuto Yamana</u>, and Junichi Hoshino: [Developing and Evaluating a Strong Othello AI with Small-scale Deep Learning as a Compression](https://doi.org/10.20729/00239899), IPSJ Journal, Vol. 65, No. 10, pp. 1545-1553 {**[Specially Selected Paper](https://www.ipsj.or.jp/award/ssp_award.html)**}
 
 
 
+## Other Papers
 
-## Non-Peer-Reviewed Paper
-<div class="table_wrapper"><table>
-<tbody><tr>
-<th>Year</th><th>Title</th><th>Authors</th><th>Published at</th><th>Details</th></tr>
-<tr>
-<td>2024</td>
-<td><a href="http://id.nii.ac.jp/1001/00232800/" target="_blank" el="”noopener" noreferrer”="">GPGPUによるαβ法を用いた高速なオセロ探索手法</a></td>
-<td><u>山名琢翔</u></td>
-<td><a href="https://www.ipsj.or.jp/kenkyukai/event/gi51.html" target="_blank" el="”noopener" noreferrer”="">The 51st meeting of the Game Informatics Research Group</a></td>
-<td><a href="https://www.ipsj.or.jp/award/gi-award1.html" target="_blank" el="”noopener" noreferrer”="">Young Encouragement Award</a></td>
-</tr>
-<tr>
-<td>2022</td>
-<td><a href="http://id.nii.ac.jp/1001/00218627/" target="_blank" el="”noopener" noreferrer”="">Mastering Othello with Deep Learning as a Compression</a></td>
-<td><u>Takuto Yamana</u></td>
-<td><a href="https://www.ipsj.or.jp/kenkyukai/event/gi48.html" target="_blank" el="”noopener" noreferrer”="">The 48th meeting of the Game Informatics Research Group</a></td>
-<td><a href="https://www.ipsj.or.jp/award/gi-award2.html" target="_blank" el="”noopener" noreferrer”="">Excellent Research Award</a>, <a href="https://www.ipsj.or.jp/award/yamashita2023.html" target="_blank" el="”noopener" noreferrer”="">IPSJ Yamashita SIG Research Award</a></td>
-</tr>
-    </tbody></table></div>
-
-
-
+- <u>山名琢翔</u>：[GPGPUによるαβ法を用いた高速なオセロ探索手法](https://ipsj.ixsq.nii.ac.jp/records/232914), IPSJ SIG Technical Reports (GI), Vol. 2024-GI-51, No. 26, pp. 1-9 (2024) {**[Young Encouragement Award](https://www.ipsj.or.jp/award/gi-award1.html)**}
+- <u>Takuto Yamana</u>: [Mastering Othello with Deep Learning as a Compression](https://ipsj.ixsq.nii.ac.jp/records/218735), IPSJ SIG Technical Reports (GI), Vol. 2022-GI-48, No. 5, pp. 1-5 (2022) {**[Excellent Research Award](https://www.ipsj.or.jp/award/gi-award2.html)**, and **[IPSJ Yamashita SIG Research Award](https://www.ipsj.or.jp/award/yamashita2023.html)**}
 
 
 
 ## Articles
-<div class="table_wrapper"><table>
-<tbody><tr>
-<th>Year</th><th>Title</th><th>Medium</th><th>Details</th></tr>
-<tr>
-<td>2024</td>
-<td><a href="https://note.com/ipsj/n/n86f6dbfbfc7a" target="_blank" el="”noopener" noreferrer”=""> 	Is Othello Solved? Let's Make it Clear! </a></td>
-<td>IPSJ Magazine Vol.65 No.3 pp.134-136</td>
-<td>Special Commentary</td>
-</tr>
-<tr>
-<td>2021</td>
-<td><a href="https://toragijr.cqpub.co.jp/magazine/no44/" target="_blank" el="”noopener" noreferrer”="">A Robot that Solves 2x2x2 Cube Puzzle in 2 Seconds</a></td>
-<td>Toragi Junior 2021 Winter & Transistor Gijutsu 2021/2</td>
-<td></td>
-</tr>
-    </tbody></table></div>
 
-
-
+- <u>Takuto Yamana</u>：[Is Othello Solved? Let's Make it Clear!](https://note.com/ipsj/n/n86f6dbfbfc7a), IPSJ Magazine, Vol. 65, No. 3, pp. 134-136 (2024)  {**Special Commentary**}
+- <u>Takuto Yamana</u>：[A Robot that Solves 2x2x2 Cube Puzzle in 2 Seconds](https://toragijr.cqpub.co.jp/magazine/no44/), Toragi Junior, 2021 Winter (No. 44), Transistor Gijutsu, 2021 February (2021)
 
 
 
