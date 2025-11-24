@@ -3,88 +3,92 @@
 
 
 ## 受賞
-<div class="table_wrapper"><table><tbody>
-<tr>
-<th>年</th><th>名称</th>
-</tr>
-<tr>
-<td>2025</td>
-<td>オセロAI大会 準優勝 @<a href="https://skatgame.net/mburo/ggs/" target="_blank" el="”noopener" noreferrer”="">Generic Game Server</a></td>
-</tr>
-<tr>
-<td>2024</td>
-<td>オセロAI大会 優勝 @<a href="https://skatgame.net/mburo/ggs/" target="_blank" el="”noopener" noreferrer”="">Generic Game Server</a></td>
-</tr>
-<tr>
-<td>2024</td>
-<td><a href="https://talent.supporterz.jp/geekten/2024/" target="_blank" el="”noopener" noreferrer”="">技育展2024 ウイングアーク1st賞</a></td>
-</tr>
-<tr>
-<td>2024</td>
-<td><a href="https://www.ipsj.or.jp/award/ssp_award.html" target="_blank" el="”noopener" noreferrer”="">情報処理学会論文誌 特選論文</a></td>
-</tr>
-<tr>
-<td>2024</td>
-<td><a href="https://www.ipsj.or.jp/award/gi-award1.html" target="_blank" el="”noopener" noreferrer”="">ゲーム情報学研究会 若手奨励賞</a></td>
-</tr>
-<tr>
-<td>2023</td>
-<td><a href="https://www.ipsj.or.jp/award/yamashita2023.html" target="_blank" el="”noopener" noreferrer”="">情報処理学会 山下記念研究賞</a></td>
-</tr>
-<tr>
-<td>2022</td>
-<td><a href="https://www.ipsj.or.jp/award/gi-award2.html" target="_blank" el="”noopener" noreferrer”="">ゲーム情報学研究会 優秀研究賞</a></td>
-</tr>
-<tr>
-<td>2022</td>
-<td><a href="https://talent.supporterz.jp/geekten/2022/" target="_blank" el="”noopener" noreferrer”="">技育展2022無駄開発部門 優秀賞</a></td>
-</tr>
-<tr>
-<td>2022</td>
-<td><a href="https://makezine.jp/blog/2022/10/mft2022-report-07.html" target="_blank" el="”noopener" noreferrer”="">Maker Faire Tokyo 2022 Young Maker Challenge SPRESENSE賞</a></td>
-</tr>
-<tr>
-<td>2021</td>
-<td><a href="https://www.codingame.com/multiplayer/bot-programming/othello-1" target="_blank" el="”noopener" noreferrer”="">CodinGame オセロAI世界1位</a></td>
-</tr>
-<tr>
-<td>2021</td>
-<td><a href="https://talent.supporterz.jp/geekten/2021/" target="_blank" el="”noopener" noreferrer”="">技育展2021無駄開発部門 最優秀賞</a></td>
-</tr>
-<tr>
-<td>2020</td>
-<td><a href="https://talent.supporterz.jp/geekten/2020/" target="_blank" el="”noopener" noreferrer”="">技育展無駄開発部門 最優秀賞</a></td>
-</tr>
-<tr>
-<td>2019</td>
-<td><a href="http://www.jpho.jp/2019/prizes at phy-chal-2019.pdf" target="_blank" el="”noopener" noreferrer”="">物理チャレンジ2019 実験優秀賞</a></td>
-</tr>
-<tr>
-<td>2019</td>
-<td><a href="http://www.jpho.jp/2019/prizes at phy-chal-2019.pdf" target="_blank" el="”noopener" noreferrer”="">物理チャレンジ2019 銀賞</a></td>
-</tr>
-<tr>
-<td>2019</td>
-<td><a href="https://www.ipa.go.jp/jinzai/mitou/it/supercreator-list.html" target="_blank" el="”noopener" noreferrer”="">IPA未踏IT人材発掘・育成事業 スーパークリエータ認定</a></td>
-</tr>
-<tr>
-<td>2018</td>
-<td><a href="https://makerfaire.com/maker/entry/67738/" target="_blank" el="”noopener" noreferrer”="">World Maker Faire New York 2018 Editor's Choice</a></td>
-</tr>
-<tr>
-<td>2018</td>
-<td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-04-09-0" target="_blank" el="”noopener" noreferrer”="">京都大学サイエンスフェスティバル 副学長賞</a></td>
-</tr>
-<tr>
-<td>2018</td>
-<td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el="”noopener" noreferrer”="">京都大学ELCAS プレゼンテーション賞</a></td>
-</tr>
-</tbody></table></div>
-
-
-
-
-
+<div class="table_wrapper">
+    <table>
+        <tbody>
+			<tr>
+				<th>年</th>
+                <th>名称</th>
+			</tr>
+            <tr>
+				<td>2025</td>
+				<td><a href="https://www.gi-ipsj.org/gpw/award.html" target="_blank" el="”noopener" noreferrer”="">ゲームプログラミングワークショップ ベストポスター賞</a></td>
+			</tr>
+			<tr>
+				<td>2025</td>
+				<td>オセロAI大会 準優勝 @<a href="https://skatgame.net/mburo/ggs/" target="_blank" el="”noopener" noreferrer”="">Generic Game Server</a></td>
+			</tr>
+			<tr>
+				<td>2024</td>
+				<td>オセロAI大会 優勝 @<a href="https://skatgame.net/mburo/ggs/" target="_blank" el="”noopener" noreferrer”="">Generic Game Server</a></td>
+			</tr>
+			<tr>
+				<td>2024</td>
+				<td><a href="https://talent.supporterz.jp/geekten/2024/" target="_blank" el="”noopener" noreferrer”="">技育展2024 ウイングアーク1st賞</a></td>
+			</tr>
+			<tr>
+				<td>2024</td>
+				<td><a href="https://www.ipsj.or.jp/award/ssp_award.html" target="_blank" el="”noopener" noreferrer”="">情報処理学会論文誌 特選論文</a></td>
+			</tr>
+			<tr>
+				<td>2024</td>
+				<td><a href="https://www.ipsj.or.jp/award/gi-award1.html" target="_blank" el="”noopener" noreferrer”="">ゲーム情報学研究会 若手奨励賞</a></td>
+			</tr>
+			<tr>
+				<td>2023</td>
+				<td><a href="https://www.ipsj.or.jp/award/yamashita2023.html" target="_blank" el="”noopener" noreferrer”="">情報処理学会 山下記念研究賞</a></td>
+			</tr>
+			<tr>
+				<td>2022</td>
+				<td><a href="https://www.ipsj.or.jp/award/gi-award2.html" target="_blank" el="”noopener" noreferrer”="">ゲーム情報学研究会 優秀研究賞</a></td>
+			</tr>
+			<tr>
+				<td>2022</td>
+				<td><a href="https://talent.supporterz.jp/geekten/2022/" target="_blank" el="”noopener" noreferrer”="">技育展2022無駄開発部門 優秀賞</a></td>
+			</tr>
+			<tr>
+				<td>2022</td>
+				<td><a href="https://makezine.jp/blog/2022/10/mft2022-report-07.html" target="_blank" el="”noopener" noreferrer”="">Maker Faire Tokyo 2022 Young Maker Challenge SPRESENSE賞</a></td>
+			</tr>
+			<tr>
+				<td>2021</td>
+				<td><a href="https://www.codingame.com/multiplayer/bot-programming/othello-1" target="_blank" el="”noopener" noreferrer”="">CodinGame オセロAI世界1位</a></td>
+			</tr>
+			<tr>
+				<td>2021</td>
+				<td><a href="https://talent.supporterz.jp/geekten/2021/" target="_blank" el="”noopener" noreferrer”="">技育展2021無駄開発部門 最優秀賞</a></td>
+			</tr>
+			<tr>
+				<td>2020</td>
+				<td><a href="https://talent.supporterz.jp/geekten/2020/" target="_blank" el="”noopener" noreferrer”="">技育展無駄開発部門 最優秀賞</a></td>
+			</tr>
+			<tr>
+				<td>2019</td>
+				<td><a href="http://www.jpho.jp/2019/prizes at phy-chal-2019.pdf" target="_blank" el="”noopener" noreferrer”="">物理チャレンジ2019 実験優秀賞</a></td>
+			</tr>
+			<tr>
+				<td>2019</td>
+				<td><a href="http://www.jpho.jp/2019/prizes at phy-chal-2019.pdf" target="_blank" el="”noopener" noreferrer”="">物理チャレンジ2019 銀賞</a></td>
+			</tr>
+			<tr>
+				<td>2019</td>
+				<td><a href="https://www.ipa.go.jp/jinzai/mitou/it/supercreator-list.html" target="_blank" el="”noopener" noreferrer”="">IPA未踏IT人材発掘・育成事業 スーパークリエータ認定</a></td>
+			</tr>
+			<tr>
+				<td>2018</td>
+				<td><a href="https://makerfaire.com/maker/entry/67738/" target="_blank" el="”noopener" noreferrer”="">World Maker Faire New York 2018 Editor's Choice</a></td>
+			</tr>
+			<tr>
+				<td>2018</td>
+				<td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-04-09-0" target="_blank" el="”noopener" noreferrer”="">京都大学サイエンスフェスティバル 副学長賞</a></td>
+			</tr>
+			<tr>
+				<td>2018</td>
+				<td><a href="https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0" target="_blank" el="”noopener" noreferrer”="">京都大学ELCAS プレゼンテーション賞</a></td>
+			</tr>
+		</tbody>
+    </table>
+</div>
 
 
 
@@ -219,4 +223,3 @@
 <td>受賞ならず</td>
 </tr>
 </tbody></table></div>
-
