@@ -151,11 +151,17 @@ def create_html(dr):
     #     md_split[i] = elem
     raw_html = 0
     for i, elem in enumerate(md_split):
+        if dr == 'ja/researches':
+            print(elem)
         while elem and (elem[0] == ' ' or elem[0] == '\t'):
             elem = elem[1:]
         html_elems = re.findall(r'\<.+?\>', elem)
+        if dr == 'ja/researches':
+            print(html_elems)
         for html_elem in html_elems:
             raw_html += judge_raw_html(html_elem)
+            if dr == 'ja/researches':
+                print(html_elem, judge_raw_html(html_elem))
         # section tags
         if elem[:2] == '# ':
             elem = '<h1>' + elem[2:] + '</h1>'
@@ -185,8 +191,19 @@ def create_html(dr):
         for code in codes:
             html_code = '<code>' + code[3:-3] + '</code>'
             elem = elem.replace(code, html_code)
+        # bullet list
+        if elem[:2] == '- ':
+            if i == 0 or md_split[i-1][:2] != '- ':
+                elem = '<ul>\n<li>' + elem[2:] + '</li>'
+            else:
+                elem = '<li>' + elem[2:] + '</li>'
+            if i == len(md_split) - 1 or md_split[i+1][:2] != '- ':
+                elem += '\n</ul>'
         # paragraph
-        if raw_html == 0 and len(elem) and elem[0] != '<':
+        if dr == 'ja/researches':
+            print(raw_html, len(elem))
+        # if raw_html == 0 and len(elem) and elem[0] != '<':
+        if raw_html == 0 and len(elem):
             elem = '<p>' + elem + '</p>'
         # img
         if '<img' in elem:
