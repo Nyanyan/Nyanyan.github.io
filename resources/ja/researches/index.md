@@ -52,35 +52,28 @@
 
 
 
+## 招待講演等
 
-## 講演
-<div class="table_wrapper"><table>
-<tbody>
-    <tr>
-		<th>年</th>
-        <th>タイトル</th>
-        <th>イベント</th>
-        <th>備考</th>
-    </tr>
-	<tr>
-		<td>2024</td>
-		<td>弱解決から2ヶ月。オセロAIで占う人間とAIの未来</td>
-		<td><a href="https://prosym.org/65/" target="_blank" el="”noopener" noreferrer”="">第65回プログラミング・シンポジウム</a></td>
-		<td>特別講演</td>
-	</tr>
-	<tr>
-		<td>2023</td>
-		<td>人間に勝利してから四半世紀。まだ終わらないオセロAI</td>
-		<td><a href="https://www.gi-ipsj.org/gpw/2023/" target="_blank" el="”noopener" noreferrer”="">第28回ゲームプログラミングワークショップ (GPW-23)</a></td>
-		<td>招待講演</td>
-	</tr>
-</tbody>
-</table></div>
+- <u>山名琢翔</u>：弱解決から2ヶ月。オセロAIで占う人間とAIの未来, [第65回プログラミング・シンポジウム](https://prosym.org/65/) (2024) 【特別講演】
+- <u>山名琢翔</u>：人間に勝利してから四半世紀。まだ終わらないオセロAI, [第28回ゲームプログラミングワークショップ (GPW-23)](https://www.gi-ipsj.org/gpw/2023/) (2023) 【招待講演】
+
+
+
+## その他講演・登壇
+
+- <u>山名琢翔</u>：オセロAIは、いいぞ。, わくわくLT会 Vol.2 (登壇) (2025)
+- <u>山名琢翔</u>：オセロAI制作が楽しい話, [新年LT](https://righteous-aragon-7f1.notion.site/LT-17065cba42a180a09dc2ea14444561fa) (登壇) (2025)
+- <u>山名琢翔</u>：今更だから面白いオセロAIの話, [さくらのAI Meetup vol.3 #さくらのAI](https://sakura-tokyo.connpass.com/event/323089/) (登壇) (2024)
+- <u>山名琢翔</u>：ロボットの役に立ったら嬉しいオセロAIの話, [第45回ロボティクス勉強会](https://robosemi.connpass.com/event/309583/) (通常発表) (2024)
+- <u>山名琢翔</u>：オセロって最初4マス埋まってるじゃないですか。あれって実はコマンドで…, [coinsLT #1000](https://amakubo.connpass.com/event/288675/) (飛び入り参加) (2023)
+- <u>山名琢翔</u>：オセロAIを作っていたらオセロを音楽にしていた話, [Music×Analytics Meetup Vol.9](https://muana.connpass.com/event/259360/) (7min LT) (2022)
+- <u>山名琢翔</u>：オセロAIをWeb公開した, [#さくらのマイクロコミュニティ （Webサービス開発者の会） #1](https://sakura-tokyo.connpass.com/event/247955/) (LT) (2022)
+- <u>山名琢翔</u>：ものづくりとルービックキューブ, [#stdout2020 学生LT会](https://joken-nuce.connpass.com/event/195933/) (LT) (2020)
+- <u>山名琢翔</u>：ルービックキューブで世界記録保持者になりたい(ロボット部門で), [CubingLT #1](https://www.youtube.com/live/Xht3u3NunsQ?si=suxcCfYlv5-NhwsC) (LT) (2020)
 
 
 
 
-## 登壇
 
 <div class="table_wrapper"><table>
 <tbody>

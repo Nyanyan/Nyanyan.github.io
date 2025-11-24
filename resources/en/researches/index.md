@@ -48,25 +48,10 @@
 
 
 
-## Lectures
-<div class="table_wrapper"><table>
-<tbody><tr>
-<th>Year</th><th>Title</th><th>Event</th><th>Details</th></tr>
-<tr>
-<tr>
-<td>2024</td>
-<td>2 months after weakly solved. Othello AI predicts the future of humans and AI.</td>
-<td><a href="https://prosym.org/65/" target="_blank" el="”noopener" noreferrer”="">The 65th Programming Symposium</a></td>
-<td>Special Lecture</td>
-</tr>
-<tr>
-<td>2023</td>
-<td>A quarter century has passed since the victory over humans. Othello AI is not finished yet.</td>
-<td><a href="https://www.gi-ipsj.org/gpw/2023/" target="_blank" el="”noopener" noreferrer”="">The 28th Game Programming Workshop (GPW-23)</a></td>
-<td>Invited Lecture</td>
-</tr>
-    </tbody></table></div>
+## Invited Lectures
 
+- <u>Takuto Yamana</u>：2 months after weakly solved. Othello AI predicts the future of humans and AI, [The 65th Programming Symposium](https://prosym.org/65/) (2024) {**Special Lecture**}
+- <u>Takuto Yamana</u>：A quarter century has passed since the victory over humans. Othello AI is not finished yet, [The 28th Game Programming Workshop (GPW-23)](https://www.gi-ipsj.org/gpw/2023/program.html) (2023) {**Invited Lecture**}
 
 
 
