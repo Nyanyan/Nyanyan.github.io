@@ -202,8 +202,7 @@ def create_html(dr):
         # paragraph
         if dr == 'ja/researches':
             print(raw_html, len(elem))
-        # if raw_html == 0 and len(elem) and elem[0] != '<':
-        if raw_html == 0 and len(elem):
+        if raw_html == 0 and len(elem) and elem[0] != '<':
             elem = '<p>' + elem + '</p>'
         # img
         if '<img' in elem:
