@@ -13,7 +13,7 @@
     <tr>
         <td>researchmap</td>
         <td><a href="https://researchmap.jp/takuto_yamana" target="_blank" el="”noopener" noreferrer”="">takuto_yamana</a></td>
-    <tr>
+    </tr>
     <tr>
         <td>ORCID</td>
         <td><a href="https://orcid.org/0009-0009-0615-3693" target="_blank" el="”noopener" noreferrer”="">0009-0009-0615-3693</a></td>
@@ -32,67 +32,27 @@
 
 ## 査読付き論文
 
-<div class="table_wrapper"><table>
-<tbody><tr>
-<th>年</th><th>タイトル</th><th>著者</th><th>発表先</th><th>備考</th></tr>
-<tr>
-<td>2025</td>
-<td><a href="https://doi.org/10.1109/TG.2025.3624825" target="_blank" el="”noopener" noreferrer”="">Compressing the Evaluation Function With Small-Scale Deep Learning on Othello</a></td>
-<td><u>Takuto Yamana</u>, Junichi Hoshino</td>
-<td>IEEE Transactions on Games</td>
-<td></td>
-</tr>
-<tr>
-<td>2024</td>
-<td><a href="https://doi.org/10.20729/00239899" target="_blank" el="”noopener" noreferrer”="">小規模な深層学習による圧縮を利用した強力なオセロAIの開発と評価</a></td>
-<td><u>山名琢翔</u>、星野准一</td>
-<td>情報処理学会論文誌 Vol.65 No.10 pp.1545-1553</td>
-<td><a href="https://www.ipsj.or.jp/award/ssp_award.html" target="_blank" el="”noopener" noreferrer”="">特選論文</a></td>
-</tr>
-</tbody></table></div>
+- <u>Takuto Yamana</u>, Junichi Hoshino: [Compressing the Evaluation Function With Small-Scale Deep Learning on Othello](https://doi.org/10.1109/TG.2025.3624825), IEEE Transactions on Games (2025)
+- <u>山名琢翔</u>, 星野准一：[小規模な深層学習による圧縮を利用した強力なオセロAIの開発と評価](https://doi.org/10.20729/00239899), 情報処理学会論文誌, Vol.65, No.10, pp.1545-1553 (2024) 【[特選論文](https://www.ipsj.or.jp/award/ssp_award.html)】
 
 
 
+## その他論文
 
-## 査読なし論文
-<div class="table_wrapper"><table>
-<tbody><tr>
-<th>年</th><th>タイトル</th><th>著者</th><th>発表先</th><th>備考</th></tr>
-<tr>
-<td>2024</td>
-<td><a href="http://id.nii.ac.jp/1001/00232800/" target="_blank" el="”noopener" noreferrer”="">GPGPUによるαβ法を用いた高速なオセロ探索手法</a></td>
-<td><u>山名琢翔</u></td>
-<td><a href="https://www.ipsj.or.jp/kenkyukai/event/gi51.html" target="_blank" el="”noopener" noreferrer”="">第51回ゲーム情報学研究発表会</a></td>
-<td><a href="https://www.ipsj.or.jp/award/gi-award1.html" target="_blank" el="”noopener" noreferrer”="">若手奨励賞</a>受賞</td>
-</tr>
-<tr>
-<td>2022</td>
-<td><a href="http://id.nii.ac.jp/1001/00218627/" target="_blank" el="”noopener" noreferrer”="">深層学習による圧縮を利用した強力なオセロAIの制作</a></td>
-<td><u>山名琢翔</u></td>
-<td><a href="https://www.ipsj.or.jp/kenkyukai/event/gi48.html" target="_blank" el="”noopener" noreferrer”="">第48回ゲーム情報学研究発表会</a></td>
-<td><a href="https://www.ipsj.or.jp/award/gi-award2.html" target="_blank" el="”noopener" noreferrer”="">優秀研究賞</a>、<a href="https://www.ipsj.or.jp/award/yamashita2023.html" target="_blank" el="”noopener" noreferrer”="">山下記念研究賞</a>受賞</td>
-</tr>
-</tbody></table></div>
+- <u>山名琢翔</u>, 星野准一：[オセロAIとLLMを使用したオセロ解説システムの開発と評価](https://ipsj.ixsq.nii.ac.jp/records/2005511), ゲームプログラミングワークショップ2025論文集, Vol. 2025, pp.104-111 (2025) 【[ゲームプログラミングワークショップ ベストポスター賞](https://www.gi-ipsj.org/gpw/award.html)】
 
+- <u>山名琢翔</u>：[GPGPUによるαβ法を用いた高速なオセロ探索手法](https://ipsj.ixsq.nii.ac.jp/records/232914), 研究報告ゲーム情報学（GI）, Vol. 2024-GI-51, No. 26, pp. 1-9 (2024) 【[若手奨励賞](https://www.ipsj.or.jp/award/gi-award1.html)】
+
+- <u>山名琢翔</u>：[深層学習による圧縮を利用した強力なオセロAIの制作](https://ipsj.ixsq.nii.ac.jp/records/218735), 研究報告ゲーム情報学（GI）, Vol. 2022-GI-48, No. 5, pp. 1-5 (2022) 【[優秀研究賞](https://www.ipsj.or.jp/award/gi-award2.html), [山下記念研究賞](https://www.ipsj.or.jp/award/yamashita2023.html)】
 
 
 
 ## 執筆
-<div class="table_wrapper"><table>
-<tbody><tr>
-<th>年</th><th>タイトル</th><th>媒体</th><th>備考</th></tr><tr>
-<td>2024</td>
-<td><a href="https://note.com/ipsj/n/n86f6dbfbfc7a" target="_blank" el="”noopener" noreferrer”="">「オセロが解けた」を白黒ハッキリさせようじゃないか</a></td>
-<td>情報処理学会・学会誌「情報処理」Vol.65 No.3 pp.134-136</td>
-<td>特別解説記事</td>
-</tr>
-<tr>
-<td>2021</td>
-<td><a href="https://toragijr.cqpub.co.jp/magazine/no44/" target="_blank" el="”noopener" noreferrer”="">2×2×2キューブ・パズルを2秒で解くロボット</a></td>
-<td>トラ技ジュニア 2021冬 & トランジスタ技術 2021年2月号</td>
-<td></td>
-</tr>
-    </tbody></table></div>
+
+- <u>山名琢翔</u>：[「オセロが解けた」を白黒ハッキリさせようじゃないか](https://note.com/ipsj/n/n86f6dbfbfc7a), 情報処理, Vol. 65, No. 3, pp. 134-136 (2024) 【特別解説記事】
+
+- <u>山名琢翔</u>：[2×2×2キューブ・パズルを2秒で解くロボット](https://toragijr.cqpub.co.jp/magazine/no44/), トラ技ジュニア, 2021冬号 (No. 44) (2024)
+
 
 
 
