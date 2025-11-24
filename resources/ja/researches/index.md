@@ -58,22 +58,28 @@
 
 ## 講演
 <div class="table_wrapper"><table>
-<tbody><tr>
-<th>年</th><th>タイトル</th><th>イベント</th><th>備考</th></tr>
-<tr>
-<tr>
-<td>2024</td>
-<td>弱解決から2ヶ月。オセロAIで占う人間とAIの未来</td>
-<td><a href="https://prosym.org/65/" target="_blank" el="”noopener" noreferrer”="">第65回プログラミング・シンポジウム</a></td>
-<td>特別講演</td>
-</tr>
-<tr>
-<td>2023</td>
-<td>人間に勝利してから四半世紀。まだ終わらないオセロAI</td>
-<td><a href="https://www.gi-ipsj.org/gpw/2023/" target="_blank" el="”noopener" noreferrer”="">第28回ゲームプログラミングワークショップ (GPW-23)</a></td>
-<td>招待講演</td>
-</tr>
-    </tbody></table></div>
+<tbody>
+    <tr>
+		<th>年</th>
+        <th>タイトル</th>
+        <th>イベント</th>
+        <th>備考</th>
+    </tr>
+	<tr>
+		<td>2024</td>
+		<td>弱解決から2ヶ月。オセロAIで占う人間とAIの未来</td>
+		<td><a href="https://prosym.org/65/" target="_blank" el="”noopener" noreferrer”="">第65回プログラミング・シンポジウム</a></td>
+		<td>特別講演</td>
+	</tr>
+	<tr>
+		<td>2023</td>
+		<td>人間に勝利してから四半世紀。まだ終わらないオセロAI</td>
+		<td><a href="https://www.gi-ipsj.org/gpw/2023/" target="_blank" el="”noopener" noreferrer”="">第28回ゲームプログラミングワークショップ (GPW-23)</a></td>
+		<td>招待講演</td>
+	</tr>
+</tbody>
+</table></div>
+
 
 
 
