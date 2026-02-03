@@ -10,6 +10,10 @@
 				<th>Achievement</th>
 			</tr>
 			<tr>
+				<td>2026</td>
+				<td><a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">University of Tsukuba Master's Program in Design</a> Design Studio 1 Presentation, Creativity Award</td>
+			</tr>
+			<tr>
 				<td>2025</td>
 				<td><a href="https://www.gi-ipsj.org/gpw/award.html" target="_blank" el="”noopener" noreferrer”="">Best Poster Award, Game Programming Workshop</a></td>
 			</tr>
@@ -98,6 +102,10 @@
 		<tbody>
 			<tr>
 				<th>Year</th><th>Achievement</th>
+			</tr>
+			<tr>
+				<td>2026</td>
+				<td><a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">University of Tsukuba, Master's Program Design</a> Excellent Student Incentive Project</td>
 			</tr>
 			<tr>
 				<td>2023</td>
