@@ -11,6 +11,10 @@
 				<th>名称</th>
 			</tr>
 			<tr>
+				<td>2026</td>
+				<td><a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">筑波大学デザイン学学位プログラム会</a>デザイン学特別演習1発表会 クリエイティビティ賞</td>
+			</tr>
+			<tr>
 				<td>2025</td>
 				<td><a href="https://www.gi-ipsj.org/gpw/award.html" target="_blank" el="”noopener" noreferrer”="">ゲームプログラミングワークショップ ベストポスター賞</a></td>
 			</tr>
@@ -99,6 +103,10 @@
 			<tr>
 				<th>年</th>
 				<th>名称</th>
+			</tr>
+			<tr>
+				<td>2026</td>
+				<td><a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">筑波大学デザイン学学位プログラム</a>優秀学生奨励プロジェクト</td>
 			</tr>
 			<tr>
 				<td>2023</td>
