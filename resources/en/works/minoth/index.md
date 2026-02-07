@@ -17,11 +17,20 @@ There is a video about this robot:
 </div>
 
 
-
+## Gallery
 
 <div style="text-align: center">
     <img src="img/img1.jpg" width="100%">
     <img src="img/img2.jpg" width="100%">
     <img src="img/img3.jpg" width="100%">
     <img src="img/img4.jpg" width="100%">
+</div>
+
+### Old version made in 2025
+
+<div>
+    <img src="img/minoth1_img1.jpg" width="100%">
+    <img src="img/minoth1_img2.jpg" width="100%">
+    <img src="img/minoth1_img3.jpg" width="100%">
+    <img src="img/minoth1_img4.jpg" width="100%">
 </div>
