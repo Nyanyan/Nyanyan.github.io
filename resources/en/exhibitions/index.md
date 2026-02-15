@@ -2,7 +2,19 @@
 
 ## Coming Soon
 
-<center>to be announced...</center>
+### MITOU Kaigi 2026
+
+Exhibit: Othello Professor Robot "Minoth"
+
+Official page: [https://www.ipa.go.jp/jinzai/mitou/mitoukaigi/](https://www.ipa.go.jp/jinzai/mitou/mitoukaigi/)
+
+Date & Time: March 7, 2026 (Sat) 10:00–17:00
+
+Venue: Tokyo Midtown Hall (9-7-2 Akasaka, Minato-ku, Tokyo 107-0052)
+
+Admission: Free
+
+Pre-registration form (Required): [https://mitoukaigi.ipa.go.jp/f/13062/mitoukaigi2026](https://mitoukaigi.ipa.go.jp/f/13062/mitoukaigi2026)
 
 
 
@@ -13,7 +25,7 @@
     <a href="./sohosai_2025/">
         <img class="img" src="img/sohosai_2025.jpg"/>
         <div class="mask">
-            <div class="caption">Sohosai 2024 Maker Deadline Festival (2025)</div>
+            <div class="caption">Sohosai 2025 Maker Deadline Festival (2025)</div>
         </div>
     </a>
 </div>

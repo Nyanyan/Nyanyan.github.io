@@ -8,7 +8,7 @@
 
 展示物: オセロ教授ロボット "Minoth"
 
-公式ページ: https://www.ipa.go.jp/jinzai/mitou/mitoukaigi/
+公式ページ: [https://www.ipa.go.jp/jinzai/mitou/mitoukaigi/](https://www.ipa.go.jp/jinzai/mitou/mitoukaigi/)
 
 日時: 2026年3月7日（土）10:00～17:00
 
@@ -16,7 +16,7 @@
 
 入場料: 無料
 
-事前登録フォーム（必須）: https://mitoukaigi.ipa.go.jp/f/13062/mitoukaigi2026
+事前登録フォーム（必須）: [https://mitoukaigi.ipa.go.jp/f/13062/mitoukaigi2026](https://mitoukaigi.ipa.go.jp/f/13062/mitoukaigi2026)
 
 
 
