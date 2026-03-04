@@ -1,6 +1,6 @@
 # Exhibitions
 
-## Coming Soon
+## Upcoming
 
 ### MITOU Kaigi 2026
 
