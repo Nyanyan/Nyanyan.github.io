@@ -150,7 +150,11 @@ def create_html(dr):
     #     # modify data
     #     md_split[i] = elem
     raw_html = 0
+    last_h3_title = ''
+    bullet_list_depth = 0
     for i, elem in enumerate(md_split):
+        original_elem = elem
+        leading_spaces = len(original_elem) - len(original_elem.lstrip(' '))
         while elem and (elem[0] == ' ' or elem[0] == '\t'):
             elem = elem[1:]
         html_elems = re.findall(r'\<.+?\>', elem)
@@ -187,20 +191,22 @@ def create_html(dr):
             elem = elem.replace(code, html_code)
         # bullet list
         if elem[:2] == '- ':
-            # use the original markdown lines to decide list boundaries
-            orig_lines = md.splitlines()
-            prev_is_li = False
-            next_is_li = False
-            if i > 0:
-                prev_is_li = orig_lines[i-1].lstrip().startswith('- ')
-            if i < len(orig_lines) - 1:
-                next_is_li = orig_lines[i+1].lstrip().startswith('- ')
-            if not prev_is_li:
-                elem = '<ul>\n<li>' + elem[2:] + '</li>'
-            else:
-                elem = '<li>' + elem[2:] + '</li>'
-            if not next_is_li:
-                elem += '\n</ul>'
+            target_depth = leading_spaces // 2 + 1
+            prefix = ''
+            while bullet_list_depth < target_depth:
+                prefix += '<ul>\n'
+                bullet_list_depth += 1
+                raw_html += 1
+            while bullet_list_depth > target_depth:
+                prefix += '</ul>\n'
+                bullet_list_depth -= 1
+                raw_html -= 1
+            elem = prefix + '<li>' + elem[2:] + '</li>'
+        else:
+            if bullet_list_depth > 0 and i > 0:
+                md_split[i - 1] += ''.join('\n</ul>' for _ in range(bullet_list_depth))
+                raw_html -= bullet_list_depth
+                bullet_list_depth = 0
         # paragraph
         if raw_html == 0 and len(elem) and elem[0] != '<':
             elem = '<p>' + elem + '</p>'
@@ -221,6 +227,9 @@ def create_html(dr):
             '''
         # modify data
         md_split[i] = elem
+    if bullet_list_depth > 0 and md_split:
+        md_split[-1] += ''.join('\n</ul>' for _ in range(bullet_list_depth))
+        raw_html -= bullet_list_depth
     this_page_url = main_page_url + dr
     with open(dr + '/title.txt', 'r', encoding='utf-8') as f:
         page_title = f.readline()

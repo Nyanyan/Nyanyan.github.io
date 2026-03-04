@@ -12,7 +12,7 @@
 			</tr>
 			<tr>
 				<td>2026</td>
-				<td><a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">筑波大学デザイン学学位プログラム会</a>デザイン学特別演習1発表会 クリエイティビティ賞</td>
+				<td><a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">筑波大学デザイン学学位プログラム</a>デザイン学特別演習1発表会 クリエイティビティ賞</td>
 			</tr>
 			<tr>
 				<td>2025</td>
