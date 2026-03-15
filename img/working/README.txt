@@ -1,1 +1,4 @@
 eyecatchを作ってから、worksの画像を作るべし
+
+eyecatchは1200x720
+worksやexhibitionsの正方形画像は512x512
