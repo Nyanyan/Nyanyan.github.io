@@ -4,25 +4,21 @@
 
 ## 近日開催
 
-### 未踏会議2026
-
-展示物: オセロ教授ロボット "Minoth"
-
-公式ページ: [https://www.ipa.go.jp/jinzai/mitou/mitoukaigi/](https://www.ipa.go.jp/jinzai/mitou/mitoukaigi/)
-
-日時: 2026年3月7日（土）10:00～17:00
-
-会場: 東京ミッドタウン・ホール（〒107-0052 東京都港区赤坂9-7-2）
-
-入場料: 無料
-
-事前登録フォーム（必須）: [https://mitoukaigi.ipa.go.jp/f/13062/mitoukaigi2026](https://mitoukaigi.ipa.go.jp/f/13062/mitoukaigi2026)
+<center>coming soon...</center>
 
 
 
 ## アーカイブ
 
 <div style="text-align:center; line-height:0;">
+<div class="eye_catch">
+    <a href="./mitoukaigi_2026/">
+        <img class="img" src="img/mitoukaigi_2026.jpg"/>
+        <div class="mask">
+            <div class="caption">未踏会議2026 (2026)</div>
+        </div>
+    </a>
+</div>
 <div class="eye_catch">
     <a href="./sohosai_2025/">
         <img class="img" src="img/sohosai_2025.jpg"/>
@@ -151,6 +147,7 @@
         </div>
     </a>
 </div>
+
 
 
 
