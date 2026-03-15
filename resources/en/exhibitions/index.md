@@ -2,25 +2,21 @@
 
 ## Upcoming
 
-### MITOU Kaigi 2026
-
-Exhibit: Othello Professor Robot "Minoth"
-
-Official page: [https://www.ipa.go.jp/jinzai/mitou/mitoukaigi/](https://www.ipa.go.jp/jinzai/mitou/mitoukaigi/)
-
-Date & Time: March 7, 2026 (Sat) 10:00–17:00
-
-Venue: Tokyo Midtown Hall (9-7-2 Akasaka, Minato-ku, Tokyo 107-0052)
-
-Admission: Free
-
-Pre-registration form (Required): [https://mitoukaigi.ipa.go.jp/f/13062/mitoukaigi2026](https://mitoukaigi.ipa.go.jp/f/13062/mitoukaigi2026)
+<center>coming soon...</center>
 
 
 
 ## Archive
 
 <div style="text-align:center; line-height:0;">
+<div class="eye_catch">
+    <a href="./mitoukaigi_2026/">
+        <img class="img" src="img/mitoukaigi_2026.jpg"/>
+        <div class="mask">
+            <div class="caption">Mitou Kaigi 2026 (2026)</div>
+        </div>
+    </a>
+</div>
 <div class="eye_catch">
     <a href="./sohosai_2025/">
         <img class="img" src="img/sohosai_2025.jpg"/>
