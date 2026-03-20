@@ -32,7 +32,7 @@
 
 ## 査読付き論文
 
-- <u>T. Yamana</u> and J. Hoshino, "[Compressing the Evaluation Function With Small-Scale Deep Learning on Othello](https://doi.org/10.1109/TG.2025.3624825)," in *IEEE Transactions on Games*, vol. 18, no. 1, pp. 128-138, March 2026, doi: 10.1109/TG.2025.3624825.
+- <u>T. Yamana</u> and J. Hoshino, "[Compressing the Evaluation Function With Small-Scale Deep Learning on Othello](https://doi.org/10.1109/TG.2025.3624825)," in IEEE Transactions on Games, vol. 18, no. 1, pp. 128-138, March 2026, doi: 10.1109/TG.2025.3624825.
 - <u>山名琢翔</u>, 星野准一：[小規模な深層学習による圧縮を利用した強力なオセロAIの開発と評価](https://doi.org/10.20729/00239899), 情報処理学会論文誌, Vol.65, No.10, pp.1545-1553 (2024) 【[特選論文](https://www.ipsj.or.jp/award/ssp_award.html)】
 
 

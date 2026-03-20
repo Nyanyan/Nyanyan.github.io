@@ -30,7 +30,7 @@
 
 ## Peer-Reviewed Papers
 
-- <u>T. Yamana</u> and J. Hoshino, "[Compressing the Evaluation Function With Small-Scale Deep Learning on Othello](https://doi.org/10.1109/TG.2025.3624825)," in *IEEE Transactions on Games*, vol. 18, no. 1, pp. 128-138, March 2026, doi: 10.1109/TG.2025.3624825.
+- <u>T. Yamana</u> and J. Hoshino, "[Compressing the Evaluation Function With Small-Scale Deep Learning on Othello](https://doi.org/10.1109/TG.2025.3624825)," in IEEE Transactions on Games, vol. 18, no. 1, pp. 128-138, March 2026, doi: 10.1109/TG.2025.3624825.
 - <u>Takuto Yamana</u>, and Junichi Hoshino: [Developing and Evaluating a Strong Othello AI with Small-scale Deep Learning as a Compression](https://doi.org/10.20729/00239899), IPSJ Journal, Vol. 65, No. 10, pp. 1545-1553 {**[Specially Selected Paper](https://www.ipsj.or.jp/award/ssp_award.html)**}
 
 
