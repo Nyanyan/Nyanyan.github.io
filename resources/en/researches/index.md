@@ -52,6 +52,7 @@
 
 ## Invited Lectures
 
+- <u>Takuto Yamana</u>: From Algorithms to Robots! The World Expanded by Othello AI, [JOI Spring Seminar 2026](https://jcioi-spring-seminar-2026.peatix.com/view) (2026) {**General Lecture**}
 - <u>Takuto Yamana</u>：2 months after weakly solved. Othello AI predicts the future of humans and AI, [The 65th Programming Symposium](https://prosym.org/65/) (2024) {**Special Lecture**}
 - <u>Takuto Yamana</u>：A quarter century has passed since the victory over humans. Othello AI is not finished yet, [The 28th Game Programming Workshop (GPW-23)](https://www.gi-ipsj.org/gpw/2023/program.html) (2023) {**Invited Lecture**}
 
