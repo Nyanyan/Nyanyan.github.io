@@ -60,6 +60,7 @@
 
 ## Other Lectures & Presentations
 
+- <u>Takuto Yamana</u>: The Future of Othello AI is Robots, [Yoriai.tech with mairu](https://yoriai-tech-1.connpass.com/event/383836/) (LT) (2026)
 - <u>Takuto Yamana</u>: Othello AI Recommended, わくわくLT会 Vol.2 (LT) (2025)
 - <u>Takuto Yamana</u>: Othello AI is Interesting, [新年LT](https://righteous-aragon-7f1.notion.site/LT-17065cba42a180a09dc2ea14444561fa) (LT) (2025)
 - <u>Takuto Yamana</u>: An Interesting Othello AI because it's Late, [さくらのAI Meetup vol.3 #さくらのAI](https://sakura-tokyo.connpass.com/event/323089/) (2024)
