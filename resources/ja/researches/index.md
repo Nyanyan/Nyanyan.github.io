@@ -62,6 +62,7 @@
 
 ## その他講演・登壇
 
+- <u>山名琢翔</u>：オセロAIの未来は、ロボットだ, [Yoriai.tech with mairu](https://yoriai-tech-1.connpass.com/event/383836/) (登壇) (2026)
 - <u>山名琢翔</u>：オセロAIは、いいぞ。, わくわくLT会 Vol.2 (登壇) (2025)
 - <u>山名琢翔</u>：オセロAI制作が楽しい話, [新年LT](https://righteous-aragon-7f1.notion.site/LT-17065cba42a180a09dc2ea14444561fa) (登壇) (2025)
 - <u>山名琢翔</u>：今更だから面白いオセロAIの話, [さくらのAI Meetup vol.3 #さくらのAI](https://sakura-tokyo.connpass.com/event/323089/) (登壇) (2024)
