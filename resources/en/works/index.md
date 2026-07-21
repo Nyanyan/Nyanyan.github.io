@@ -20,6 +20,14 @@
     </a>
 </div>
 <div class="eye_catch">
+    <a href="./mumemo/">
+        <img class="img" src="img/mumemo.jpg"/>
+        <div class="mask">
+            <div class="caption">Mumemo (2026)<br>Nyanyan's Museum Notes</div>
+        </div>
+    </a>
+</div>
+<div class="eye_catch">
     <a href="./air_kobito/">
         <img class="img" src="img/air_kobito.jpg"/>
         <div class="mask">
