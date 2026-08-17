@@ -30,17 +30,28 @@
 
 
 
-## 査読付き論文
+## 査読付き論文誌論文
 
-- <u>T. Yamana</u> and J. Hoshino, "[Compressing the Evaluation Function With Small-Scale Deep Learning on Othello](https://doi.org/10.1109/TG.2025.3624825)," in IEEE Transactions on Games, vol. 18, no. 1, pp. 128-138, March 2026, doi: 10.1109/TG.2025.3624825.
+- <u>T. Yamana</u> and J. Hoshino, "[Compressing the Evaluation Function With Small-Scale Deep Learning on Othello](https://doi.org/10.1109/TG.2025.3624825)," in IEEE Transactions on Games, vol. 18, no. 1, pp. 128-138, March 2026, doi: 10.1109/TG.2025.3624825. (IF=3.0)
 - <u>山名琢翔</u>, 星野准一：[小規模な深層学習による圧縮を利用した強力なオセロAIの開発と評価](https://doi.org/10.20729/00239899), 情報処理学会論文誌, Vol.65, No.10, pp.1545-1553 (2024) 【[特選論文](https://www.ipsj.or.jp/award/ssp_award.html)】
+
+
+
+## 査読付き国際会議論文
+
+なし
+
+
+
+## 査読付き国内会議論文
+
+- <u>山名琢翔</u>, 星野准一：[オセロAIとLLMを使用したオセロ解説システムの開発と評価](https://ipsj.ixsq.nii.ac.jp/records/2005511), ゲームプログラミングワークショップ2025論文集, Vol. 2025, pp.104-111 (2025) 【[ゲームプログラミングワークショップ ベストポスター賞](https://www.gi-ipsj.org/gpw/award.html)】
 
 
 
 ## その他論文
 
 - <u>山名琢翔</u>, 星野 准一：オセロ学習支援ロボットのインタラクションと展示からの設計示唆, 日本デザイン学会研究発表大会概要集, Vol. 2026, No. 73, セッションID C-05-01 (2026)
-- <u>山名琢翔</u>, 星野准一：[オセロAIとLLMを使用したオセロ解説システムの開発と評価](https://ipsj.ixsq.nii.ac.jp/records/2005511), ゲームプログラミングワークショップ2025論文集, Vol. 2025, pp.104-111 (2025) 【[ゲームプログラミングワークショップ ベストポスター賞](https://www.gi-ipsj.org/gpw/award.html)】
 - <u>山名琢翔</u>：[GPGPUによるαβ法を用いた高速なオセロ探索手法](https://ipsj.ixsq.nii.ac.jp/records/232914), 研究報告ゲーム情報学（GI）, Vol. 2024-GI-51, No. 26, pp. 1-9 (2024) 【[若手奨励賞](https://www.ipsj.or.jp/award/gi-award1.html)】
 - <u>山名琢翔</u>：[深層学習による圧縮を利用した強力なオセロAIの制作](https://ipsj.ixsq.nii.ac.jp/records/218735), 研究報告ゲーム情報学（GI）, Vol. 2022-GI-48, No. 5, pp. 1-5 (2022) 【[優秀研究賞](https://www.ipsj.or.jp/award/gi-award2.html), [山下記念研究賞](https://www.ipsj.or.jp/award/yamashita2023.html)】
 

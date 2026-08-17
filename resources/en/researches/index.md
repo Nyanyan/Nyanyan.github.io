@@ -28,17 +28,28 @@
 
 
 
-## Peer-Reviewed Papers
+## Peer-Reviewed Journal Papers
 
 - <u>T. Yamana</u> and J. Hoshino, "[Compressing the Evaluation Function With Small-Scale Deep Learning on Othello](https://doi.org/10.1109/TG.2025.3624825)," in IEEE Transactions on Games, vol. 18, no. 1, pp. 128-138, March 2026, doi: 10.1109/TG.2025.3624825.
 - <u>Takuto Yamana</u>, and Junichi Hoshino: [Developing and Evaluating a Strong Othello AI with Small-scale Deep Learning as a Compression](https://doi.org/10.20729/00239899), IPSJ Journal, Vol. 65, No. 10, pp. 1545-1553 {**[Specially Selected Paper](https://www.ipsj.or.jp/award/ssp_award.html)**}
 
 
 
+## Peer-Reviewed International Conference Papers
+
+None
+
+
+
+## Peer-Reviewed Domestic Conference Papers
+
+- <u>Takuto Yamana</u>, and Junichi Hoshino: Development and Evaluation of an Othello Explanation System using Othello AI and LLM, Proceedings of Game Programming Workshop, Vol. 2025, pp.104-111 (2025) {**[Game Programming Workshop Best Poster Award](https://www.gi-ipsj.org/gpw/award.html)**}
+
+
+
 ## Other Papers
 
 - <u>Takuto Yamana</u>, and Junichi Hoshino: Interaction Design of an Othello Learning-Support Robot and Design Insights from Exhibitions, Proceedings of the Annual Conference of JSSD, Vol. 2026, No. 73, Session ID C-05-01 (2026)
-- <u>Takuto Yamana</u>, and Junichi Hoshino: Development and Evaluation of an Othello Explanation System using Othello AI and LLM, Proceedings of Game Programming Workshop, Vol. 2025, pp.104-111 (2025) {**[Game Programming Workshop Best Poster Award](https://www.gi-ipsj.org/gpw/award.html)**}
 - <u>山名琢翔</u>：[GPGPUによるαβ法を用いた高速なオセロ探索手法](https://ipsj.ixsq.nii.ac.jp/records/232914), IPSJ SIG Technical Reports (GI), Vol. 2024-GI-51, No. 26, pp. 1-9 (2024) {**[Young Encouragement Award](https://www.ipsj.or.jp/award/gi-award1.html)**}
 - <u>Takuto Yamana</u>: [Mastering Othello with Deep Learning as a Compression](https://ipsj.ixsq.nii.ac.jp/records/218735), IPSJ SIG Technical Reports (GI), Vol. 2022-GI-48, No. 5, pp. 1-5 (2022) {**[Excellent Research Award](https://www.ipsj.or.jp/award/gi-award2.html)**, and **[IPSJ Yamashita SIG Research Award](https://www.ipsj.or.jp/award/yamashita2023.html)**}
 
