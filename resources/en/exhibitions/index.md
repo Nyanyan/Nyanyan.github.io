@@ -2,7 +2,23 @@
 
 ## Upcoming
 
-<center>coming soon...</center>
+### Maker Faire Tokyo 2026
+
+Official page: [Maker Faire Tokyo 2026](https://makezine.jp/event/mft2026/)
+
+Date and time: September 5, 2026 (Sat) 12:00-18:00, September 6, 2026 (Sun) 10:00-17:00      
+
+Venue: Ariake GYM-EX (Gimex) (1-10-1 Ariake, Koto-ku, Tokyo)
+
+Admission:
+
+- [Super early bird] Adults JPY 1,000 / Under 18 JPY 400
+- [Advance] Adults JPY 1,400 / Adults (evening discount) JPY 1,000 / Under 18 JPY 500
+- [At the door] Adults JPY 1,800 / Adults (evening discount) JPY 1,300 / Under 18 JPY 700
+
+Booth: B-04-03
+
+[Exhibitor page](https://makezine.jp/event/makers-mft2026/m0033/)
 
 
 
