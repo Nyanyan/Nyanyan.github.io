@@ -20,6 +20,14 @@
     </a>
 </div>
 <div class="eye_catch">
+    <a href="./my_clavicle/">
+        <img class="img" src="img/my_clavicle.jpg"/>
+        <div class="mask">
+            <div class="caption">My Clavicle (2026)<br>3D-printed fractured clavicle</div>
+        </div>
+    </a>
+</div>
+<div class="eye_catch">
     <a href="./mumemo/">
         <img class="img" src="img/mumemo.jpg"/>
         <div class="mask">
