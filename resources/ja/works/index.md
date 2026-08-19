@@ -2,7 +2,6 @@
 
 
 
-
 <div style="text-align:center; line-height:0;">
 <div class="eye_catch">
     <a href="./minoth/">
@@ -17,6 +16,14 @@
         <img class="img" src="img/egaroucid.jpg"/>
         <div class="mask">
             <div class="caption">Egaroucid (2021-現在)<br>世界最強のオセロAI</div>
+        </div>
+    </a>
+</div>
+<div class="eye_catch">
+    <a href="./my_clavicle/">
+        <img class="img" src="img/my_clavicle.jpg"/>
+        <div class="mask">
+            <div class="caption">マイ・クラビクル (2026)<br>骨折した鎖骨を3Dプリント</div>
         </div>
     </a>
 </div>
@@ -228,6 +235,7 @@
         </div>
     </a>
 </div>
+
 
 
 </div>
