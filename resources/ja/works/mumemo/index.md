@@ -11,7 +11,6 @@ Webサイトはこちら: [https://mumemo.nyanyan.dev/](https://mumemo.nyanyan.d
 このWebサイトはSlackと連携していて、Slackに私が文章を投稿すると、その内容がWebサイトに反映されるようになっています。OpenStreetMap APIによって場所も自動で判定し、場所ごとに検索もできます。
 
 <div style="text-align: center">
-    <img src="img/img1.png" width="100%">
+    <img src="img/img1.jpg" width="100%">
     <img src="img/img2.png" width="100%">
 </div>
-
