@@ -12,7 +12,7 @@
 			</tr>
 			<tr>
 				<td>2026</td>
-				<td><a href="https://www.transactions.games/cis-highlight/may-2026-cis-highlight-paper2" target="_blank" el="”noopener" noreferrer”="">IEEE Transactions on Games CIS Highlight Paper</td>
+				<td><a href="https://www.transactions.games/cis-highlight/may-2026-cis-highlight-paper2" target="_blank" el="”noopener" noreferrer”="">IEEE CIS Highlight Paper</td>
 			</tr>
 			<tr>
 				<td>2026</td>
