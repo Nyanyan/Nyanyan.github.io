@@ -12,7 +12,7 @@
 			</tr>
 			<tr>
 				<td>2026</td>
-				<td><a href="https://www.transactions.games/cis-highlight/may-2026-cis-highlight-paper2" target="_blank" el="”noopener" noreferrer”="">IEEE CIS Highlight Paper</td>
+                <td><a href="https://www.transactions.games/cis-highlight/may-2026-cis-highlight-paper2" target="_blank" el="”noopener" noreferrer”="">IEEE Transactions on Games CIS Highlight Paper</a>選出</td>
 			</tr>
 			<tr>
 				<td>2026</td>
@@ -36,7 +36,7 @@
 			</tr>
 			<tr>
 				<td>2024</td>
-				<td><a href="https://www.ipsj.or.jp/award/ssp_award.html" target="_blank" el="”noopener" noreferrer”="">情報処理学会論文誌 特選論文</a></td>
+				<td><a href="https://www.ipsj.or.jp/award/ssp_award.html" target="_blank" el="”noopener" noreferrer”="">情報処理学会論文誌 特選論文</a>選出</td>
 			</tr>
 			<tr>
 				<td>2024</td>
@@ -80,7 +80,7 @@
 			</tr>
 			<tr>
 				<td>2019</td>
-				<td><a href="https://www.ipa.go.jp/jinzai/mitou/it/supercreator-list.html" target="_blank" el="”noopener" noreferrer”="">IPA未踏IT人材発掘・育成事業 スーパークリエータ認定</a></td>
+				<td><a href="https://www.ipa.go.jp/jinzai/mitou/it/supercreator-list.html" target="_blank" el="”noopener" noreferrer”="">IPA未踏IT人材発掘・育成事業 スーパークリエータ</a>認定</td>
 			</tr>
 			<tr>
 				<td>2018</td>
@@ -97,6 +97,7 @@
 		</tbody>
 	</table>
 </div>
+
 
 
 

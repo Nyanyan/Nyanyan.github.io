@@ -12,10 +12,10 @@
 			<tr>
 			<tr>
 				<td>2026</td>
-				<td><a href="https://www.transactions.games/cis-highlight/may-2026-cis-highlight-paper2" target="_blank" el="”noopener" noreferrer”="">IEEE CIS Highlight Paper</td>
+                <td>Selected as <a href="https://www.transactions.games/cis-highlight/may-2026-cis-highlight-paper2" target="_blank" el="”noopener" noreferrer”="">CIS Highlight Paper</a>, IEEE Transactions on Games</td>
 			</tr>
 				<td>2026</td>
-				<td><a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">University of Tsukuba Master's Program in Design</a> Design Studio 1 Presentation, Creativity Award</td>
+				<td>Design Studio 1 Presentation, Creativity Award, <a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">University of Tsukuba Master's Program in Design</a></td>
 			</tr>
 			<tr>
 				<td>2025</td>
@@ -35,7 +35,7 @@
 			</tr>
 			<tr>
 				<td>2024</td>
-				<td><a href="https://www.ipsj.or.jp/award/ssp_award.html" target="_blank" el="”noopener" noreferrer”="">Specially Selected Paper, IPSJ</a></td>
+				<td>Selected as <a href="https://www.ipsj.or.jp/award/ssp_award.html" target="_blank" el="”noopener" noreferrer”="">Specially Selected Paper, IPSJ</a></td>
 			</tr>
 			<tr>
 				<td>2024</td>
@@ -96,6 +96,7 @@
 		</tbody>
 	</table>
 </div>
+
 
 
 
