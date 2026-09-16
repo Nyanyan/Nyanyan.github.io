@@ -16,4 +16,6 @@ As of August 2026, I have had the fracture reduced through surgery and am recove
     <img src="img/img3.jpg" width="50%">
     <img src="img/img4.jpg" width="100%">
     <img src="img/img5.jpg" width="100%">
+    <img src="img/panel.jpg" width="100%">
 </div>
+
