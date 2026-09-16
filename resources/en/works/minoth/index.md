@@ -33,4 +33,5 @@ There is a video about this robot:
     <img src="img/minoth1_img2.jpg" width="100%">
     <img src="img/minoth1_img3.jpg" width="100%">
     <img src="img/minoth1_img4.jpg" width="100%">
+    <img src="img/minoth1_panel.jpg" width="100%">
 </div>
