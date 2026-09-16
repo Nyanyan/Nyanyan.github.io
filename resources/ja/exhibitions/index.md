@@ -4,29 +4,21 @@
 
 ## 近日開催
 
-### Maker Faire Tokyo 2026
-
-公式ページ: [Maker Faire Tokyo 2026](https://makezine.jp/event/mft2026/)
-
-日時: 2026/9/5（土）12:00～18:00、2026/9/6（日）10:00〜17:00      
-
-会場: 有明GYM-EX (ジメックス) (東京都江東区有明一丁目10番1号)
-
-入場料: 
-
-- [超早割] 大人 1,000円／18歳未満 400円
-- [前売] 大人 1,400円／大人（夕方割）1,000円／18歳未満 500円
-- [当日] 大人 1,800円／大人（夕方割）1,300円／18歳未満 700円
-
-出展ブース: B-04-03
-
-[出展者ページ](https://makezine.jp/event/makers-mft2026/m0033/)
+<center>coming soon...</center>
 
 
 
 ## アーカイブ
 
 <div style="text-align:center; line-height:0;">
+<div class="eye_catch">
+    <a href="./maker_faire_tokyo_2026/">
+        <img class="img" src="img/maker_faire_tokyo_2026.jpg"/>
+        <div class="mask">
+            <div class="caption">Maker Faire Tokyo 2026 (2026)</div>
+        </div>
+    </a>
+</div>
 <div class="eye_catch">
     <a href="./mitoukaigi_2026/">
         <img class="img" src="img/mitoukaigi_2026.jpg"/>
@@ -163,6 +155,7 @@
         </div>
     </a>
 </div>
+
 
 
 
