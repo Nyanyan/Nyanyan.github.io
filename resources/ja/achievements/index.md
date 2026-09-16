@@ -12,6 +12,10 @@
 			</tr>
 			<tr>
 				<td>2026</td>
+				<td><a href="https://www.transactions.games/cis-highlight/may-2026-cis-highlight-paper2" target="_blank" el="”noopener" noreferrer”="">IEEE Transactions on Games CIS Highlight Paper</td>
+			</tr>
+			<tr>
+				<td>2026</td>
 				<td><a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">筑波大学デザイン学学位プログラム</a>デザイン学特別演習1発表会 クリエイティビティ賞</td>
 			</tr>
 			<tr>
@@ -93,6 +97,7 @@
 		</tbody>
 	</table>
 </div>
+
 
 
 
