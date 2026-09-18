@@ -58,7 +58,7 @@ None
 ## Books
 
 - Ryo Suzuki, Shohei Asano, Hiroaki Ando, Shinji Ogaki, Yuki Ozawa, Tatsuya Shiozawa, Takazumi Shirayanagi, Kentaro Suzuki, Takuto Takahashi, Natsumi Takahashi, Yui Tamura, Tetsuro Matsumura, <u>Takuto Yamana</u>, Masataka Yoneda: [*Building Games, Competitive AI, Computer Graphics, Audio, Electronics, Competitive Programming, CI/CD, and More with C++*](https://gihyo.jp/book/2026/978-4-297-15848-4), Gijutsu-Hyoron Co., Ltd. (2026)
-  - Authored Chapter 2, “Competitive AI: Let’s Build a Reversi AI Stronger Than You”
+  - Authored Chapter 2, “Competitive AI: Let’s Build a Reversi AI Stronger Than You” in Japanese
 
 
 
