@@ -10,10 +10,14 @@
 				<th>Achievement</th>
 			</tr>
 			<tr>
+				<td>2026</td>
+                <td><a href="https://jssd.jp/12283" target="_blank" el="”noopener" noreferrer”="">Good Presentation Award, The 73rd Annual Conference, JSSD</a></td>
+			</tr>
 			<tr>
 				<td>2026</td>
                 <td>Selected as <a href="https://www.transactions.games/cis-highlight/may-2026-cis-highlight-paper2" target="_blank" el="”noopener" noreferrer”="">CIS Highlight Paper</a>, IEEE Transactions on Games</td>
 			</tr>
+            <tr>
 				<td>2026</td>
 				<td>Design Studio 1 Presentation, Creativity Award, <a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">University of Tsukuba Master's Program in Design</a></td>
 			</tr>
@@ -96,6 +100,7 @@
 		</tbody>
 	</table>
 </div>
+
 
 
 

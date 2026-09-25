@@ -12,6 +12,10 @@
 			</tr>
 			<tr>
 				<td>2026</td>
+                <td><a href="https://jssd.jp/12283" target="_blank" el="”noopener" noreferrer”="">日本デザイン学会第73回春期研究発表大会グッドプレゼンテーション賞</a></td>
+			</tr>
+			<tr>
+				<td>2026</td>
                 <td><a href="https://www.transactions.games/cis-highlight/may-2026-cis-highlight-paper2" target="_blank" el="”noopener" noreferrer”="">IEEE Transactions on Games CIS Highlight Paper</a>選出</td>
 			</tr>
 			<tr>
@@ -97,6 +101,7 @@
 		</tbody>
 	</table>
 </div>
+
 
 
 
