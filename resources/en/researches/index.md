@@ -49,7 +49,7 @@ None
 
 ## Other Papers
 
-- <u>Takuto Yamana</u>, and Junichi Hoshino: Interaction Design of an Othello Learning-Support Robot and Design Insights from Exhibitions, Proceedings of the Annual Conference of JSSD, Vol. 2026, No. 73, Session ID C-05-01 (2026)
+- <u>Takuto Yamana</u>, and Junichi Hoshino: Interaction Design of an Othello Learning-Support Robot and Design Insights from Exhibitions, Proceedings of the Annual Conference of JSSD, Vol. 2026, No. 73, Session ID C-05-01 (2026) {**[Good Presentation Award](https://jssd.jp/12283)**}
 - <u>山名琢翔</u>：[GPGPUによるαβ法を用いた高速なオセロ探索手法](https://ipsj.ixsq.nii.ac.jp/records/232914), IPSJ SIG Technical Reports (GI), Vol. 2024-GI-51, No. 26, pp. 1-9 (2024) {**[Young Encouragement Award](https://www.ipsj.or.jp/award/gi-award1.html)**}
 - <u>Takuto Yamana</u>: [Mastering Othello with Deep Learning as a Compression](https://ipsj.ixsq.nii.ac.jp/records/218735), IPSJ SIG Technical Reports (GI), Vol. 2022-GI-48, No. 5, pp. 1-5 (2022) {**[Excellent Research Award](https://www.ipsj.or.jp/award/gi-award2.html)**, and **[IPSJ Yamashita SIG Research Award](https://www.ipsj.or.jp/award/yamashita2023.html)**}
 
@@ -57,7 +57,7 @@ None
 
 ## Books
 
-- Ryo Suzuki, Shohei Asano, Hiroaki Ando, Shinji Ogaki, Yuki Ozawa, Tatsuya Shiozawa, Takazumi Shirayanagi, Kentaro Suzuki, Takuto Takahashi, Natsumi Takahashi, Yui Tamura, Tetsuro Matsumura, <u>Takuto Yamana</u>, Masataka Yoneda: [*Building Games, Competitive AI, Computer Graphics, Audio, Electronics, Competitive Programming, CI/CD, and More with C++*](https://gihyo.jp/book/2026/978-4-297-15848-4), Gijutsu-Hyoron Co., Ltd. (2026)
+- Ryo Suzuki, Shohei Asano, Hiroaki Ando, Shinji Ogaki, Yuki Ozawa, Tatsuya Shiozawa, Takazumi Shirayanagi, Kentaro Suzuki, Takuto Takahashi, Natsumi Takahashi, Yui Tamura, Tetsuro Matsumura, <u>Takuto Yamana</u>, Masataka Yoneda: [Building Games, Competitive AI, Computer Graphics, Audio, Electronics, Competitive Programming, CI/CD, and More with C++](https://gihyo.jp/book/2026/978-4-297-15848-4), Gijutsu-Hyoron Co., Ltd. (2026)
   - Authored Chapter 2, “Competitive AI: Let’s Build a Reversi AI Stronger Than You” in Japanese
 
 
