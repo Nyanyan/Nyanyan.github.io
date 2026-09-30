@@ -9,6 +9,10 @@
 				<th>Year</th>
 				<th>Achievement</th>
 			</tr>
+            <tr>
+				<td>2026</td>
+				<td>Creativity Award, Graduation Research Interim Presentation, <a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">University of Tsukuba Master's Program in Design</a></td>
+			</tr>
 			<tr>
 				<td>2026</td>
                 <td><a href="https://jssd.jp/12283" target="_blank" el="”noopener" noreferrer”="">Good Presentation Award, The 73rd Annual Conference, JSSD</a></td>
@@ -19,7 +23,7 @@
 			</tr>
             <tr>
 				<td>2026</td>
-				<td>Design Studio 1 Presentation, Creativity Award, <a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">University of Tsukuba Master's Program in Design</a></td>
+				<td>Creativity Award, Design Studio 1 Presentation, <a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">University of Tsukuba Master's Program in Design</a></td>
 			</tr>
 			<tr>
 				<td>2025</td>
@@ -100,6 +104,7 @@
 		</tbody>
 	</table>
 </div>
+
 
 
 
@@ -199,6 +204,11 @@
 		<tbody>
 			<tr>
 				<th>Year</th><th>Title</th><th>Details</th>
+			</tr>
+            <tr>
+				<td>2026</td>
+				<td><a href="https://www.jsps.go.jp/j-pd/pd_gaiyo.html" target="_blank" el="”noopener" noreferrer”="">JSPS Research Fellowship for Young Scientists (Doctoral Course, DC1)</a></td>
+				<td>Rejected</td>
 			</tr>
 			<tr>
 				<td>2025</td>

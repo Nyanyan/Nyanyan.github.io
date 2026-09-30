@@ -10,6 +10,10 @@
 				<th>年</th>
 				<th>名称</th>
 			</tr>
+            <tr>
+				<td>2026</td>
+				<td><a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">筑波大学デザイン学学位プログラム</a>M2修了研究中間発表会 クリエイティビティ賞</td>
+			</tr>
 			<tr>
 				<td>2026</td>
                 <td><a href="https://jssd.jp/12283" target="_blank" el="”noopener" noreferrer”="">日本デザイン学会第73回春期研究発表大会グッドプレゼンテーション賞</a></td>
@@ -101,6 +105,7 @@
 		</tbody>
 	</table>
 </div>
+
 
 
 
@@ -207,6 +212,11 @@
 				<th>備考</th>
 			</tr>
 			<tr>
+				<td>2026</td>
+				<td><a href="https://www.jsps.go.jp/j-pd/pd_gaiyo.html" target="_blank" el="”noopener" noreferrer”="">日本学術振興会 特別研究員-DC1</a></td>
+				<td>不採用</td>
+			</tr>
+			<tr>
 				<td>2025</td>
 				<td><a href="https://luma.com/whkm8jf2" target="_blank" el="”noopener" noreferrer”="">VIBE25-5: Welcome to San Fransokyo</a></td>
 				<td>受賞ならず</td>
@@ -259,3 +269,4 @@
 		</tbody>
 	</table>
 </div>
+
