@@ -51,7 +51,7 @@
 
 ## その他論文
 
-- <u>山名琢翔</u>, 星野 准一：オセロ学習支援ロボットのインタラクションと展示からの設計示唆, 日本デザイン学会研究発表大会概要集, Vol. 2026, No. 73, セッションID C-05-01 (2026)【**[グッドプレゼンテーション賞](https://jssd.jp/12283)**】
+- <u>山名琢翔</u>, 星野 准一：[オセロ学習支援ロボットのインタラクションと展示からの設計示唆](https://doi.org/10.11247/jssd.73.0_336), 日本デザイン学会研究発表大会概要集, Vol. 2026, No. 73, セッションID C-05-01, doi: 10.11247/jssd.73.0_336 (2026)【**[グッドプレゼンテーション賞](https://jssd.jp/12283)**】
 - <u>山名琢翔</u>：[GPGPUによるαβ法を用いた高速なオセロ探索手法](https://ipsj.ixsq.nii.ac.jp/records/232914), 研究報告ゲーム情報学（GI）, Vol. 2024-GI-51, No. 26, pp. 1-9 (2024) 【**[若手奨励賞](https://www.ipsj.or.jp/award/gi-award1.html)**】
 - <u>山名琢翔</u>：[深層学習による圧縮を利用した強力なオセロAIの制作](https://ipsj.ixsq.nii.ac.jp/records/218735), 研究報告ゲーム情報学（GI）, Vol. 2022-GI-48, No. 5, pp. 1-5 (2022) 【**[優秀研究賞](https://www.ipsj.or.jp/award/gi-award2.html)**, **[山下記念研究賞](https://www.ipsj.or.jp/award/yamashita2023.html)**】
 
