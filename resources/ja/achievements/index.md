@@ -80,11 +80,11 @@
 			</tr>
 			<tr>
 				<td>2019</td>
-				<td><a href="http://www.jpho.jp/2019/prizes at phy-chal-2019.pdf" target="_blank" el="”noopener" noreferrer”="">物理チャレンジ2019 実験優秀賞</a></td>
+				<td><a href="https://www.jpho.jp/challenge/challenge2019/media-download/877/25f40c999d5eb949/PDF/" target="_blank" el="”noopener" noreferrer”="">物理チャレンジ2019 実験優秀賞</a></td>
 			</tr>
 			<tr>
 				<td>2019</td>
-				<td><a href="http://www.jpho.jp/2019/prizes at phy-chal-2019.pdf" target="_blank" el="”noopener" noreferrer”="">物理チャレンジ2019 銀賞</a></td>
+				<td><a href="https://www.jpho.jp/challenge/challenge2019/media-download/873/64e901e808cac1b9/PDF/" target="_blank" el="”noopener" noreferrer”="">物理チャレンジ2019 銀賞</a></td>
 			</tr>
 			<tr>
 				<td>2019</td>
