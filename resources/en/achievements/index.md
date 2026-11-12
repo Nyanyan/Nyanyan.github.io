@@ -6,27 +6,31 @@
 	<table>
 		<tbody>
 			<tr>
-				<th>Year</th>
+				<th>Year-Month</th>
 				<th>Achievement</th>
 			</tr>
             <tr>
-				<td>2026</td>
+				<td>2026-09</td>
 				<td>Creativity Award, Graduation Research Interim Presentation, <a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">University of Tsukuba Master's Program in Design</a></td>
 			</tr>
 			<tr>
-				<td>2026</td>
+				<td>2026-09</td>
                 <td><a href="https://jssd.jp/12283" target="_blank" el="”noopener" noreferrer”="">Good Presentation Award, The 73rd Annual Conference, JSSD</a></td>
 			</tr>
+            <tr>
+				<td>2026-06</td>
+				<td>Othello AI Tournament 3rd Place @<a href="https://skatgame.net/mburo/ggs/" target="_blank" el="”noopener" noreferrer”="">Generic Game Server</a></td>
+			</tr>
 			<tr>
-				<td>2026</td>
+				<td>2026-05</td>
                 <td>Selected as <a href="https://www.transactions.games/cis-highlight/may-2026-cis-highlight-paper2" target="_blank" el="”noopener" noreferrer”="">CIS Highlight Paper</a>, IEEE Transactions on Games</td>
 			</tr>
             <tr>
-				<td>2026</td>
+				<td>2026-02</td>
 				<td>Creativity Award, Design Studio 1 Presentation, <a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">University of Tsukuba Master's Program in Design</a></td>
 			</tr>
 			<tr>
-				<td>2025</td>
+				<td>2025-11</td>
 				<td><a href="https://www.gi-ipsj.org/gpw/award.html" target="_blank" el="”noopener" noreferrer”="">Best Poster Award, Game Programming Workshop</a></td>
 			</tr>
 			<tr>
@@ -104,6 +108,7 @@
 		</tbody>
 	</table>
 </div>
+
 
 
 
