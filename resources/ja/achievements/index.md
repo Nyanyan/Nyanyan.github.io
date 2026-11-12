@@ -15,21 +15,21 @@
 | 2024-12-08 | オセロAI大会 優勝 @[Generic Game Server](https://skatgame.net/mburo/ggs/) |
 | 2024-11-10 | [技育展2024 ウイングアーク1st賞](https://talent.supporterz.jp/geekten/2024/) |
 | 2024-10-15 | [情報処理学会論文誌 特選論文](https://www.ipsj.or.jp/award/ssp_award.html)選出 |
-| 2024 | [ゲーム情報学研究会 若手奨励賞](https://www.ipsj.or.jp/award/gi-award1.html) |
+| 2024 | [情報処理学会 ゲーム情報学研究会 若手奨励賞](https://www.ipsj.or.jp/award/gi-award1.html) |
 | 2023-09-08 | [CodinGame オセロAI世界1位](https://www.codingame.com/multiplayer/bot-programming/othello-1) |
 | 2023 | [情報処理学会 山下記念研究賞](https://www.ipsj.or.jp/award/yamashita2023.html) |
-| 2022 | [ゲーム情報学研究会 優秀研究賞](https://www.ipsj.or.jp/award/gi-award2.html) |
+| 2022 | [情報処理学会 ゲーム情報学研究会 優秀研究賞](https://www.ipsj.or.jp/award/gi-award2.html) |
 | 2022-09-23 | [技育展2022無駄開発部門 優秀賞](https://talent.supporterz.jp/geekten/2022/) |
 | 2022-09-04 | [Maker Faire Tokyo 2022 Young Maker Challenge SPRESENSE賞](https://makezine.jp/blog/2022/10/mft2022-report-07.html) |
-| 2021-11-22 | [CodinGame オセロAI世界1位](https://www.codingame.com/multiplayer/bot-programming/othello-1) |
+| 2021-11-22 | [CodinGame Othello オセロAI世界1位](https://www.codingame.com/multiplayer/bot-programming/othello-1) |
 | 2021-10-09 | [技育展2021無駄開発部門 最優秀賞](https://talent.supporterz.jp/geekten/2021/) |
 | 2020-09-26 | [技育展無駄開発部門 最優秀賞](https://talent.supporterz.jp/geekten/2020/) |
-| 2019 | [物理チャレンジ2019 実験優秀賞](https://www.jpho.jp/challenge/challenge2019/media-download/877/25f40c999d5eb949/PDF/) |
-| 2019-08-20 | [物理チャレンジ2019 銀賞](https://www.jpho.jp/challenge/challenge2019/media-download/873/64e901e808cac1b9/PDF/) |
+| 2019 | 第 15 回全国物理コンテスト「物理チャレンジ 2019」第 1 チャレンジ [実験優秀賞](https://www.jpho.jp/challenge/challenge2019/media-download/877/25f40c999d5eb949/PDF/) |
+| 2019-08-20 | 第 15 回全国物理コンテスト「物理チャレンジ 2019」[銀賞](https://www.jpho.jp/challenge/challenge2019/media-download/873/64e901e808cac1b9/PDF/) |
 | 2019 | [IPA未踏IT人材発掘・育成事業 スーパークリエータ](https://www.ipa.go.jp/jinzai/mitou/it/supercreator-list.html)認定 |
 | 2018-09 | [World Maker Faire New York 2018 Editor's Choice](https://makerfaire.com/maker/entry/67738/) |
-| 2018-03-17 | [京都大学サイエンスフェスティバル 副学長賞](https://www.kyoto-u.ac.jp/ja/news/2018-04-09-0) |
-| 2018-02-18 | [京都大学ELCAS プレゼンテーション賞](https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0) |
+| 2018-03-17 | 京都大学サイエンスフェスティバル 2017 [副学長賞](https://www.kyoto-u.ac.jp/ja/news/2018-04-09-0) |
+| 2018-02-18 | 京都大学 グローバルサイエンスキャンパス ELCAS 基盤コース第 10期成果発表会 [プレゼンテーション賞](https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0) |
 
 ## 採択
 
