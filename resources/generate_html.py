@@ -3,6 +3,7 @@ import os
 import shutil
 import sys
 import re
+from html import escape
 from PIL import Image
 #import cv2
 
@@ -133,7 +134,59 @@ def markdown_table_cells(line):
     return cells
 
 
-def convert_markdown_tables(lines):
+def parse_html_tiles(lines, start, source):
+    tiles = []
+    current = []
+    title_line = start + 1
+
+    def fail(line_number, message):
+        raise ValueError(source + ':' + str(line_number) + ': ' + message)
+
+    def finish_tile():
+        if current:
+            if len(current) != 3:
+                fail(title_line, 'Each tile needs a title, href, and image.')
+            title, href, image = current
+            tiles.extend([
+                '<div class="eye_catch">',
+                '<a href="' + escape(href, quote=True) + '">',
+                '<img class="img" src="' + escape(image, quote=True) + '"/>',
+                '<div class="mask">',
+                '<div class="caption">' + title + '</div>',
+                '</div>', '</a>', '</div>',
+            ])
+
+    for i in range(start + 1, len(lines)):
+        line = lines[i]
+        if line.strip() == 'HTML_TILE_END':
+            finish_tile()
+            return (['<div style="text-align:center; line-height:0;">'] +
+                    tiles + ['</div>'], i + 1)
+        if line.strip() == 'HTML_TILE_BEGIN':
+            fail(i + 1, 'Nested HTML_TILE_BEGIN is not allowed.')
+        if not line.strip():
+            continue
+        match = re.fullmatch(r'([ \t]*)-\s+(.+)', line)
+        if not match:
+            fail(i + 1, 'Expected a title bullet or an indented href/image bullet.')
+        indent, value = match.groups()
+        value = value.strip()
+        if not value:
+            fail(i + 1, 'Tile values must not be empty.')
+        if not indent:
+            finish_tile()
+            current = [value]
+            title_line = i + 1
+        elif len(indent.expandtabs(4)) < 2 or not current:
+            fail(i + 1, 'Write the title first, then indent href and image by at least two spaces.')
+        elif len(current) == 3:
+            fail(i + 1, 'Each tile accepts exactly two child bullets: href and image.')
+        else:
+            current.append(value)
+    fail(start + 1, 'HTML_TILE_BEGIN has no matching HTML_TILE_END.')
+
+
+def convert_markdown_blocks(lines, source):
     converted = []
     raw_html = 0
     fence = None
@@ -153,6 +206,14 @@ def convert_markdown_tables(lines):
             converted.append(line)
             i += 1
             continue
+
+        if raw_html == 0 and not line.startswith(('    ', '\t')):
+            if line.strip() == 'HTML_TILE_BEGIN':
+                tiles, i = parse_html_tiles(lines, i, source)
+                converted.extend(tiles)
+                continue
+            if line.strip() == 'HTML_TILE_END':
+                raise ValueError(source + ':' + str(i + 1) + ': HTML_TILE_END has no matching HTML_TILE_BEGIN.')
 
         header = markdown_table_cells(line)
         separator = None
@@ -190,6 +251,7 @@ def convert_markdown_tables(lines):
             i += 2
             while i < len(lines):
                 if (not lines[i].strip() or lines[i].startswith(('    ', '\t')) or
+                        lines[i].strip() in ('HTML_TILE_BEGIN', 'HTML_TILE_END') or
                         re.match(r'^ {0,3}(?:#{1,6}\s|[-*+]\s|\d+[.)]\s|>|'
                                  r'</?(?:div|table|ul|ol|p|pre|script|details|h[1-6])\b|'
                                  r'<!--|`{3,}|~{3,})', lines[i]) or
@@ -223,7 +285,7 @@ def create_html(dr):
         alternate += '<link rel="alternate" href="' + main_page_url + 'en/" hreflang="x-default">\n'
     with open(dr + '/index.md', 'r', encoding='utf-8') as f:
         md = f.read()
-    md_split = convert_markdown_tables(md.splitlines())
+    md_split = convert_markdown_blocks(md.splitlines(), dr + '/index.md')
     # for i, elem in enumerate(md_split):
     #     # special replacements
     #     # section tags
