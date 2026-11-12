@@ -110,6 +110,106 @@ def judge_raw_html(html_elem):
     # ignore img, input, br
     return count
 
+
+def markdown_table_cells(line):
+    line = line.strip()
+    cells = []
+    cell = []
+    escaped = False
+    for char in line:
+        if char == '|' and not escaped:
+            cells.append(''.join(cell).strip())
+            cell = []
+        else:
+            cell.append(char)
+        escaped = not escaped if char == '\\' else False
+    if not cells:
+        return None
+    cells.append(''.join(cell).strip())
+    if line.startswith('|'):
+        cells.pop(0)
+    if line.endswith('|') and cells[-1] == '':
+        cells.pop()
+    return cells
+
+
+def convert_markdown_tables(lines):
+    converted = []
+    raw_html = 0
+    fence = None
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        fence_match = re.match(r'^ {0,3}(`{3,}|~{3,})', line)
+        if fence is not None:
+            if re.fullmatch(r' {0,3}' + re.escape(fence[0]) +
+                            '{' + str(len(fence)) + r',}\s*', line):
+                fence = None
+            converted.append(line)
+            i += 1
+            continue
+        if fence_match and raw_html == 0:
+            fence = fence_match.group(1)
+            converted.append(line)
+            i += 1
+            continue
+
+        header = markdown_table_cells(line)
+        separator = None
+        if i + 1 < len(lines):
+            separator = markdown_table_cells(lines[i + 1])
+            if separator is None:
+                separator = [lines[i + 1].strip()]
+        if (raw_html == 0 and not line.startswith(('    ', '\t')) and
+                header and separator and len(header) == len(separator) and
+                all(re.fullmatch(r':?-+:?', cell) for cell in separator)):
+            alignments = []
+            for cell in separator:
+                if cell.startswith(':') and cell.endswith(':'):
+                    alignments.append('center')
+                elif cell.endswith(':'):
+                    alignments.append('right')
+                elif cell.startswith(':'):
+                    alignments.append('left')
+                else:
+                    alignments.append(None)
+
+            def render_row(cells, tag):
+                cells = (cells + [''] * len(header))[:len(header)]
+                rendered = ['<tr>']
+                for cell, alignment in zip(cells, alignments):
+                    style = ' style="text-align: ' + alignment + '"' if alignment else ''
+                    cell = cell.replace(r'\|', '|')
+                    rendered.append('<' + tag + style + '>' + cell + '</' + tag + '>')
+                rendered.append('</tr>')
+                return rendered
+
+            converted.extend(['<div class="table_wrapper">', '<table>', '<thead>'])
+            converted.extend(render_row(header, 'th'))
+            converted.extend(['</thead>', '<tbody>'])
+            i += 2
+            while i < len(lines):
+                if (not lines[i].strip() or lines[i].startswith(('    ', '\t')) or
+                        re.match(r'^ {0,3}(?:#{1,6}\s|[-*+]\s|\d+[.)]\s|>|'
+                                 r'</?(?:div|table|ul|ol|p|pre|script|details|h[1-6])\b|'
+                                 r'<!--|`{3,}|~{3,})', lines[i]) or
+                        re.fullmatch(r' {0,3}(?:(?:-\s*){3,}|(?:\*\s*){3,}|(?:_\s*){3,})', lines[i])):
+                    break
+                cells = markdown_table_cells(lines[i])
+                if cells is None:
+                    cells = [lines[i].strip()]
+                converted.extend(render_row(cells, 'td'))
+                i += 1
+            converted.extend(['</tbody>', '</table>', '</div>'])
+            continue
+
+        converted.append(line)
+        for html_elem in re.findall(r'\<.+?\>', line):
+            raw_html += judge_raw_html(html_elem)
+        i += 1
+    return converted
+
+
 def create_html(dr):
     alternate = ''
     for lang in langs:
@@ -123,7 +223,7 @@ def create_html(dr):
         alternate += '<link rel="alternate" href="' + main_page_url + 'en/" hreflang="x-default">\n'
     with open(dr + '/index.md', 'r', encoding='utf-8') as f:
         md = f.read()
-    md_split = md.splitlines()
+    md_split = convert_markdown_tables(md.splitlines())
     # for i, elem in enumerate(md_split):
     #     # special replacements
     #     # section tags
