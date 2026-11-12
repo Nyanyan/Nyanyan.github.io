@@ -70,11 +70,12 @@ Born in 2001. Enjoying "Making", I actively publish various information related 
 
 
 ## Biography
-<div class="table_wrapper"><table><tbody>
-<tr><td>2001</td><td>Born</td></tr>
-<tr><td>2014</td><td>Enroll in Tokyo Metropolitan Koishikawa Secondary School</td></tr>
-<tr><td>2020</td><td>Graduate from Tokyo Metropolitan Koishikawa Secondary School</td></tr>
-<tr><td>2020</td><td>Enroll in College of Engineering Systems, University of Tsukuba</td></tr>
-<tr><td>2025</td><td>Withdraw from College of Engineering Systems, University of Tsukuba</td></tr>
-<tr><td>2025</td><td>Enroll in Master's Program in Design, University of Tsukuba</td></tr>
-</tbody></table></div>
+
+| Year | Event |
+| --- | --- |
+| 2001 | Born |
+| 2014 | Enroll in Tokyo Metropolitan Koishikawa Secondary School |
+| 2020 | Graduate from Tokyo Metropolitan Koishikawa Secondary School |
+| 2020 | Enroll in College of Engineering Systems, University of Tsukuba |
+| 2025 | Withdraw from College of Engineering Systems, University of Tsukuba |
+| 2025 | Enroll in Master's Program in Design, University of Tsukuba |
