@@ -18,8 +18,8 @@
 
 ## 査読付き論文誌論文
 
-- <u>T. Yamana</u> and J. Hoshino: [Compressing the Evaluation Function With Small-Scale Deep Learning on Othello](https://doi.org/10.1109/TG.2025.3624825), IEEE Transactions on Games, Vol. 18, No. 1, pp. 128-138, doi: 10.1109/TG.2025.3624825 (2026) (Impact Factor=3.0)【**[CIS Highlight Paper](https://www.transactions.games/cis-highlight/may-2026-cis-highlight-paper2)**】
-- <u>山名琢翔</u>, 星野准一：[小規模な深層学習による圧縮を利用した強力なオセロAIの開発と評価](https://doi.org/10.20729/00239899), 情報処理学会論文誌, Vol.65, No.10, pp.1545-1553, doi: 10.20729/00239899 (2024) 【**[特選論文](https://www.ipsj.or.jp/award/ssp_award.html)**】
+- <u>T. Yamana</u> and J. Hoshino: [Compressing the Evaluation Function With Small-Scale Deep Learning on Othello](https://doi.org/10.1109/TG.2025.3624825), IEEE Transactions on Games, Vol. 18, No. 1, pp. 128-138, doi: 10.1109/TG.2025.3624825 (2026-03) (Impact Factor=3.0)【**[CIS Highlight Paper](https://www.transactions.games/cis-highlight/may-2026-cis-highlight-paper2)**に選出】
+- <u>山名琢翔</u>, 星野准一：[小規模な深層学習による圧縮を利用した強力なオセロAIの開発と評価](https://doi.org/10.20729/00239899), 情報処理学会論文誌, Vol.65, No.10, pp.1545-1553, doi: 10.20729/00239899 (2024-10) 【**[特選論文](https://www.ipsj.or.jp/award/ssp_award.html)**に選出】
 
 
 
@@ -31,37 +31,37 @@
 
 ## 査読付き国内会議論文
 
-- <u>山名琢翔</u>, 星野准一：[オセロAIとLLMを使用したオセロ解説システムの開発と評価](https://ipsj.ixsq.nii.ac.jp/records/2005511), ゲームプログラミングワークショップ2025論文集, Vol. 2025, pp.104-111 (2025) 【**[ゲームプログラミングワークショップ ベストポスター賞](https://www.gi-ipsj.org/gpw/award.html)**】
+- <u>山名琢翔</u>, 星野准一：[オセロAIとLLMを使用したオセロ解説システムの開発と評価](https://ipsj.ixsq.nii.ac.jp/records/2005511), ゲームプログラミングワークショップ2025論文集, Vol. 2025, pp.104-111 (2025-11-07) 【**[ゲームプログラミングワークショップ ベストポスター賞](https://www.gi-ipsj.org/gpw/award.html)**を受賞】
 
 
 
 ## その他論文
 
-- <u>山名琢翔</u>, 星野 准一：[オセロ学習支援ロボットのインタラクションと展示からの設計示唆](https://doi.org/10.11247/jssd.73.0_336), 日本デザイン学会研究発表大会概要集, Vol. 2026, No. 73, セッションID C-05-01, doi: 10.11247/jssd.73.0_336 (2026)【**[グッドプレゼンテーション賞](https://jssd.jp/12283)**】
-- <u>山名琢翔</u>：[GPGPUによるαβ法を用いた高速なオセロ探索手法](https://ipsj.ixsq.nii.ac.jp/records/232914), 研究報告ゲーム情報学（GI）, Vol. 2024-GI-51, No. 26, pp. 1-9 (2024) 【**[若手奨励賞](https://www.ipsj.or.jp/award/gi-award1.html)**】
-- <u>山名琢翔</u>：[深層学習による圧縮を利用した強力なオセロAIの制作](https://ipsj.ixsq.nii.ac.jp/records/218735), 研究報告ゲーム情報学（GI）, Vol. 2022-GI-48, No. 5, pp. 1-5 (2022) 【**[優秀研究賞](https://www.ipsj.or.jp/award/gi-award2.html)**, **[山下記念研究賞](https://www.ipsj.or.jp/award/yamashita2023.html)**】
+- <u>山名琢翔</u>, 星野 准一：[オセロ学習支援ロボットのインタラクションと展示からの設計示唆](https://doi.org/10.11247/jssd.73.0_336), 日本デザイン学会研究発表大会概要集, Vol. 2026, No. 73, セッションID C-05-01, doi: 10.11247/jssd.73.0_336 (2026)【**[グッドプレゼンテーション賞](https://jssd.jp/12283)**を受賞】
+- <u>山名琢翔</u>：[GPGPUによるαβ法を用いた高速なオセロ探索手法](https://ipsj.ixsq.nii.ac.jp/records/232914), 研究報告ゲーム情報学（GI）, Vol. 2024-GI-51, No. 26, pp. 1-9 (2024-03-01) 【**[若手奨励賞](https://www.ipsj.or.jp/award/gi-award1.html)**を受賞】
+- <u>山名琢翔</u>：[深層学習による圧縮を利用した強力なオセロAIの制作](https://ipsj.ixsq.nii.ac.jp/records/218735), 研究報告ゲーム情報学（GI）, Vol. 2022-GI-48, No. 5, pp. 1-5 (2022-06-25) 【**[優秀研究賞](https://www.ipsj.or.jp/award/gi-award2.html)**, **[山下記念研究賞](https://www.ipsj.or.jp/award/yamashita2023.html)**を受賞】
 
 
 
 ## 書籍
 
-- 鈴木遼, 浅野昇平, 安藤弘晃, 大垣真二, 小澤祐樹, 塩澤達矢, 白柳隆澄, 鈴木健太郎, 高橋卓人, 高橋奈都美, 田村唯, 松村哲郎, <u>山名琢翔</u>, 米田優峻：[C++でつくる ゲーム、対戦AI、CG、オーディオ、電子工作、競プロ、CI/CD、言語仕様](https://gihyo.jp/book/2026/978-4-297-15848-4), 技術評論社 (2026)
+- 鈴木遼, 浅野昇平, 安藤弘晃, 大垣真二, 小澤祐樹, 塩澤達矢, 白柳隆澄, 鈴木健太郎, 高橋卓人, 高橋奈都美, 田村唯, 松村哲郎, <u>山名琢翔</u>, 米田優峻：[C++でつくる ゲーム、対戦AI、CG、オーディオ、電子工作、競プロ、CI/CD、言語仕様](https://gihyo.jp/book/2026/978-4-297-15848-4), 技術評論社 (2026-09-29)
   - 第二章 対戦AI「自分より強いリバーシAIを作ってみよう」を執筆
 
 
 
 ## 雑誌記事
 
-- <u>山名琢翔</u>：[「オセロが解けた」を白黒ハッキリさせようじゃないか](https://note.com/ipsj/n/n86f6dbfbfc7a), 情報処理, Vol. 65, No. 3, pp. 134-136 (2024) 【特別解説記事】
-- <u>山名琢翔</u>：[2×2×2キューブ・パズルを2秒で解くロボット](https://toragijr.cqpub.co.jp/magazine/no44/), トラ技ジュニア, 2021冬号 (No. 44), トランジスタ技術, 2021年2月号 (2021)
+- <u>山名琢翔</u>：[「オセロが解けた」を白黒ハッキリさせようじゃないか](https://note.com/ipsj/n/n86f6dbfbfc7a), 情報処理, Vol. 65, No. 3, pp. 134-136 (2024-02-15) 【特別解説記事】
+- <u>山名琢翔</u>：[2×2×2キューブ・パズルを2秒で解くロボット](https://toragijr.cqpub.co.jp/magazine/no44/), トラ技ジュニア, 2021冬号 (No. 44), トランジスタ技術, 2021年2月号 (2021-01-08)
 
 
 
 ## 招待講演等
 
-- <u>山名琢翔</u>：アルゴリズムからロボットまで！オセロAIが広げる世界, [情報オリンピック春季セミナー2026](https://jcioi-spring-seminar-2026.peatix.com/view) (2026) 【全体講演会】
-- <u>山名琢翔</u>：弱解決から2ヶ月。オセロAIで占う人間とAIの未来, [第65回プログラミング・シンポジウム](https://prosym.org/65/) (2024) 【特別講演】
-- <u>山名琢翔</u>：人間に勝利してから四半世紀。まだ終わらないオセロAI, [第28回ゲームプログラミングワークショップ (GPW-23)](https://www.gi-ipsj.org/gpw/2023/) (2023) 【招待講演】
+- <u>山名琢翔</u>：アルゴリズムからロボットまで！オセロAIが広げる世界, [情報オリンピック春季セミナー2026](https://jcioi-spring-seminar-2026.peatix.com/view) (2026-03-22) 【全体講演会として】
+- <u>山名琢翔</u>：弱解決から2ヶ月。オセロAIで占う人間とAIの未来, [第65回プログラミング・シンポジウム](https://prosym.org/65/) (2024-01-08) 【特別講演として】
+- <u>山名琢翔</u>：人間に勝利してから四半世紀。まだ終わらないオセロAI, [第28回ゲームプログラミングワークショップ (GPW-23)](https://www.gi-ipsj.org/gpw/2023/) (2023-11-18) 【招待講演として】
 
 
 

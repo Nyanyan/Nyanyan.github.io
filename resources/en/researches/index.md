@@ -16,8 +16,8 @@
 
 ## Peer-Reviewed Journal Papers
 
-- <u>T. Yamana</u> and J. Hoshino: [Compressing the Evaluation Function With Small-Scale Deep Learning on Othello](https://doi.org/10.1109/TG.2025.3624825), IEEE Transactions on Games, Vol. 18, No. 1, pp. 128-138, doi: 10.1109/TG.2025.3624825 (2026) (Impact Factor=3.0) {**[CIS Highlight Paper](https://www.transactions.games/cis-highlight/may-2026-cis-highlight-paper2)**}
-- <u>Takuto Yamana</u>, and Junichi Hoshino: [Developing and Evaluating a Strong Othello AI with Small-scale Deep Learning as a Compression](https://doi.org/10.20729/00239899), IPSJ Journal, Vol. 65, No. 10, pp. 1545-1553, doi: 10.20729/00239899 {**[Specially Selected Paper](https://www.ipsj.or.jp/award/ssp_award.html)**}
+- <u>T. Yamana</u> and J. Hoshino: [Compressing the Evaluation Function With Small-Scale Deep Learning on Othello](https://doi.org/10.1109/TG.2025.3624825), IEEE Transactions on Games, Vol. 18, No. 1, pp. 128-138, doi: 10.1109/TG.2025.3624825 (2026-03) (Impact Factor=3.0) {Selected as a **[CIS Highlight Paper](https://www.transactions.games/cis-highlight/may-2026-cis-highlight-paper2)**}
+- <u>Takuto Yamana</u>, and Junichi Hoshino: [Developing and Evaluating a Strong Othello AI with Small-scale Deep Learning as a Compression](https://doi.org/10.20729/00239899), IPSJ Journal, Vol. 65, No. 10, pp. 1545-1553, doi: 10.20729/00239899 (2024-10) {Selected as a **[Specially Selected Paper](https://www.ipsj.or.jp/award/ssp_award.html)**}
 
 
 
@@ -29,37 +29,37 @@ None
 
 ## Peer-Reviewed Domestic Conference Papers
 
-- <u>Takuto Yamana</u>, and Junichi Hoshino: [Development and Evaluation of an Othello Explanation System using Othello AI and LLM](https://ipsj.ixsq.nii.ac.jp/records/2005511), Proceedings of Game Programming Workshop, Vol. 2025, pp.104-111 (2025) {**[Game Programming Workshop Best Poster Award](https://www.gi-ipsj.org/gpw/award.html)**}
+- <u>Takuto Yamana</u>, and Junichi Hoshino: [Development and Evaluation of an Othello Explanation System using Othello AI and LLM](https://ipsj.ixsq.nii.ac.jp/records/2005511), Proceedings of Game Programming Workshop, Vol. 2025, pp.104-111 (2025-11-07) {Received the **[Game Programming Workshop Best Poster Award](https://www.gi-ipsj.org/gpw/award.html)**}
 
 
 
 ## Other Papers
 
-- <u>Takuto Yamana</u>, and Junichi Hoshino: [Interaction Design of an Othello Learning-Support Robot and Design Insights from Exhibitions](https://doi.org/10.11247/jssd.73.0_336), Proceedings of the Annual Conference of JSSD, Vol. 2026, No. 73, Session ID C-05-01, doi: 10.11247/jssd.73.0_336 (2026) {**[Good Presentation Award](https://jssd.jp/12283)**}
-- <u>山名琢翔</u>：[GPGPUによるαβ法を用いた高速なオセロ探索手法](https://ipsj.ixsq.nii.ac.jp/records/232914), IPSJ SIG Technical Reports (GI), Vol. 2024-GI-51, No. 26, pp. 1-9 (2024) {**[Young Encouragement Award](https://www.ipsj.or.jp/award/gi-award1.html)**}
-- <u>Takuto Yamana</u>: [Mastering Othello with Deep Learning as a Compression](https://ipsj.ixsq.nii.ac.jp/records/218735), IPSJ SIG Technical Reports (GI), Vol. 2022-GI-48, No. 5, pp. 1-5 (2022) {**[Excellent Research Award](https://www.ipsj.or.jp/award/gi-award2.html)**, and **[IPSJ Yamashita SIG Research Award](https://www.ipsj.or.jp/award/yamashita2023.html)**}
+- <u>Takuto Yamana</u>, and Junichi Hoshino: [Interaction Design of an Othello Learning-Support Robot and Design Insights from Exhibitions](https://doi.org/10.11247/jssd.73.0_336), Proceedings of the Annual Conference of JSSD, Vol. 2026, No. 73, Session ID C-05-01, doi: 10.11247/jssd.73.0_336 (2026) {Received the **[Good Presentation Award](https://jssd.jp/12283)**}
+- <u>山名琢翔</u>：[GPGPUによるαβ法を用いた高速なオセロ探索手法](https://ipsj.ixsq.nii.ac.jp/records/232914), IPSJ SIG Technical Reports (GI), Vol. 2024-GI-51, No. 26, pp. 1-9 (2024-03-01) {Received the **[Young Encouragement Award](https://www.ipsj.or.jp/award/gi-award1.html)**}
+- <u>Takuto Yamana</u>: [Mastering Othello with Deep Learning as a Compression](https://ipsj.ixsq.nii.ac.jp/records/218735), IPSJ SIG Technical Reports (GI), Vol. 2022-GI-48, No. 5, pp. 1-5 (2022-06-25) {Received the **[Excellent Research Award](https://www.ipsj.or.jp/award/gi-award2.html)** and the **[IPSJ Yamashita SIG Research Award](https://www.ipsj.or.jp/award/yamashita2023.html)**}
 
 
 
 ## Books
 
-- Ryo Suzuki, Shohei Asano, Hiroaki Ando, Shinji Ogaki, Yuki Ozawa, Tatsuya Shiozawa, Takazumi Shirayanagi, Kentaro Suzuki, Takuto Takahashi, Natsumi Takahashi, Yui Tamura, Tetsuro Matsumura, <u>Takuto Yamana</u>, Masataka Yoneda: [Building Games, Competitive AI, Computer Graphics, Audio, Electronics, Competitive Programming, CI/CD, and More with C++](https://gihyo.jp/book/2026/978-4-297-15848-4), Gijutsu-Hyoron Co., Ltd. (2026)
+- Ryo Suzuki, Shohei Asano, Hiroaki Ando, Shinji Ogaki, Yuki Ozawa, Tatsuya Shiozawa, Takazumi Shirayanagi, Kentaro Suzuki, Takuto Takahashi, Natsumi Takahashi, Yui Tamura, Tetsuro Matsumura, <u>Takuto Yamana</u>, Masataka Yoneda: [Building Games, Competitive AI, Computer Graphics, Audio, Electronics, Competitive Programming, CI/CD, and More with C++](https://gihyo.jp/book/2026/978-4-297-15848-4), Gijutsu-Hyoron Co., Ltd. (2026-09-29)
   - Authored Chapter 2, “Competitive AI: Let’s Build a Reversi AI Stronger Than You” in Japanese
 
 
 
 ## Magazine Articles
 
-- <u>Takuto Yamana</u>：[Is Othello Solved? Let's Make it Clear!](https://note.com/ipsj/n/n86f6dbfbfc7a), IPSJ Magazine, Vol. 65, No. 3, pp. 134-136 (2024)  {**Special Commentary**}
-- <u>Takuto Yamana</u>：[A Robot that Solves 2x2x2 Cube Puzzle in 2 Seconds](https://toragijr.cqpub.co.jp/magazine/no44/), Toragi Junior, 2021 Winter (No. 44), Transistor Gijutsu, 2021 February (2021)
+- <u>Takuto Yamana</u>：[Is Othello Solved? Let's Make it Clear!](https://note.com/ipsj/n/n86f6dbfbfc7a), IPSJ Magazine, Vol. 65, No. 3, pp. 134-136 (2024-02-15)  {**Special Commentary**}
+- <u>Takuto Yamana</u>：[A Robot that Solves 2x2x2 Cube Puzzle in 2 Seconds](https://toragijr.cqpub.co.jp/magazine/no44/), Toragi Junior, 2021 Winter (No. 44), Transistor Gijutsu, 2021 February (2021-01-08)
 
 
 
 ## Invited Lectures
 
-- <u>Takuto Yamana</u>: From Algorithms to Robots! The World Expanded by Othello AI, [JOI Spring Seminar 2026](https://jcioi-spring-seminar-2026.peatix.com/view) (2026) {**General Lecture**}
-- <u>Takuto Yamana</u>：2 months after weakly solved. Othello AI predicts the future of humans and AI, [The 65th Programming Symposium](https://prosym.org/65/) (2024) {**Special Lecture**}
-- <u>Takuto Yamana</u>：A quarter century has passed since the victory over humans. Othello AI is not finished yet, [The 28th Game Programming Workshop (GPW-23)](https://www.gi-ipsj.org/gpw/2023/program.html) (2023) {**Invited Lecture**}
+- <u>Takuto Yamana</u>: From Algorithms to Robots! The World Expanded by Othello AI, [JOI Spring Seminar 2026](https://jcioi-spring-seminar-2026.peatix.com/view) (2026-03-22) {Presented as a **General Lecture**}
+- <u>Takuto Yamana</u>：2 months after weakly solved. Othello AI predicts the future of humans and AI, [The 65th Programming Symposium](https://prosym.org/65/) (2024-01-08) {Presented as a **Special Lecture**}
+- <u>Takuto Yamana</u>：A quarter century has passed since the victory over humans. Othello AI is not finished yet, [The 28th Game Programming Workshop (GPW-23)](https://www.gi-ipsj.org/gpw/2023/program.html) (2023-11-18) {Presented as an **Invited Lecture**}
 
 
 
