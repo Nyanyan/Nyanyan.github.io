@@ -38,6 +38,10 @@
 				<td>Othello AI Tournament Second Place @<a href="https://skatgame.net/mburo/ggs/" target="_blank" el="”noopener" noreferrer”="">Generic Game Server</a></td>
 			</tr>
 			<tr>
+				<td>2025-02</td>
+				<td><a href="https://www.codingame.com/multiplayer/bot-programming/othello-1" target="_blank" rel="noopener noreferrer">1st Place in the World, Othello AI, CodinGame</a> (550 participants)</td>
+			</tr>
+			<tr>
 				<td>2024</td>
 				<td>Othello AI Tournament Champion @<a href="https://skatgame.net/mburo/ggs/" target="_blank" el="”noopener" noreferrer”="">Generic Game Server</a></td>
 			</tr>
@@ -52,6 +56,10 @@
 			<tr>
 				<td>2024</td>
 				<td><a href="https://www.ipsj.or.jp/award/gi-award1.html" target="_blank" el="”noopener" noreferrer”="">Young Encouragement Award, Game Informatics Research Group, IPSJ</a></td>
+			</tr>
+			<tr>
+				<td>2023-09</td>
+				<td><a href="https://www.codingame.com/multiplayer/bot-programming/othello-1" target="_blank" rel="noopener noreferrer">1st Place in the World, Othello AI, CodinGame</a></td>
 			</tr>
 			<tr>
 				<td>2023</td>
@@ -70,7 +78,7 @@
 				<td><a href="https://makezine.jp/blog/2022/10/mft2022-report-07.html" target="_blank" el=”noopener noreferrer”>SPRESENSE Award, Young Maker Challenge, Maker Faire Tokyo 2022</a></td>
 			</tr>
 			<tr>
-				<td>2021</td>
+				<td>2021-11</td>
 				<td><a href="https://www.codingame.com/multiplayer/bot-programming/othello-1" target="_blank" el=”noopener noreferrer”>1st Place in the World, Othello AI, CodinGame</a></td>
 			</tr>
 			<tr>

@@ -38,6 +38,10 @@
 				<td>2025</td>
 				<td>オセロAI大会 準優勝 @<a href="https://skatgame.net/mburo/ggs/" target="_blank" el="”noopener" noreferrer”="">Generic Game Server</a></td>
 			</tr>
+            <tr>
+				<td>2025-02</td>
+				<td><a href="https://www.codingame.com/multiplayer/bot-programming/othello-1" target="_blank" el="”noopener" noreferrer”="">CodinGame オセロAI世界1位</a> (550人が参加)</td>
+			</tr>
 			<tr>
 				<td>2024</td>
 				<td>オセロAI大会 優勝 @<a href="https://skatgame.net/mburo/ggs/" target="_blank" el="”noopener" noreferrer”="">Generic Game Server</a></td>
@@ -53,6 +57,10 @@
 			<tr>
 				<td>2024</td>
 				<td><a href="https://www.ipsj.or.jp/award/gi-award1.html" target="_blank" el="”noopener" noreferrer”="">ゲーム情報学研究会 若手奨励賞</a></td>
+			</tr>
+            <tr>
+				<td>2023-09</td>
+				<td><a href="https://www.codingame.com/multiplayer/bot-programming/othello-1" target="_blank" el="”noopener" noreferrer”="">CodinGame オセロAI世界1位</a></td>
 			</tr>
 			<tr>
 				<td>2023</td>
@@ -71,7 +79,7 @@
 				<td><a href="https://makezine.jp/blog/2022/10/mft2022-report-07.html" target="_blank" el="”noopener" noreferrer”="">Maker Faire Tokyo 2022 Young Maker Challenge SPRESENSE賞</a></td>
 			</tr>
 			<tr>
-				<td>2021</td>
+				<td>2021-11</td>
 				<td><a href="https://www.codingame.com/multiplayer/bot-programming/othello-1" target="_blank" el="”noopener" noreferrer”="">CodinGame オセロAI世界1位</a></td>
 			</tr>
 			<tr>
@@ -109,6 +117,7 @@
 		</tbody>
 	</table>
 </div>
+
 
 
 
