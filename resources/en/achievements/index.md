@@ -2,34 +2,34 @@
 
 ## Award
 
-| Year-Month | Achievement |
+| Date | Achievement |
 | --- | --- |
-| 2026-09 | Creativity Award, Graduation Research Interim Presentation, [University of Tsukuba Master's Program in Design](https://www.geijutsu.tsukuba.ac.jp/dpd/) |
-| 2026-09 | [Good Presentation Award, The 73rd Annual Conference, JSSD](https://jssd.jp/12283) |
-| 2026-06 | Othello AI Tournament 3rd Place @[Generic Game Server](https://skatgame.net/mburo/ggs/) |
+| 2026-09-29 | Creativity Award, Graduation Research Interim Presentation, [University of Tsukuba Master's Program in Design](https://www.geijutsu.tsukuba.ac.jp/dpd/) |
+| 2026-09-25 | [Good Presentation Award, The 73rd Annual Conference, JSSD](https://jssd.jp/12283) |
+| 2026-06-27 | Othello AI Tournament 3rd Place @[Generic Game Server](https://skatgame.net/mburo/ggs/) |
 | 2026-05 | Selected as [CIS Highlight Paper](https://www.transactions.games/cis-highlight/may-2026-cis-highlight-paper2), IEEE Transactions on Games |
-| 2026-02 | Creativity Award, Design Studio 1 Presentation, [University of Tsukuba Master's Program in Design](https://www.geijutsu.tsukuba.ac.jp/dpd/) |
-| 2025-11 | [Best Poster Award, Game Programming Workshop](https://www.gi-ipsj.org/gpw/award.html) |
-| 2025 | Othello AI Tournament Second Place @[Generic Game Server](https://skatgame.net/mburo/ggs/) |
-| 2025-02 | [1st Place in the World, Othello AI, CodinGame](https://www.codingame.com/multiplayer/bot-programming/othello-1) (550 participants) |
-| 2024 | Othello AI Tournament Champion @[Generic Game Server](https://skatgame.net/mburo/ggs/) |
-| 2024 | [WingArc1st Award, Geekten 2024](https://talent.supporterz.jp/geekten/2024/) |
-| 2024 | Selected as [Specially Selected Paper, IPSJ](https://www.ipsj.or.jp/award/ssp_award.html) |
+| 2026-02-02 | Creativity Award, Design Studio 1 Presentation, [University of Tsukuba Master's Program in Design](https://www.geijutsu.tsukuba.ac.jp/dpd/) |
+| 2025-11-15 | [Best Poster Award, Game Programming Workshop](https://www.gi-ipsj.org/gpw/award.html) |
+| 2025-11-01 | Othello AI Tournament Second Place @[Generic Game Server](https://skatgame.net/mburo/ggs/) |
+| 2025-02-01 | [1st Place in the World, Othello AI, CodinGame](https://www.codingame.com/multiplayer/bot-programming/othello-1) (550 participants) |
+| 2024-12-08 | Othello AI Tournament Champion @[Generic Game Server](https://skatgame.net/mburo/ggs/) |
+| 2024-11-10 | [WingArc1st Award, Geekten 2024](https://talent.supporterz.jp/geekten/2024/) |
+| 2024-10-15 | Selected as [Specially Selected Paper, IPSJ](https://www.ipsj.or.jp/award/ssp_award.html) |
 | 2024 | [Young Encouragement Award, Game Informatics Research Group, IPSJ](https://www.ipsj.or.jp/award/gi-award1.html) |
-| 2023-09 | [1st Place in the World, Othello AI, CodinGame](https://www.codingame.com/multiplayer/bot-programming/othello-1) |
+| 2023-09-08 | [1st Place in the World, Othello AI, CodinGame](https://www.codingame.com/multiplayer/bot-programming/othello-1) |
 | 2023 | [IPSJ Yamashita SIG Research Award](https://www.ipsj.or.jp/award/yamashita2023.html) |
 | 2022 | [Excellent Research Award, Game Informatics Research Group, IPSJ](https://www.ipsj.or.jp/award/gi-award2.html) |
-| 2022 | [Excellent Award, Useless Development Category, Geekten 2022](https://talent.supporterz.jp/geekten/2022/) |
-| 2022 | [SPRESENSE Award, Young Maker Challenge, Maker Faire Tokyo 2022](https://makezine.jp/blog/2022/10/mft2022-report-07.html) |
-| 2021-11 | [1st Place in the World, Othello AI, CodinGame](https://www.codingame.com/multiplayer/bot-programming/othello-1) |
-| 2021 | [Most Excellent Award, Useless Development Category, Geekten 2021](https://talent.supporterz.jp/geekten/2021/) |
-| 2020 | [Most Excellent Award, Useless Development Category, Geekten](https://talent.supporterz.jp/geekten/2020/) |
+| 2022-09-23 | [Excellent Award, Useless Development Category, Geekten 2022](https://talent.supporterz.jp/geekten/2022/) |
+| 2022-09-04 | [SPRESENSE Award, Young Maker Challenge, Maker Faire Tokyo 2022](https://makezine.jp/blog/2022/10/mft2022-report-07.html) |
+| 2021-11-22 | [1st Place in the World, Othello AI, CodinGame](https://www.codingame.com/multiplayer/bot-programming/othello-1) |
+| 2021-10-09 | [Most Excellent Award, Useless Development Category, Geekten 2021](https://talent.supporterz.jp/geekten/2021/) |
+| 2020-09-26 | [Most Excellent Award, Useless Development Category, Geekten](https://talent.supporterz.jp/geekten/2020/) |
 | 2019 | [Most Excellent Experiment Award, Japan Physics Olympiad 2019](https://www.jpho.jp/challenge/challenge2019/media-download/877/25f40c999d5eb949/PDF/) |
-| 2019 | [Silver Award, Japan Physics Olympiad 2019](https://www.jpho.jp/challenge/challenge2019/media-download/873/64e901e808cac1b9/PDF/) |
+| 2019-08-20 | [Silver Award, Japan Physics Olympiad 2019](https://www.jpho.jp/challenge/challenge2019/media-download/873/64e901e808cac1b9/PDF/) |
 | 2019 | [Super Creator Award, Mitou, Information-technology Promotion Agency, Japan](https://www.ipa.go.jp/jinzai/mitou/it/supercreator-list.html) |
-| 2018 | [Editor's Choice, World Maker Faire New York 2018](https://makerfaire.com/maker/entry/67738/) |
-| 2018 | [Second Award, Science Festival in Kyoto University](https://www.kyoto-u.ac.jp/ja/news/2018-04-09-0) |
-| 2018 | [Presentation Award, ELCAS, Kyoto University](https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0) |
+| 2018-09 | [Editor's Choice, World Maker Faire New York 2018](https://makerfaire.com/maker/entry/67738/) |
+| 2018-03-17 | [Second Award, Science Festival in Kyoto University](https://www.kyoto-u.ac.jp/ja/news/2018-04-09-0) |
+| 2018-02-18 | [Presentation Award, ELCAS, Kyoto University](https://www.kyoto-u.ac.jp/ja/news/2018-03-09-0) |
 
 ## Adoption
 
@@ -45,14 +45,14 @@
 
 ## Media Appearance
 
-| Year | Title | Medium |
+| Date | Title | Medium |
 | --- | --- | --- |
-| 2024 | [Egaroucid: An Othello app review](https://www.worldothello.org/news/354/egaroucid-an-othello-app-review) | World Othello Federation |
-| 2024 | [世界最強の「オセロAI」を作った大学生　創作の原点は「1冊の絵本」](https://web.quizknock.com/othello-ai) | QuizKnock Web (Japanese) |
-| 2023 | [探究の階段 オセロAIで世界に注目される大学生／山名琢翔（筑波大学　理工学群）](https://www.tv-tokyo.co.jp/tankyunokaidan/backnumber/index.html?trgt=20230720) | Television (Japanese) |
-| 2023 | [“リターンを求められないクリエイター支援”が生む「新しい価値」。<br>市原えつこ × クマ財団6期生座談会＜Sponsored＞](https://neutmagazine.com/interview_kumafoundation_2023) | NEUT Magazine (Japanese) |
-| 2022 | [SUPER CAST](https://zip-fm.co.jp/programs/6e68fe9e-29bd-49c0-aec6-ab27c7320248) | Radio (Japanese) |
-| 2021 | [オセロAIやルービックキューブAIのスーパークリエイター<br>山名琢翔(にゃにゃん)インタビュー｜みんなの勉強部屋](https://www.youtube.com/live/rAM499RwhpI?si=BIsVoAJVPNvTHtsv) | YouTube (Japanese) |
+| 2024-04-23 | [Egaroucid: An Othello app review](https://www.worldothello.org/news/354/egaroucid-an-othello-app-review) | World Othello Federation |
+| 2024-03-03 | [世界最強の「オセロAI」を作った大学生　創作の原点は「1冊の絵本」](https://web.quizknock.com/othello-ai) | QuizKnock Web (Japanese) |
+| 2023-07-20 | [探究の階段 オセロAIで世界に注目される大学生／山名琢翔（筑波大学　理工学群）](https://www.tv-tokyo.co.jp/tankyunokaidan/backnumber/index.html?trgt=20230720) | Television (Japanese) |
+| 2023-03-17 | [“リターンを求められないクリエイター支援”が生む「新しい価値」。<br>市原えつこ × クマ財団6期生座談会＜Sponsored＞](https://neutmagazine.com/interview_kumafoundation_2023) | NEUT Magazine (Japanese) |
+| 2022-12-08 | [SUPER CAST](https://zip-fm.co.jp/programs/6e68fe9e-29bd-49c0-aec6-ab27c7320248) | Radio (Japanese) |
+| 2021-12-24 | [オセロAIやルービックキューブAIのスーパークリエイター<br>山名琢翔(にゃにゃん)インタビュー｜みんなの勉強部屋](https://www.youtube.com/live/rAM499RwhpI?si=BIsVoAJVPNvTHtsv) | YouTube (Japanese) |
 
 ## Non-Award / Rejected
 
