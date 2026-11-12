@@ -50,7 +50,7 @@ None
 
 ## Magazine Articles
 
-- <u>Takuto Yamana</u>：[Is Othello Solved? Let's Make it Clear!](https://note.com/ipsj/n/n86f6dbfbfc7a), IPSJ Magazine, Vol. 65, No. 3, pp. 134-136 (2024-02-15)  {**Special Commentary**}
+- <u>Takuto Yamana</u>：[Is Othello Solved? Let's Make it Clear!](https://note.com/ipsj/n/n86f6dbfbfc7a), IPSJ Magazine, Vol. 65, No. 3, pp. 134-136 (2024-02-15)  {Published as a **Special Commentary**}
 - <u>Takuto Yamana</u>：[A Robot that Solves 2x2x2 Cube Puzzle in 2 Seconds](https://toragijr.cqpub.co.jp/magazine/no44/), Toragi Junior, 2021 Winter (No. 44), Transistor Gijutsu, 2021 February (2021-01-08)
 
 
