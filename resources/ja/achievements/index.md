@@ -7,27 +7,31 @@
 	<table>
 		<tbody>
 			<tr>
-				<th>年</th>
+				<th>年月</th>
 				<th>名称</th>
 			</tr>
             <tr>
-				<td>2026</td>
+				<td>2026-09</td>
 				<td><a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">筑波大学デザイン学学位プログラム</a>M2修了研究中間発表会 クリエイティビティ賞</td>
 			</tr>
 			<tr>
-				<td>2026</td>
+				<td>2026-09</td>
                 <td><a href="https://jssd.jp/12283" target="_blank" el="”noopener" noreferrer”="">日本デザイン学会第73回春期研究発表大会グッドプレゼンテーション賞</a></td>
 			</tr>
+            <tr>
+				<td>2026-06</td>
+                <td>オセロAI大会 3位 @<a href="https://skatgame.net/mburo/ggs/" target="_blank" el="”noopener" noreferrer”="">Generic Game Server</a></td>
+			</tr>
 			<tr>
-				<td>2026</td>
+				<td>2026-05</td>
                 <td><a href="https://www.transactions.games/cis-highlight/may-2026-cis-highlight-paper2" target="_blank" el="”noopener" noreferrer”="">IEEE Transactions on Games CIS Highlight Paper</a>選出</td>
 			</tr>
 			<tr>
-				<td>2026</td>
+				<td>2026-02</td>
 				<td><a href="https://www.geijutsu.tsukuba.ac.jp/dpd/" target="_blank" el="”noopener" noreferrer”="">筑波大学デザイン学学位プログラム</a>デザイン学特別演習1発表会 クリエイティビティ賞</td>
 			</tr>
 			<tr>
-				<td>2025</td>
+				<td>2025-11</td>
 				<td><a href="https://www.gi-ipsj.org/gpw/award.html" target="_blank" el="”noopener" noreferrer”="">ゲームプログラミングワークショップ ベストポスター賞</a></td>
 			</tr>
 			<tr>
@@ -105,6 +109,7 @@
 		</tbody>
 	</table>
 </div>
+
 
 
 
@@ -269,4 +274,3 @@
 		</tbody>
 	</table>
 </div>
-
