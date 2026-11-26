@@ -1,0 +1,6 @@
+#include "Resource.rc"
+
+Resource(ribbons/gold.png)
+Resource(ribbons/silver.png)
+Resource(ribbons/bronze.png)
+Resource(ribbons/blue.png)
