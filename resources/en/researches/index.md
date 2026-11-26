@@ -65,6 +65,8 @@ None
 
 ## Other Lectures & Presentations
 
+- <u>Takuto Yamana</u>: Reversi AI Is Hot Right Now!, [C++ MIX #19 (Building with C++ book launch)](https://cppmix.connpass.com/event/410708/) (Talk) (2026)
+  - [Slides](https://speakerdeck.com/nyanyan/20261119-ribashi-ai-ga-konatsu-i-c-mix-koukaiyou)
 - <u>Takuto Yamana</u>: The Future of Othello AI is Robots, [Yoriai.tech with mairu](https://yoriai-tech-1.connpass.com/event/383836/) (LT) (2026)
 - <u>Takuto Yamana</u>: Othello AI Recommended, わくわくLT会 Vol.2 (LT) (2025)
 - <u>Takuto Yamana</u>: Othello AI is Interesting, [新年LT](https://righteous-aragon-7f1.notion.site/LT-17065cba42a180a09dc2ea14444561fa) (LT) (2025)

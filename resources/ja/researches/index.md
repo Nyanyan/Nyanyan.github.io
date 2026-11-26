@@ -67,6 +67,8 @@
 
 ## その他講演・登壇
 
+- <u>山名琢翔</u>：リバーシ AI が今アツい！, [C++ MIX #19 『C++でつくる』発売記念](https://cppmix.connpass.com/event/410708/) (登壇) (2026)
+  - [発表資料](https://speakerdeck.com/nyanyan/20261119-ribashi-ai-ga-konatsu-i-c-mix-koukaiyou)
 - <u>山名琢翔</u>：オセロAIの未来は、ロボットだ, [Yoriai.tech with mairu](https://yoriai-tech-1.connpass.com/event/383836/) (登壇) (2026)
 - <u>山名琢翔</u>：オセロAIは、いいぞ。, わくわくLT会 Vol.2 (登壇) (2025)
 - <u>山名琢翔</u>：オセロAI制作が楽しい話, [新年LT](https://righteous-aragon-7f1.notion.site/LT-17065cba42a180a09dc2ea14444561fa) (登壇) (2025)
