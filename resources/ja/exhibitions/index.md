@@ -11,6 +11,9 @@
 ## アーカイブ
 
 HTML_TILE_BEGIN
+- 雙峰祭2026 OpenEsys 作品展示 (2026)
+  - ./sohosai_2026/
+  - img/sohosai_2026.jpg
 - Maker Faire Tokyo 2026 (2026)
   - ./maker_faire_tokyo_2026/
   - img/maker_faire_tokyo_2026.jpg

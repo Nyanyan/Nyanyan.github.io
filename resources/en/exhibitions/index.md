@@ -9,6 +9,9 @@
 ## Archive
 
 HTML_TILE_BEGIN
+- Sohosai 2026 OpenEsys Project Exhibition (2026)
+  - ./sohosai_2026/
+  - img/sohosai_2026.jpg
 - Maker Faire Tokyo 2026 (2026)
   - ./maker_faire_tokyo_2026/
   - img/maker_faire_tokyo_2026.jpg
